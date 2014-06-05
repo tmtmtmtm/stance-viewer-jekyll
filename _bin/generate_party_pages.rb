@@ -11,7 +11,8 @@ require 'stancer'
 @issues  = JSON.parse(File.read('_data/issues.yaml'))
 
 def stances(party)
-  @issues.take(1).map { |i|
+  @issues.map { |i|
+    warn "Calculating stance on #{i['text']}"
     stance = Stance.new( "party.id:#{party['id']}", Issue.new(i['id'])).score
     {
       "id"        => i['id'],
@@ -20,6 +21,8 @@ def stances(party)
       "score"     => stance[:score],
       "max_score" => stance[:max],
       "num_votes" => stance[:num_votes],
+      "weight"    => stance[:max].zero? ? 0 : stance[:score] / stance[:max],
+      
     }
   }
 end
