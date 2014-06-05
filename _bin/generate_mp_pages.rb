@@ -5,6 +5,7 @@
 require 'json'
 require 'yaml'
 require 'stancer'
+require 'parallel'
 
 @people  = JSON.parse(File.read('_data/people.yaml'))
 @parties = JSON.parse(File.read('_data/parties.yaml'))
@@ -28,7 +29,8 @@ def memberships(mp)
 end
 
 def stances(mp)
-  @issues.take(5).map { |i|
+  @issues.take(10).map { |i|
+    warn "Calculating #{mp['name']} stance on #{i['text']}"
     stance = Stance.new( "voter.id:#{mp['id']}", Issue.new(i['id'])).score
     {
       "id"        => i['id'],
@@ -44,11 +46,11 @@ def stances(mp)
   }
 end
 
+ppl = ARGV[0].nil? ? @people : @people.select { |mp| mp['id'] == ARGV[0] }
+warn "Operating on #{ppl.count} ppl"
 
-@people.each do |mp|
+Parallel.each(ppl, :in_threads => 10) do |mp|
   filename = "person/#{mp['id']}.md"
-  warn "Writing #{filename}"
-
   data = {
     "layout" => 'mp',
     "id" => mp['id'],
