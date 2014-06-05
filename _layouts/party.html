@@ -10,7 +10,7 @@ layout: default
   {% assign displayed = 0 %}
   {% for membership in person.memberships %}
     {% if membership.organization_id == page.id and displayed == 0 %}
-      <li>{{ person.name }}</li>
+      <li><a href="/person/{{person.id}}.html">{{ person.name }}</a></li>
       {% assign displayed = 1 %}
     {% endif %}
   {% endfor %}

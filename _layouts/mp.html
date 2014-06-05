@@ -1,0 +1,17 @@
+---
+layout: default
+---
+ 
+<h2>{{ page.name }}</h2>
+
+<h4>History:</h4>
+<ul>
+{% for person in site.data.people %}
+  {% if person.id == page.id %}
+    {% for membership in person.memberships %}
+    <li><a href="/party/{{membership.organization_id}}.html">{{ membership.organization_id }}</a> 
+      {{ membership.role }}</li>
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+</ul>
