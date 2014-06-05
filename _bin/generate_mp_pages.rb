@@ -28,7 +28,7 @@ def memberships(mp)
 end
 
 def stances(mp)
-  @issues.take(1).map { |i|
+  @issues.take(5).map { |i|
     stance = Stance.new( "voter.id:#{mp['id']}", Issue.new(i['id'])).score
     {
       "id"        => i['id'],
@@ -37,6 +37,9 @@ def stances(mp)
       "score"     => stance[:score],
       "max_score" => stance[:max],
       "num_votes" => stance[:num_votes],
+      # In this version, this is positive. TODO move this to the stancer
+      # and cope with negatives.
+      "weight"    => stance[:max].zero? ? 0 : stance[:score] / stance[:max] 
     }
   }
 end
