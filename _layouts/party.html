@@ -4,6 +4,14 @@ layout: default
  
 <h2>{{ page.name }}</h2>
 
+<h3>Stances</h3>
+<ul>
+  {% for stance in page.stances %}
+  <li>{{ stance.score }} / {{ stance.max_score }} on {{ stance.text }}</li>
+  {% endfor %}
+</ul>
+
+
 <h4>Members:</h4>
 <ul>
 {% for person in site.data.people %}
