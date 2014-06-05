@@ -4,7 +4,7 @@ class Issue
 
   @@datafile = 'stancer.json'
   #FIXME
-  @@issues = JSON.parse(File.read('data.json'))
+  @@issues = JSON.parse(File.read('_data/issues.yaml'))
 
   def initialize(id)
     @id = id
@@ -28,7 +28,8 @@ end
 
 class Stance
 
-  require 'open-uri'
+  require 'open-uri/cached'
+  OpenURI::Cache.cache_path = '/tmp/.open_uri_cache'
 
   @@SERVER = 'http://localhost:5000'
   @@API    = '/api/1'
@@ -49,6 +50,12 @@ class Stance
     weights = aspect['weights']
 
     agg_match = aggregate.detect { |a| a['motion_id'] == motionid }
+    return { 
+      num_votes: 0,
+      score: 0,
+      max: 0
+    } if agg_match.nil?
+
     votes     = agg_match['counts']
 
     # TODO test if this matches the results
@@ -75,7 +82,7 @@ class Stance
   end
 
   def aggregate_txt
-    open(aggregate_url).read
+    @agg_txt ||= open(aggregate_url).read
   end
 
   def aggregate_json
