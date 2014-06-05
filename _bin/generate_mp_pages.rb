@@ -29,7 +29,7 @@ def memberships(mp)
 end
 
 def stances(mp)
-  @issues.take(10).map { |i|
+  @issues.map { |i|
     warn "Calculating #{mp['name']} stance on #{i['text']}"
     stance = Stance.new( "voter.id:#{mp['id']}", Issue.new(i['id'])).score
     {
