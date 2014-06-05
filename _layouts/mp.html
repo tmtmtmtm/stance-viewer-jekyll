@@ -18,6 +18,6 @@ layout: default
 <h3>Stances:</h3>
 <ul>
   {% for stance in page.stances %}
-  <li>{{ stance.score }} / {{ stance.max_score }} on {{ stance.text }}</li>
+  <li>{% include stance.html score=stance.score max=stance.max_score text=stance.text %}
   {% endfor %}
 </ul>
