@@ -14,3 +14,10 @@ layout: default
     {% if membership.start or membership.end %}){% endif %}
   </li>{% endfor %}
 </ul>
+
+<h3>Stances:</h3>
+<ul>
+  {% for stance in page.stances %}
+  <li>{{ stance.score }} / {{ stance.max_score }} on {{ stance.text }}</li>
+  {% endfor %}
+</ul>
