@@ -6,7 +6,11 @@ layout: default
 
 <h4>History:</h4>
 <ul>
-  {% for membership in page.memberships %}
-  <li><a href="/party/{{membership.id}}.html">{{ membership.name }}</a> MP</li>
-  {% endfor %}
+  {% for membership in page.memberships %}<li><a href="/party/{{membership.id}}.html">{{ membership.name }}</a> 
+    {% if membership.start or membership.end %}({% endif %}
+    {% if membership.start %}{{ membership.start | date: "%Y" }}{% endif %}
+    {% if membership.start or membership.end %} – {% endif %}
+    {% if membership.end %}{{ membership.end | date: "%Y" }}{% endif %}
+    {% if membership.start or membership.end %}){% endif %}
+  </li>{% endfor %}
 </ul>
