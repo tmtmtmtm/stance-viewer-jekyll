@@ -1,2 +1,6 @@
 markdown: redcarpet
 pygments: false
+exclude: 
+  - lib/
+  - t/
+  - bin/

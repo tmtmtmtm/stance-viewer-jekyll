@@ -1,0 +1,18 @@
+---
+layout: default
+---
+ 
+<h2>{{ page.name }}</h2>
+
+<h4>Members:</h4>
+<ul>
+{% for person in site.data.people %}
+  {% assign displayed = 0 %}
+  {% for membership in person.memberships %}
+    {% if membership.organization_id == page.id and displayed == 0 %}
+      <li>{{ person.name }}</li>
+      {% assign displayed = 1 %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ul>
