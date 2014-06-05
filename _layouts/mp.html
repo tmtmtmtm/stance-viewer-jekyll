@@ -18,6 +18,6 @@ layout: default
 <h3>Stances:</h3>
 <ul>
   {% for stance in page.stances %}
-  <li>{% include stance.html score=stance.score max=stance.max_score text=stance.text %}
+  {% if stance.num_votes > 0 %}<li>{% include stance.html stance=stance %}</li>{% endif %}
   {% endfor %}
 </ul>
