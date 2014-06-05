@@ -1,7 +1,7 @@
 ---
 layout: party
 id: con
-name: Conservative Party
+title: Conservative Party
 stances:
 - id: PW-1027
   title: Referendum on the UK's membership of the EU — For

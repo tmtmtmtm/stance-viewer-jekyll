@@ -1,7 +1,7 @@
 ---
 layout: party
 id: pc
-name: Plaid Cymru
+title: Plaid Cymru
 stances:
 - id: PW-1027
   title: Referendum on the UK's membership of the EU — For

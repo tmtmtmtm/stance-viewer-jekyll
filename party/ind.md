@@ -1,7 +1,7 @@
 ---
 layout: party
 id: ind
-name: Independent
+title: Independent
 stances:
 - id: PW-1027
   title: Referendum on the UK's membership of the EU — For
