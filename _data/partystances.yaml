@@ -200,7 +200,8 @@
         "scores": {
           "num_votes": 19,
           "score": 40.0,
-          "max": 230
+          "max": 230,
+          "weight": 1
         }
       },
       {
@@ -208,7 +209,8 @@
         "scores": {
           "num_votes": 3,
           "score": 1.0,
-          "max": 30
+          "max": 30,
+          "weight": 1
         }
       },
       {
@@ -216,7 +218,8 @@
         "scores": {
           "num_votes": 5700,
           "score": 39384.0,
-          "max": 87960
+          "max": 87960,
+          "weight": 1
         }
       },
       {
@@ -224,7 +227,8 @@
         "scores": {
           "num_votes": 63,
           "score": 393.0,
-          "max": 990
+          "max": 990,
+          "weight": 1
         }
       },
       {
@@ -232,7 +236,8 @@
         "scores": {
           "num_votes": 18,
           "score": 149.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -240,7 +245,8 @@
         "scores": {
           "num_votes": 171,
           "score": 600.0,
-          "max": 2670
+          "max": 2670,
+          "weight": 1
         }
       },
       {
@@ -248,7 +254,8 @@
         "scores": {
           "num_votes": 18,
           "score": 65.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -256,7 +263,8 @@
         "scores": {
           "num_votes": 126,
           "score": 627.0,
-          "max": 1980
+          "max": 1980,
+          "weight": 1
         }
       },
       {
@@ -264,7 +272,8 @@
         "scores": {
           "num_votes": 104,
           "score": 440.0,
-          "max": 1600
+          "max": 1600,
+          "weight": 1
         }
       },
       {
@@ -272,7 +281,8 @@
         "scores": {
           "num_votes": 63,
           "score": 406.0,
-          "max": 990
+          "max": 990,
+          "weight": 1
         }
       },
       {
@@ -280,7 +290,8 @@
         "scores": {
           "num_votes": 1215,
           "score": 8046.0,
-          "max": 18990
+          "max": 18990,
+          "weight": 1
         }
       },
       {
@@ -288,7 +299,8 @@
         "scores": {
           "num_votes": 21,
           "score": 93.0,
-          "max": 330
+          "max": 330,
+          "weight": 1
         }
       },
       {
@@ -296,7 +308,8 @@
         "scores": {
           "num_votes": 6071,
           "score": 78283.0,
-          "max": 97390
+          "max": 97390,
+          "weight": 1
         }
       },
       {
@@ -304,7 +317,8 @@
         "scores": {
           "num_votes": 36,
           "score": 84.0,
-          "max": 480
+          "max": 480,
+          "weight": 1
         }
       },
       {
@@ -312,7 +326,8 @@
         "scores": {
           "num_votes": 9,
           "score": 9.0,
-          "max": 90
+          "max": 90,
+          "weight": 1
         }
       }
     ]
@@ -635,7 +650,8 @@
         "scores": {
           "num_votes": 12,
           "score": 50.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -643,7 +659,8 @@
         "scores": {
           "num_votes": 34,
           "score": 274.0,
-          "max": 740
+          "max": 740,
+          "weight": 1
         }
       },
       {
@@ -651,7 +668,8 @@
         "scores": {
           "num_votes": 204,
           "score": 1410.0,
-          "max": 4480
+          "max": 4480,
+          "weight": 1
         }
       },
       {
@@ -659,7 +677,8 @@
         "scores": {
           "num_votes": 11232,
           "score": 99852.0,
-          "max": 222600
+          "max": 222600,
+          "weight": 1
         }
       },
       {
@@ -667,7 +686,8 @@
         "scores": {
           "num_votes": 100,
           "score": 753.0,
-          "max": 1800
+          "max": 1800,
+          "weight": 1
         }
       },
       {
@@ -675,7 +695,8 @@
         "scores": {
           "num_votes": 109,
           "score": 611.0,
-          "max": 2290
+          "max": 2290,
+          "weight": 1
         }
       },
       {
@@ -683,7 +704,8 @@
         "scores": {
           "num_votes": 102,
           "score": 713.0,
-          "max": 2220
+          "max": 2220,
+          "weight": 1
         }
       },
       {
@@ -691,7 +713,8 @@
         "scores": {
           "num_votes": 263,
           "score": 2654.0,
-          "max": 5910
+          "max": 5910,
+          "weight": 1
         }
       },
       {
@@ -699,7 +722,8 @@
         "scores": {
           "num_votes": 159,
           "score": 1359.0,
-          "max": 3590
+          "max": 3590,
+          "weight": 1
         }
       },
       {
@@ -707,7 +731,8 @@
         "scores": {
           "num_votes": 1987,
           "score": 28277.0,
-          "max": 43150
+          "max": 43150,
+          "weight": 1
         }
       },
       {
@@ -715,7 +740,8 @@
         "scores": {
           "num_votes": 24,
           "score": 255.0,
-          "max": 640
+          "max": 640,
+          "weight": 1
         }
       },
       {
@@ -723,7 +749,8 @@
         "scores": {
           "num_votes": 66,
           "score": 210.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -731,7 +758,8 @@
         "scores": {
           "num_votes": 7710,
           "score": 138007.0,
-          "max": 190140
+          "max": 190140,
+          "weight": 1
         }
       },
       {
@@ -739,7 +767,8 @@
         "scores": {
           "num_votes": 62,
           "score": 134.0,
-          "max": 700
+          "max": 700,
+          "weight": 1
         }
       },
       {
@@ -747,7 +776,8 @@
         "scores": {
           "num_votes": 12,
           "score": 154.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -755,7 +785,8 @@
         "scores": {
           "num_votes": 8,
           "score": 120.0,
-          "max": 160
+          "max": 160,
+          "weight": 1
         }
       },
       {
@@ -763,7 +794,8 @@
         "scores": {
           "num_votes": 2,
           "score": 2.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       }
     ]
@@ -834,7 +866,8 @@
         "scores": {
           "num_votes": 24,
           "score": 216.0,
-          "max": 560
+          "max": 560,
+          "weight": 1
         }
       },
       {
@@ -842,7 +875,8 @@
         "scores": {
           "num_votes": 24,
           "score": 40.0,
-          "max": 560
+          "max": 560,
+          "weight": 1
         }
       },
       {
@@ -850,7 +884,8 @@
         "scores": {
           "num_votes": 18,
           "score": 162.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -858,7 +893,8 @@
         "scores": {
           "num_votes": 11,
           "score": 131.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -866,7 +902,8 @@
         "scores": {
           "num_votes": 979,
           "score": 19155.0,
-          "max": 22830
+          "max": 22830,
+          "weight": 1
         }
       },
       {
@@ -874,7 +911,8 @@
         "scores": {
           "num_votes": 6,
           "score": 54.0,
-          "max": 140
+          "max": 140,
+          "weight": 1
         }
       },
       {
@@ -882,7 +920,8 @@
         "scores": {
           "num_votes": 36,
           "score": 745.0,
-          "max": 840
+          "max": 840,
+          "weight": 1
         }
       },
       {
@@ -890,7 +929,8 @@
         "scores": {
           "num_votes": 318,
           "score": 105.0,
-          "max": 7420
+          "max": 7420,
+          "weight": 1
         }
       },
       {
@@ -898,7 +938,8 @@
         "scores": {
           "num_votes": 30,
           "score": 50.0,
-          "max": 700
+          "max": 700,
+          "weight": 1
         }
       },
       {
@@ -906,7 +947,8 @@
         "scores": {
           "num_votes": 18,
           "score": 106.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -914,7 +956,8 @@
         "scores": {
           "num_votes": 2460,
           "score": 36994.0,
-          "max": 57400
+          "max": 57400,
+          "weight": 1
         }
       },
       {
@@ -922,7 +965,8 @@
         "scores": {
           "num_votes": 30,
           "score": 600.0,
-          "max": 700
+          "max": 700,
+          "weight": 1
         }
       }
     ]
@@ -1002,7 +1046,8 @@
         "scores": {
           "num_votes": 2863,
           "score": 68961.0,
-          "max": 77630
+          "max": 77630,
+          "weight": 1
         }
       },
       {
@@ -1010,7 +1055,8 @@
         "scores": {
           "num_votes": 1144,
           "score": 2987.0,
-          "max": 31040
+          "max": 31040,
+          "weight": 1
         }
       },
       {
@@ -1018,7 +1064,8 @@
         "scores": {
           "num_votes": 21,
           "score": 237.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -1026,7 +1073,8 @@
         "scores": {
           "num_votes": 32,
           "score": 163.0,
-          "max": 880
+          "max": 880,
+          "weight": 1
         }
       },
       {
@@ -1034,7 +1082,8 @@
         "scores": {
           "num_votes": 373,
           "score": 6164.0,
-          "max": 10170
+          "max": 10170,
+          "weight": 1
         }
       },
       {
@@ -1042,7 +1091,8 @@
         "scores": {
           "num_votes": 36,
           "score": 340.0,
-          "max": 1000
+          "max": 1000,
+          "weight": 1
         }
       },
       {
@@ -1050,7 +1100,8 @@
         "scores": {
           "num_votes": 28,
           "score": 316.0,
-          "max": 760
+          "max": 760,
+          "weight": 1
         }
       },
       {
@@ -1058,7 +1109,8 @@
         "scores": {
           "num_votes": 7,
           "score": 79.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -1066,7 +1118,8 @@
         "scores": {
           "num_votes": 35,
           "score": 395.0,
-          "max": 950
+          "max": 950,
+          "weight": 1
         }
       },
       {
@@ -1074,7 +1127,8 @@
         "scores": {
           "num_votes": 21,
           "score": 237.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -1082,7 +1136,8 @@
         "scores": {
           "num_votes": 28,
           "score": 30.0,
-          "max": 760
+          "max": 760,
+          "weight": 1
         }
       },
       {
@@ -1090,7 +1145,8 @@
         "scores": {
           "num_votes": 21,
           "score": 115.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       }
     ]
@@ -1332,7 +1388,8 @@
         "scores": {
           "num_votes": 115,
           "score": 1483.0,
-          "max": 3430
+          "max": 3430,
+          "weight": 1
         }
       },
       {
@@ -1340,7 +1397,8 @@
         "scores": {
           "num_votes": 75,
           "score": 806.0,
-          "max": 2190
+          "max": 2190,
+          "weight": 1
         }
       },
       {
@@ -1348,7 +1406,8 @@
         "scores": {
           "num_votes": 1485,
           "score": 1292.0,
-          "max": 44050
+          "max": 44050,
+          "weight": 1
         }
       },
       {
@@ -1356,7 +1415,8 @@
         "scores": {
           "num_votes": 75,
           "score": 939.0,
-          "max": 2190
+          "max": 2190,
+          "weight": 1
         }
       },
       {
@@ -1364,7 +1424,8 @@
         "scores": {
           "num_votes": 205,
           "score": 1054.0,
-          "max": 6130
+          "max": 6130,
+          "weight": 1
         }
       },
       {
@@ -1372,7 +1433,8 @@
         "scores": {
           "num_votes": 25,
           "score": 313.0,
-          "max": 730
+          "max": 730,
+          "weight": 1
         }
       },
       {
@@ -1380,7 +1442,8 @@
         "scores": {
           "num_votes": 85,
           "score": 194.0,
-          "max": 2410
+          "max": 2410,
+          "weight": 1
         }
       },
       {
@@ -1388,7 +1451,8 @@
         "scores": {
           "num_votes": 140,
           "score": 186.0,
-          "max": 4160
+          "max": 4160,
+          "weight": 1
         }
       },
       {
@@ -1396,7 +1460,8 @@
         "scores": {
           "num_votes": 9379,
           "score": 234767.0,
-          "max": 269830
+          "max": 269830,
+          "weight": 1
         }
       },
       {
@@ -1404,7 +1469,8 @@
         "scores": {
           "num_votes": 4558,
           "score": 16610.0,
-          "max": 135620
+          "max": 135620,
+          "weight": 1
         }
       },
       {
@@ -1412,7 +1478,8 @@
         "scores": {
           "num_votes": 15,
           "score": 2.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       },
       {
@@ -1420,7 +1487,8 @@
         "scores": {
           "num_votes": 65,
           "score": 939.0,
-          "max": 1610
+          "max": 1610,
+          "weight": 1
         }
       },
       {
@@ -1428,7 +1496,8 @@
         "scores": {
           "num_votes": 56,
           "score": 141.0,
-          "max": 1560
+          "max": 1560,
+          "weight": 1
         }
       }
     ]
@@ -1616,7 +1685,8 @@
         "scores": {
           "num_votes": 45,
           "score": 43.0,
-          "max": 770
+          "max": 770,
+          "weight": 1
         }
       },
       {
@@ -1624,7 +1694,8 @@
         "scores": {
           "num_votes": 105,
           "score": 62.0,
-          "max": 1450
+          "max": 1450,
+          "weight": 1
         }
       },
       {
@@ -1632,7 +1703,8 @@
         "scores": {
           "num_votes": 70,
           "score": 502.0,
-          "max": 1420
+          "max": 1420,
+          "weight": 1
         }
       },
       {
@@ -1640,7 +1712,8 @@
         "scores": {
           "num_votes": 102,
           "score": 81.0,
-          "max": 2140
+          "max": 2140,
+          "weight": 1
         }
       },
       {
@@ -1648,7 +1721,8 @@
         "scores": {
           "num_votes": 57,
           "score": 94.0,
-          "max": 1050
+          "max": 1050,
+          "weight": 1
         }
       },
       {
@@ -1656,7 +1730,8 @@
         "scores": {
           "num_votes": 3379,
           "score": 32025.0,
-          "max": 71310
+          "max": 71310,
+          "weight": 1
         }
       },
       {
@@ -1664,7 +1739,8 @@
         "scores": {
           "num_votes": 101,
           "score": 44.0,
-          "max": 1890
+          "max": 1890,
+          "weight": 1
         }
       },
       {
@@ -1672,7 +1748,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -1680,7 +1757,8 @@
         "scores": {
           "num_votes": 1001,
           "score": 3708.0,
-          "max": 18890
+          "max": 18890,
+          "weight": 1
         }
       },
       {
@@ -1688,7 +1766,8 @@
         "scores": {
           "num_votes": 51,
           "score": 195.0,
-          "max": 750
+          "max": 750,
+          "weight": 1
         }
       },
       {
@@ -1696,7 +1775,8 @@
         "scores": {
           "num_votes": 19,
           "score": 115.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -1704,7 +1784,8 @@
         "scores": {
           "num_votes": 7473,
           "score": 82551.0,
-          "max": 127930
+          "max": 127930,
+          "weight": 1
         }
       },
       {
@@ -1712,7 +1793,8 @@
         "scores": {
           "num_votes": 74,
           "score": 149.0,
-          "max": 1300
+          "max": 1300,
+          "weight": 1
         }
       },
       {
@@ -1720,7 +1802,8 @@
         "scores": {
           "num_votes": 4,
           "score": 4.0,
-          "max": 40
+          "max": 40,
+          "weight": 1
         }
       },
       {
@@ -1728,7 +1811,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       }
     ]
@@ -2474,7 +2558,8 @@
         "scores": {
           "num_votes": 351,
           "score": 1335.0,
-          "max": 5150
+          "max": 5150,
+          "weight": 1
         }
       },
       {
@@ -2482,7 +2567,8 @@
         "scores": {
           "num_votes": 14148,
           "score": 37824.0,
-          "max": 207560
+          "max": 207560,
+          "weight": 1
         }
       },
       {
@@ -2490,7 +2576,8 @@
         "scores": {
           "num_votes": 438,
           "score": 725.0,
-          "max": 6420
+          "max": 6420,
+          "weight": 1
         }
       },
       {
@@ -2498,7 +2585,8 @@
         "scores": {
           "num_votes": 240,
           "score": 960.0,
-          "max": 3600
+          "max": 3600,
+          "weight": 1
         }
       },
       {
@@ -2506,7 +2594,8 @@
         "scores": {
           "num_votes": 31504,
           "score": 390243.0,
-          "max": 476280
+          "max": 476280,
+          "weight": 1
         }
       },
       {
@@ -2514,7 +2603,8 @@
         "scores": {
           "num_votes": 4584,
           "score": 4394.0,
-          "max": 67840
+          "max": 67840,
+          "weight": 1
         }
       },
       {
@@ -2522,7 +2612,8 @@
         "scores": {
           "num_votes": 81,
           "score": 321.0,
-          "max": 1210
+          "max": 1210,
+          "weight": 1
         }
       },
       {
@@ -2530,7 +2621,8 @@
         "scores": {
           "num_votes": 320,
           "score": 1417.0,
-          "max": 5120
+          "max": 5120,
+          "weight": 1
         }
       },
       {
@@ -2538,7 +2630,8 @@
         "scores": {
           "num_votes": 297,
           "score": 373.0,
-          "max": 4530
+          "max": 4530,
+          "weight": 1
         }
       },
       {
@@ -2546,7 +2639,8 @@
         "scores": {
           "num_votes": 566,
           "score": 2792.0,
-          "max": 8340
+          "max": 8340,
+          "weight": 1
         }
       },
       {
@@ -2554,7 +2648,8 @@
         "scores": {
           "num_votes": 243,
           "score": 1048.0,
-          "max": 3630
+          "max": 3630,
+          "weight": 1
         }
       },
       {
@@ -2562,7 +2657,8 @@
         "scores": {
           "num_votes": 204,
           "score": 636.0,
-          "max": 3080
+          "max": 3080,
+          "weight": 1
         }
       },
       {
@@ -2570,7 +2666,8 @@
         "scores": {
           "num_votes": 26,
           "score": 60.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -2578,7 +2675,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       },
       {
@@ -2586,7 +2684,8 @@
         "scores": {
           "num_votes": 1,
           "score": 1.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       }
     ]
@@ -3395,7 +3494,8 @@
         "scores": {
           "num_votes": 315,
           "score": 2157.0,
-          "max": 5910
+          "max": 5910,
+          "weight": 1
         }
       },
       {
@@ -3403,7 +3503,8 @@
         "scores": {
           "num_votes": 39,
           "score": 588.0,
-          "max": 1030
+          "max": 1030,
+          "weight": 1
         }
       },
       {
@@ -3411,7 +3512,8 @@
         "scores": {
           "num_votes": 264,
           "score": 2379.0,
-          "max": 5640
+          "max": 5640,
+          "weight": 1
         }
       },
       {
@@ -3419,7 +3521,8 @@
         "scores": {
           "num_votes": 753,
           "score": 4401.0,
-          "max": 15890
+          "max": 15890,
+          "weight": 1
         }
       },
       {
@@ -3427,7 +3530,8 @@
         "scores": {
           "num_votes": 39,
           "score": 464.0,
-          "max": 1030
+          "max": 1030,
+          "weight": 1
         }
       },
       {
@@ -3435,7 +3539,8 @@
         "scores": {
           "num_votes": 434,
           "score": 3386.0,
-          "max": 9260
+          "max": 9260,
+          "weight": 1
         }
       },
       {
@@ -3443,7 +3548,8 @@
         "scores": {
           "num_votes": 531,
           "score": 5371.0,
-          "max": 11350
+          "max": 11350,
+          "weight": 1
         }
       },
       {
@@ -3451,7 +3557,8 @@
         "scores": {
           "num_votes": 264,
           "score": 2917.0,
-          "max": 5640
+          "max": 5640,
+          "weight": 1
         }
       },
       {
@@ -3459,7 +3566,8 @@
         "scores": {
           "num_votes": 67,
           "score": 495.0,
-          "max": 1390
+          "max": 1390,
+          "weight": 1
         }
       },
       {
@@ -3467,7 +3575,8 @@
         "scores": {
           "num_votes": 5310,
           "score": 80033.0,
-          "max": 112260
+          "max": 112260,
+          "weight": 1
         }
       },
       {
@@ -3475,7 +3584,8 @@
         "scores": {
           "num_votes": 147,
           "score": 795.0,
-          "max": 2550
+          "max": 2550,
+          "weight": 1
         }
       },
       {
@@ -3483,7 +3593,8 @@
         "scores": {
           "num_votes": 21391,
           "score": 276553.0,
-          "max": 478990
+          "max": 478990,
+          "weight": 1
         }
       },
       {
@@ -3491,7 +3602,8 @@
         "scores": {
           "num_votes": 27276,
           "score": 359663.0,
-          "max": 564160
+          "max": 564160,
+          "weight": 1
         }
       },
       {
@@ -3499,7 +3611,8 @@
         "scores": {
           "num_votes": 88,
           "score": 688.0,
-          "max": 1880
+          "max": 1880,
+          "weight": 1
         }
       },
       {
@@ -3507,7 +3620,8 @@
         "scores": {
           "num_votes": 49,
           "score": 230.0,
-          "max": 850
+          "max": 850,
+          "weight": 1
         }
       },
       {
@@ -3515,7 +3629,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       }
     ]
@@ -3577,7 +3692,8 @@
         "scores": {
           "num_votes": 15,
           "score": 1.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       },
       {
@@ -3585,7 +3701,8 @@
         "scores": {
           "num_votes": 1750,
           "score": 51586.0,
-          "max": 59460
+          "max": 59460,
+          "weight": 1
         }
       },
       {
@@ -3593,7 +3710,8 @@
         "scores": {
           "num_votes": 5,
           "score": 77.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -3601,7 +3719,8 @@
         "scores": {
           "num_votes": 963,
           "score": 2168.0,
-          "max": 32750
+          "max": 32750,
+          "weight": 1
         }
       },
       {
@@ -3609,7 +3728,8 @@
         "scores": {
           "num_votes": 33,
           "score": 334.0,
-          "max": 1130
+          "max": 1130,
+          "weight": 1
         }
       },
       {
@@ -3617,7 +3737,8 @@
         "scores": {
           "num_votes": 45,
           "score": 487.0,
-          "max": 1530
+          "max": 1530,
+          "weight": 1
         }
       },
       {
@@ -3625,7 +3746,8 @@
         "scores": {
           "num_votes": 25,
           "score": 385.0,
-          "max": 850
+          "max": 850,
+          "weight": 1
         }
       },
       {
@@ -3633,7 +3755,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -3641,7 +3764,8 @@
         "scores": {
           "num_votes": 315,
           "score": 1201.0,
-          "max": 10710
+          "max": 10710,
+          "weight": 1
         }
       },
       {
@@ -3649,7 +3773,8 @@
         "scores": {
           "num_votes": 5,
           "score": 51.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -3657,7 +3782,8 @@
         "scores": {
           "num_votes": 15,
           "score": 128.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       },
       {
@@ -3665,7 +3791,8 @@
         "scores": {
           "num_votes": 15,
           "score": 231.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       },
       {
@@ -3673,7 +3800,8 @@
         "scores": {
           "num_votes": 5,
           "score": 77.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -3681,7 +3809,8 @@
         "scores": {
           "num_votes": 33,
           "score": 225.0,
-          "max": 1130
+          "max": 1130,
+          "weight": 1
         }
       }
     ]
@@ -4022,7 +4151,8 @@
         "scores": {
           "num_votes": 36,
           "score": 396.0,
-          "max": 960
+          "max": 960,
+          "weight": 1
         }
       },
       {
@@ -4030,7 +4160,8 @@
         "scores": {
           "num_votes": 248,
           "score": 3820.0,
-          "max": 7040
+          "max": 7040,
+          "weight": 1
         }
       },
       {
@@ -4038,7 +4169,8 @@
         "scores": {
           "num_votes": 66,
           "score": 426.0,
-          "max": 1260
+          "max": 1260,
+          "weight": 1
         }
       },
       {
@@ -4046,7 +4178,8 @@
         "scores": {
           "num_votes": 46,
           "score": 418.0,
-          "max": 1140
+          "max": 1140,
+          "weight": 1
         }
       },
       {
@@ -4054,7 +4187,8 @@
         "scores": {
           "num_votes": 100,
           "score": 623.0,
-          "max": 1760
+          "max": 1760,
+          "weight": 1
         }
       },
       {
@@ -4062,7 +4196,8 @@
         "scores": {
           "num_votes": 211,
           "score": 2359.0,
-          "max": 5670
+          "max": 5670,
+          "weight": 1
         }
       },
       {
@@ -4070,7 +4205,8 @@
         "scores": {
           "num_votes": 154,
           "score": 1786.0,
-          "max": 4260
+          "max": 4260,
+          "weight": 1
         }
       },
       {
@@ -4078,7 +4214,8 @@
         "scores": {
           "num_votes": 108,
           "score": 1115.0,
-          "max": 2880
+          "max": 2880,
+          "weight": 1
         }
       },
       {
@@ -4086,7 +4223,8 @@
         "scores": {
           "num_votes": 14,
           "score": 51.0,
-          "max": 540
+          "max": 540,
+          "weight": 1
         }
       },
       {
@@ -4094,7 +4232,8 @@
         "scores": {
           "num_votes": 119,
           "score": 1332.0,
-          "max": 3070
+          "max": 3070,
+          "weight": 1
         }
       },
       {
@@ -4102,7 +4241,8 @@
         "scores": {
           "num_votes": 2033,
           "score": 35732.0,
-          "max": 54650
+          "max": 54650,
+          "weight": 1
         }
       },
       {
@@ -4110,7 +4250,8 @@
         "scores": {
           "num_votes": 8221,
           "score": 190620.0,
-          "max": 241090
+          "max": 241090,
+          "weight": 1
         }
       },
       {
@@ -4118,7 +4259,8 @@
         "scores": {
           "num_votes": 12039,
           "score": 138519.0,
-          "max": 298870
+          "max": 298870,
+          "weight": 1
         }
       },
       {
@@ -4126,7 +4268,8 @@
         "scores": {
           "num_votes": 14,
           "score": 151.0,
-          "max": 540
+          "max": 540,
+          "weight": 1
         }
       },
       {
@@ -4134,7 +4277,8 @@
         "scores": {
           "num_votes": 11,
           "score": 57.0,
-          "max": 230
+          "max": 230,
+          "weight": 1
         }
       },
       {
@@ -4142,7 +4286,8 @@
         "scores": {
           "num_votes": 6,
           "score": 30.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       }
     ]
@@ -4267,7 +4412,8 @@
         "scores": {
           "num_votes": 626,
           "score": 12485.0,
-          "max": 16860
+          "max": 16860,
+          "weight": 1
         }
       },
       {
@@ -4275,7 +4421,8 @@
         "scores": {
           "num_votes": 41,
           "score": 473.0,
-          "max": 1130
+          "max": 1130,
+          "weight": 1
         }
       },
       {
@@ -4283,7 +4430,8 @@
         "scores": {
           "num_votes": 6,
           "score": 54.0,
-          "max": 140
+          "max": 140,
+          "weight": 1
         }
       },
       {
@@ -4291,7 +4439,8 @@
         "scores": {
           "num_votes": 2443,
           "score": 19868.0,
-          "max": 63990
+          "max": 63990,
+          "weight": 1
         }
       },
       {
@@ -4299,7 +4448,8 @@
         "scores": {
           "num_votes": 71,
           "score": 1340.0,
-          "max": 1870
+          "max": 1870,
+          "weight": 1
         }
       },
       {
@@ -4307,7 +4457,8 @@
         "scores": {
           "num_votes": 43,
           "score": 821.0,
-          "max": 1150
+          "max": 1150,
+          "weight": 1
         }
       },
       {
@@ -4315,7 +4466,8 @@
         "scores": {
           "num_votes": 59,
           "score": 442.0,
-          "max": 1630
+          "max": 1630,
+          "weight": 1
         }
       },
       {
@@ -4323,7 +4475,8 @@
         "scores": {
           "num_votes": 12,
           "score": 132.0,
-          "max": 320
+          "max": 320,
+          "weight": 1
         }
       },
       {
@@ -4331,7 +4484,8 @@
         "scores": {
           "num_votes": 27,
           "score": 315.0,
-          "max": 790
+          "max": 790,
+          "weight": 1
         }
       },
       {
@@ -4339,7 +4493,8 @@
         "scores": {
           "num_votes": 27,
           "score": 315.0,
-          "max": 750
+          "max": 750,
+          "weight": 1
         }
       },
       {
@@ -4347,7 +4502,8 @@
         "scores": {
           "num_votes": 4,
           "score": 86.0,
-          "max": 120
+          "max": 120,
+          "weight": 1
         }
       },
       {
@@ -4355,7 +4511,8 @@
         "scores": {
           "num_votes": 36,
           "score": 470.0,
-          "max": 960
+          "max": 960,
+          "weight": 1
         }
       },
       {
@@ -4363,7 +4520,8 @@
         "scores": {
           "num_votes": 4386,
           "score": 95589.0,
-          "max": 117940
+          "max": 117940,
+          "weight": 1
         }
       },
       {
@@ -4371,7 +4529,8 @@
         "scores": {
           "num_votes": 65,
           "score": 464.0,
-          "max": 1610
+          "max": 1610,
+          "weight": 1
         }
       },
       {
@@ -4379,7 +4538,8 @@
         "scores": {
           "num_votes": 3,
           "score": 52.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       },
       {
@@ -4387,7 +4547,8 @@
         "scores": {
           "num_votes": 3,
           "score": 50.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       }
     ]
@@ -4476,7 +4637,8 @@
         "scores": {
           "num_votes": 457,
           "score": 5960.0,
-          "max": 6850
+          "max": 6850,
+          "weight": 1
         }
       },
       {
@@ -4484,7 +4646,8 @@
         "scores": {
           "num_votes": 37,
           "score": 157.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -4492,7 +4655,8 @@
         "scores": {
           "num_votes": 50,
           "score": 222.0,
-          "max": 740
+          "max": 740,
+          "weight": 1
         }
       },
       {
@@ -4500,7 +4664,8 @@
         "scores": {
           "num_votes": 58,
           "score": 414.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -4508,7 +4673,8 @@
         "scores": {
           "num_votes": 9,
           "score": 9.0,
-          "max": 90
+          "max": 90,
+          "weight": 1
         }
       },
       {
@@ -4516,7 +4682,8 @@
         "scores": {
           "num_votes": 24,
           "score": 43.0,
-          "max": 360
+          "max": 360,
+          "weight": 1
         }
       },
       {
@@ -4524,7 +4691,8 @@
         "scores": {
           "num_votes": 2078,
           "score": 27702.0,
-          "max": 33020
+          "max": 33020,
+          "weight": 1
         }
       },
       {
@@ -4532,7 +4700,8 @@
         "scores": {
           "num_votes": 8,
           "score": 32.0,
-          "max": 120
+          "max": 120,
+          "weight": 1
         }
       },
       {
@@ -4540,7 +4709,8 @@
         "scores": {
           "num_votes": 25,
           "score": 115.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -4548,7 +4718,8 @@
         "scores": {
           "num_votes": 12,
           "score": 24.0,
-          "max": 120
+          "max": 120,
+          "weight": 1
         }
       },
       {
@@ -4556,7 +4727,8 @@
         "scores": {
           "num_votes": 5,
           "score": 13.0,
-          "max": 90
+          "max": 90,
+          "weight": 1
         }
       },
       {
@@ -4564,7 +4736,8 @@
         "scores": {
           "num_votes": 5,
           "score": 30.0,
-          "max": 90
+          "max": 90,
+          "weight": 1
         }
       },
       {
@@ -4572,7 +4745,8 @@
         "scores": {
           "num_votes": 2404,
           "score": 18021.0,
-          "max": 34360
+          "max": 34360,
+          "weight": 1
         }
       },
       {
@@ -4580,7 +4754,8 @@
         "scores": {
           "num_votes": 22,
           "score": 97.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -4588,7 +4763,8 @@
         "scores": {
           "num_votes": 2,
           "score": 1.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       },
       {
@@ -4596,7 +4772,8 @@
         "scores": {
           "num_votes": 1,
           "score": 1.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       }
     ]
@@ -4838,7 +5015,8 @@
         "scores": {
           "num_votes": 4306,
           "score": 34160.0,
-          "max": 76980
+          "max": 76980,
+          "weight": 1
         }
       },
       {
@@ -4846,7 +5024,8 @@
         "scores": {
           "num_votes": 70,
           "score": 484.0,
-          "max": 1460
+          "max": 1460,
+          "weight": 1
         }
       },
       {
@@ -4854,7 +5033,8 @@
         "scores": {
           "num_votes": 75,
           "score": 467.0,
-          "max": 1350
+          "max": 1350,
+          "weight": 1
         }
       },
       {
@@ -4862,7 +5042,8 @@
         "scores": {
           "num_votes": 107,
           "score": 611.0,
-          "max": 1910
+          "max": 1910,
+          "weight": 1
         }
       },
       {
@@ -4870,7 +5051,8 @@
         "scores": {
           "num_votes": 9838,
           "score": 145716.0,
-          "max": 177900
+          "max": 177900,
+          "weight": 1
         }
       },
       {
@@ -4878,7 +5060,8 @@
         "scores": {
           "num_votes": 7,
           "score": 2.0,
-          "max": 110
+          "max": 110,
+          "weight": 1
         }
       },
       {
@@ -4886,7 +5069,8 @@
         "scores": {
           "num_votes": 1398,
           "score": 1979.0,
-          "max": 25060
+          "max": 25060,
+          "weight": 1
         }
       },
       {
@@ -4894,7 +5078,8 @@
         "scores": {
           "num_votes": 158,
           "score": 1340.0,
-          "max": 2780
+          "max": 2780,
+          "weight": 1
         }
       },
       {
@@ -4902,7 +5087,8 @@
         "scores": {
           "num_votes": 132,
           "score": 225.0,
-          "max": 2360
+          "max": 2360,
+          "weight": 1
         }
       },
       {
@@ -4910,7 +5096,8 @@
         "scores": {
           "num_votes": 98,
           "score": 706.0,
-          "max": 1700
+          "max": 1700,
+          "weight": 1
         }
       },
       {
@@ -4918,7 +5105,8 @@
         "scores": {
           "num_votes": 75,
           "score": 435.0,
-          "max": 1350
+          "max": 1350,
+          "weight": 1
         }
       },
       {
@@ -4926,7 +5114,8 @@
         "scores": {
           "num_votes": 93,
           "score": 134.0,
-          "max": 1690
+          "max": 1690,
+          "weight": 1
         }
       },
       {
@@ -4934,7 +5123,8 @@
         "scores": {
           "num_votes": 25,
           "score": 145.0,
-          "max": 450
+          "max": 450,
+          "weight": 1
         }
       }
     ]
@@ -5005,7 +5195,8 @@
         "scores": {
           "num_votes": 360,
           "score": 8260.0,
-          "max": 10680
+          "max": 10680,
+          "weight": 1
         }
       },
       {
@@ -5013,7 +5204,8 @@
         "scores": {
           "num_votes": 3,
           "score": 27.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       },
       {
@@ -5021,7 +5213,8 @@
         "scores": {
           "num_votes": 30,
           "score": 390.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -5029,7 +5222,8 @@
         "scores": {
           "num_votes": 1496,
           "score": 32941.0,
-          "max": 47160
+          "max": 47160,
+          "weight": 1
         }
       },
       {
@@ -5037,7 +5231,8 @@
         "scores": {
           "num_votes": 24,
           "score": 300.0,
-          "max": 600
+          "max": 600,
+          "weight": 1
         }
       },
       {
@@ -5045,7 +5240,8 @@
         "scores": {
           "num_votes": 38,
           "score": 329.0,
-          "max": 1140
+          "max": 1140,
+          "weight": 1
         }
       },
       {
@@ -5053,7 +5249,8 @@
         "scores": {
           "num_votes": 3,
           "score": 0.0,
-          "max": 110
+          "max": 110,
+          "weight": 1
         }
       },
       {
@@ -5061,7 +5258,8 @@
         "scores": {
           "num_votes": 51,
           "score": 563.0,
-          "max": 1510
+          "max": 1510,
+          "weight": 1
         }
       },
       {
@@ -5069,7 +5267,8 @@
         "scores": {
           "num_votes": 1824,
           "score": 24403.0,
-          "max": 52840
+          "max": 52840,
+          "weight": 1
         }
       },
       {
@@ -5077,7 +5276,8 @@
         "scores": {
           "num_votes": 18,
           "score": 182.0,
-          "max": 540
+          "max": 540,
+          "weight": 1
         }
       },
       {
@@ -5085,7 +5285,8 @@
         "scores": {
           "num_votes": 18,
           "score": 151.0,
-          "max": 540
+          "max": 540,
+          "weight": 1
         }
       },
       {
@@ -5093,7 +5294,8 @@
         "scores": {
           "num_votes": 3,
           "score": 26.0,
-          "max": 110
+          "max": 110,
+          "weight": 1
         }
       },
       {
@@ -5101,7 +5303,8 @@
         "scores": {
           "num_votes": 3,
           "score": 52.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       },
       {
@@ -5109,7 +5312,8 @@
         "scores": {
           "num_votes": 9,
           "score": 81.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       },
       {
@@ -5117,7 +5321,8 @@
         "scores": {
           "num_votes": 6,
           "score": 78.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       }
     ]
@@ -5197,7 +5402,8 @@
         "scores": {
           "num_votes": 1522,
           "score": 20933.0,
-          "max": 35180
+          "max": 35180,
+          "weight": 1
         }
       },
       {
@@ -5205,7 +5411,8 @@
         "scores": {
           "num_votes": 23,
           "score": 293.0,
-          "max": 470
+          "max": 470,
+          "weight": 1
         }
       },
       {
@@ -5213,7 +5420,8 @@
         "scores": {
           "num_votes": 14,
           "score": 40.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       },
       {
@@ -5221,7 +5429,8 @@
         "scores": {
           "num_votes": 2386,
           "score": 28068.0,
-          "max": 48140
+          "max": 48140,
+          "weight": 1
         }
       },
       {
@@ -5229,7 +5438,8 @@
         "scores": {
           "num_votes": 33,
           "score": 273.0,
-          "max": 730
+          "max": 730,
+          "weight": 1
         }
       },
       {
@@ -5237,7 +5447,8 @@
         "scores": {
           "num_votes": 410,
           "score": 5685.0,
-          "max": 8900
+          "max": 8900,
+          "weight": 1
         }
       },
       {
@@ -5245,7 +5456,8 @@
         "scores": {
           "num_votes": 15,
           "score": 87.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -5253,7 +5465,8 @@
         "scores": {
           "num_votes": 53,
           "score": 626.0,
-          "max": 1170
+          "max": 1170,
+          "weight": 1
         }
       },
       {
@@ -5261,7 +5474,8 @@
         "scores": {
           "num_votes": 21,
           "score": 278.0,
-          "max": 530
+          "max": 530,
+          "weight": 1
         }
       },
       {
@@ -5269,7 +5483,8 @@
         "scores": {
           "num_votes": 21,
           "score": 182.0,
-          "max": 450
+          "max": 450,
+          "weight": 1
         }
       },
       {
@@ -5277,7 +5492,8 @@
         "scores": {
           "num_votes": 41,
           "score": 510.0,
-          "max": 930
+          "max": 930,
+          "weight": 1
         }
       },
       {
@@ -5285,7 +5501,8 @@
         "scores": {
           "num_votes": 2,
           "score": 50.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -5293,7 +5510,8 @@
         "scores": {
           "num_votes": 2,
           "score": 51.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -5301,7 +5519,8 @@
         "scores": {
           "num_votes": 7,
           "score": 55.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -5309,7 +5528,8 @@
         "scores": {
           "num_votes": 3,
           "score": 27.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       }
     ]
@@ -5560,7 +5780,8 @@
         "scores": {
           "num_votes": 25,
           "score": 185.0,
-          "max": 610
+          "max": 610,
+          "weight": 1
         }
       },
       {
@@ -5568,7 +5789,8 @@
         "scores": {
           "num_votes": 32,
           "score": 365.0,
-          "max": 960
+          "max": 960,
+          "weight": 1
         }
       },
       {
@@ -5576,7 +5798,8 @@
         "scores": {
           "num_votes": 25,
           "score": 5.0,
-          "max": 610
+          "max": 610,
+          "weight": 1
         }
       },
       {
@@ -5584,7 +5807,8 @@
         "scores": {
           "num_votes": 7841,
           "score": 172583.0,
-          "max": 196250
+          "max": 196250,
+          "weight": 1
         }
       },
       {
@@ -5592,7 +5816,8 @@
         "scores": {
           "num_votes": 209,
           "score": 1073.0,
-          "max": 5330
+          "max": 5330,
+          "weight": 1
         }
       },
       {
@@ -5600,7 +5825,8 @@
         "scores": {
           "num_votes": 157,
           "score": 676.0,
-          "max": 4010
+          "max": 4010,
+          "weight": 1
         }
       },
       {
@@ -5608,7 +5834,8 @@
         "scores": {
           "num_votes": 78,
           "score": 451.0,
-          "max": 1980
+          "max": 1980,
+          "weight": 1
         }
       },
       {
@@ -5616,7 +5843,8 @@
         "scores": {
           "num_votes": 26,
           "score": 266.0,
-          "max": 660
+          "max": 660,
+          "weight": 1
         }
       },
       {
@@ -5624,7 +5852,8 @@
         "scores": {
           "num_votes": 6787,
           "score": 36030.0,
-          "max": 174590
+          "max": 174590,
+          "weight": 1
         }
       },
       {
@@ -5632,7 +5861,8 @@
         "scores": {
           "num_votes": 1488,
           "score": 30711.0,
-          "max": 37920
+          "max": 37920,
+          "weight": 1
         }
       },
       {
@@ -5640,7 +5870,8 @@
         "scores": {
           "num_votes": 78,
           "score": 308.0,
-          "max": 1980
+          "max": 1980,
+          "weight": 1
         }
       },
       {
@@ -5648,7 +5879,8 @@
         "scores": {
           "num_votes": 130,
           "score": 1330.0,
-          "max": 3300
+          "max": 3300,
+          "weight": 1
         }
       },
       {
@@ -5656,7 +5888,8 @@
         "scores": {
           "num_votes": 8,
           "score": 80.0,
-          "max": 200
+          "max": 200,
+          "weight": 1
         }
       },
       {
@@ -5664,7 +5897,8 @@
         "scores": {
           "num_votes": 3,
           "score": 75.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -5672,7 +5906,8 @@
         "scores": {
           "num_votes": 1,
           "score": 25.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       }
     ]
@@ -5824,7 +6059,8 @@
         "scores": {
           "num_votes": 90,
           "score": 447.0,
-          "max": 2820
+          "max": 2820,
+          "weight": 1
         }
       },
       {
@@ -5832,7 +6068,8 @@
         "scores": {
           "num_votes": 15,
           "score": 155.0,
-          "max": 470
+          "max": 470,
+          "weight": 1
         }
       },
       {
@@ -5840,7 +6077,8 @@
         "scores": {
           "num_votes": 70,
           "score": 958.0,
-          "max": 2180
+          "max": 2180,
+          "weight": 1
         }
       },
       {
@@ -5848,7 +6086,8 @@
         "scores": {
           "num_votes": 15,
           "score": 207.0,
-          "max": 470
+          "max": 470,
+          "weight": 1
         }
       },
       {
@@ -5856,7 +6095,8 @@
         "scores": {
           "num_votes": 15,
           "score": 162.0,
-          "max": 470
+          "max": 470,
+          "weight": 1
         }
       },
       {
@@ -5864,7 +6104,8 @@
         "scores": {
           "num_votes": 45,
           "score": 442.0,
-          "max": 1410
+          "max": 1410,
+          "weight": 1
         }
       },
       {
@@ -5872,7 +6113,8 @@
         "scores": {
           "num_votes": 45,
           "score": 302.0,
-          "max": 1410
+          "max": 1410,
+          "weight": 1
         }
       },
       {
@@ -5880,7 +6122,8 @@
         "scores": {
           "num_votes": 855,
           "score": 24709.0,
-          "max": 26790
+          "max": 26790,
+          "weight": 1
         }
       },
       {
@@ -5888,7 +6131,8 @@
         "scores": {
           "num_votes": 4589,
           "score": 120044.0,
-          "max": 143770
+          "max": 143770,
+          "weight": 1
         }
       },
       {
@@ -5896,7 +6140,8 @@
         "scores": {
           "num_votes": 1,
           "score": 50.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -5904,7 +6149,8 @@
         "scores": {
           "num_votes": 3866,
           "score": 19580.0,
-          "max": 121140
+          "max": 121140,
+          "weight": 1
         }
       },
       {
@@ -5912,7 +6158,8 @@
         "scores": {
           "num_votes": 15,
           "score": 123.0,
-          "max": 470
+          "max": 470,
+          "weight": 1
         }
       },
       {
@@ -5920,7 +6167,8 @@
         "scores": {
           "num_votes": 120,
           "score": 966.0,
-          "max": 3760
+          "max": 3760,
+          "weight": 1
         }
       }
     ]
@@ -5982,7 +6230,8 @@
         "scores": {
           "num_votes": 1290,
           "score": 4200.0,
-          "max": 64500
+          "max": 64500,
+          "weight": 1
         }
       },
       {
@@ -5990,7 +6239,8 @@
         "scores": {
           "num_votes": 5,
           "score": 125.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -5998,7 +6248,8 @@
         "scores": {
           "num_votes": 30,
           "score": 200.0,
-          "max": 1500
+          "max": 1500,
+          "weight": 1
         }
       },
       {
@@ -6006,7 +6257,8 @@
         "scores": {
           "num_votes": 15,
           "score": 125.0,
-          "max": 750
+          "max": 750,
+          "weight": 1
         }
       },
       {
@@ -6014,7 +6266,8 @@
         "scores": {
           "num_votes": 5,
           "score": 0.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -6022,7 +6275,8 @@
         "scores": {
           "num_votes": 25,
           "score": 625.0,
-          "max": 1250
+          "max": 1250,
+          "weight": 1
         }
       },
       {
@@ -6030,7 +6284,8 @@
         "scores": {
           "num_votes": 285,
           "score": 12075.0,
-          "max": 14250
+          "max": 14250,
+          "weight": 1
         }
       },
       {
@@ -6038,7 +6293,8 @@
         "scores": {
           "num_votes": 5,
           "score": 50.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -6046,7 +6302,8 @@
         "scores": {
           "num_votes": 5,
           "score": 125.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -6054,7 +6311,8 @@
         "scores": {
           "num_votes": 1530,
           "score": 72675.0,
-          "max": 76500
+          "max": 76500,
+          "weight": 1
         }
       },
       {
@@ -6062,7 +6320,8 @@
         "scores": {
           "num_votes": 15,
           "score": 125.0,
-          "max": 750
+          "max": 750,
+          "weight": 1
         }
       },
       {
@@ -6070,7 +6329,8 @@
         "scores": {
           "num_votes": 40,
           "score": 300.0,
-          "max": 2000
+          "max": 2000,
+          "weight": 1
         }
       }
     ]
@@ -6114,7 +6374,8 @@
         "scores": {
           "num_votes": 9,
           "score": 147.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       },
       {
@@ -6122,7 +6383,8 @@
         "scores": {
           "num_votes": 2,
           "score": 11.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       },
       {
@@ -6130,7 +6392,8 @@
         "scores": {
           "num_votes": 864,
           "score": 15044.0,
-          "max": 22600
+          "max": 22600,
+          "weight": 1
         }
       },
       {
@@ -6138,7 +6401,8 @@
         "scores": {
           "num_votes": 3,
           "score": 75.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6146,7 +6410,8 @@
         "scores": {
           "num_votes": 177,
           "score": 3012.0,
-          "max": 4290
+          "max": 4290,
+          "weight": 1
         }
       },
       {
@@ -6154,7 +6419,8 @@
         "scores": {
           "num_votes": 9,
           "score": 227.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -6162,7 +6428,8 @@
         "scores": {
           "num_votes": 3,
           "score": 27.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       },
       {
@@ -6170,7 +6437,8 @@
         "scores": {
           "num_votes": 1,
           "score": 25.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -6178,7 +6446,8 @@
         "scores": {
           "num_votes": 805,
           "score": 8759.0,
-          "max": 15770
+          "max": 15770,
+          "weight": 1
         }
       },
       {
@@ -6186,7 +6455,8 @@
         "scores": {
           "num_votes": 2,
           "score": 10.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       },
       {
@@ -6194,7 +6464,8 @@
         "scores": {
           "num_votes": 15,
           "score": 135.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -6202,7 +6473,8 @@
         "scores": {
           "num_votes": 24,
           "score": 286.0,
-          "max": 560
+          "max": 560,
+          "weight": 1
         }
       },
       {
@@ -6210,7 +6482,8 @@
         "scores": {
           "num_votes": 19,
           "score": 226.0,
-          "max": 470
+          "max": 470,
+          "weight": 1
         }
       },
       {
@@ -6218,7 +6491,8 @@
         "scores": {
           "num_votes": 1,
           "score": 25.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -6226,7 +6500,8 @@
         "scores": {
           "num_votes": 9,
           "score": 80.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       }
     ]
@@ -6252,7 +6527,8 @@
         "scores": {
           "num_votes": 3,
           "score": 0.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6260,7 +6536,8 @@
         "scores": {
           "num_votes": 8,
           "score": 25.0,
-          "max": 400
+          "max": 400,
+          "weight": 1
         }
       },
       {
@@ -6268,7 +6545,8 @@
         "scores": {
           "num_votes": 306,
           "score": 14925.0,
-          "max": 15300
+          "max": 15300,
+          "weight": 1
         }
       },
       {
@@ -6276,7 +6554,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -6284,7 +6563,8 @@
         "scores": {
           "num_votes": 1,
           "score": 25.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -6292,7 +6572,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -6300,7 +6581,8 @@
         "scores": {
           "num_votes": 3,
           "score": 0.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6308,7 +6590,8 @@
         "scores": {
           "num_votes": 257,
           "score": 50.0,
-          "max": 12850
+          "max": 12850,
+          "weight": 1
         }
       },
       {
@@ -6316,7 +6599,8 @@
         "scores": {
           "num_votes": 5,
           "score": 125.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -6324,7 +6608,8 @@
         "scores": {
           "num_votes": 6,
           "score": 0.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -6332,7 +6617,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -6340,7 +6626,8 @@
         "scores": {
           "num_votes": 57,
           "score": 1600.0,
-          "max": 2850
+          "max": 2850,
+          "weight": 1
         }
       }
     ]
@@ -6420,7 +6707,8 @@
         "scores": {
           "num_votes": 7,
           "score": 64.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6428,7 +6716,8 @@
         "scores": {
           "num_votes": 21,
           "score": 214.0,
-          "max": 450
+          "max": 450,
+          "weight": 1
         }
       },
       {
@@ -6436,7 +6725,8 @@
         "scores": {
           "num_votes": 1806,
           "score": 14562.0,
-          "max": 38700
+          "max": 38700,
+          "weight": 1
         }
       },
       {
@@ -6444,7 +6734,8 @@
         "scores": {
           "num_votes": 34,
           "score": 250.0,
-          "max": 700
+          "max": 700,
+          "weight": 1
         }
       },
       {
@@ -6452,7 +6743,8 @@
         "scores": {
           "num_votes": 7,
           "score": 55.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6460,7 +6752,8 @@
         "scores": {
           "num_votes": 21,
           "score": 287.0,
-          "max": 450
+          "max": 450,
+          "weight": 1
         }
       },
       {
@@ -6468,7 +6761,8 @@
         "scores": {
           "num_votes": 2141,
           "score": 28700.0,
-          "max": 45850
+          "max": 45850,
+          "weight": 1
         }
       },
       {
@@ -6476,7 +6770,8 @@
         "scores": {
           "num_votes": 42,
           "score": 419.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -6484,7 +6779,8 @@
         "scores": {
           "num_votes": 7,
           "score": 80.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6492,7 +6788,8 @@
         "scores": {
           "num_votes": 7,
           "score": 62.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -6500,7 +6797,8 @@
         "scores": {
           "num_votes": 56,
           "score": 440.0,
-          "max": 1200
+          "max": 1200,
+          "weight": 1
         }
       },
       {
@@ -6508,7 +6806,8 @@
         "scores": {
           "num_votes": 399,
           "score": 8110.0,
-          "max": 8550
+          "max": 8550,
+          "weight": 1
         }
       },
       {
@@ -6516,7 +6815,8 @@
         "scores": {
           "num_votes": 1,
           "score": 50.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       }
     ]
@@ -6614,7 +6914,8 @@
         "scores": {
           "num_votes": 45,
           "score": 260.0,
-          "max": 1450
+          "max": 1450,
+          "weight": 1
         }
       },
       {
@@ -6622,7 +6923,8 @@
         "scores": {
           "num_votes": 45,
           "score": 160.0,
-          "max": 1450
+          "max": 1450,
+          "weight": 1
         }
       },
       {
@@ -6630,7 +6932,8 @@
         "scores": {
           "num_votes": 35,
           "score": 285.0,
-          "max": 1190
+          "max": 1190,
+          "weight": 1
         }
       },
       {
@@ -6638,7 +6941,8 @@
         "scores": {
           "num_votes": 1467,
           "score": 5851.0,
-          "max": 47270
+          "max": 47270,
+          "weight": 1
         }
       },
       {
@@ -6646,7 +6950,8 @@
         "scores": {
           "num_votes": 36,
           "score": 40.0,
-          "max": 1160
+          "max": 1160,
+          "weight": 1
         }
       },
       {
@@ -6654,7 +6959,8 @@
         "scores": {
           "num_votes": 9,
           "score": 129.0,
-          "max": 290
+          "max": 290,
+          "weight": 1
         }
       },
       {
@@ -6662,7 +6968,8 @@
         "scores": {
           "num_votes": 27,
           "score": 387.0,
-          "max": 870
+          "max": 870,
+          "weight": 1
         }
       },
       {
@@ -6670,7 +6977,8 @@
         "scores": {
           "num_votes": 3683,
           "score": 94933.0,
-          "max": 118630
+          "max": 118630,
+          "weight": 1
         }
       },
       {
@@ -6678,7 +6986,8 @@
         "scores": {
           "num_votes": 36,
           "score": 516.0,
-          "max": 1160
+          "max": 1160,
+          "weight": 1
         }
       },
       {
@@ -6686,7 +6995,8 @@
         "scores": {
           "num_votes": 39,
           "score": 816.0,
-          "max": 1230
+          "max": 1230,
+          "weight": 1
         }
       },
       {
@@ -6694,7 +7004,8 @@
         "scores": {
           "num_votes": 479,
           "score": 1346.0,
-          "max": 15470
+          "max": 15470,
+          "weight": 1
         }
       },
       {
@@ -6702,7 +7013,8 @@
         "scores": {
           "num_votes": 27,
           "score": 387.0,
-          "max": 870
+          "max": 870,
+          "weight": 1
         }
       }
     ]
@@ -7043,7 +7355,8 @@
         "scores": {
           "num_votes": 108,
           "score": 584.0,
-          "max": 3720
+          "max": 3720,
+          "weight": 1
         }
       },
       {
@@ -7051,7 +7364,8 @@
         "scores": {
           "num_votes": 2051,
           "score": 58200.0,
-          "max": 70630
+          "max": 70630,
+          "weight": 1
         }
       },
       {
@@ -7059,7 +7373,8 @@
         "scores": {
           "num_votes": 36,
           "score": 552.0,
-          "max": 1240
+          "max": 1240,
+          "weight": 1
         }
       },
       {
@@ -7067,7 +7382,8 @@
         "scores": {
           "num_votes": 288,
           "score": 3428.0,
-          "max": 9920
+          "max": 9920,
+          "weight": 1
         }
       },
       {
@@ -7075,7 +7391,8 @@
         "scores": {
           "num_votes": 108,
           "score": 282.0,
-          "max": 3720
+          "max": 3720,
+          "weight": 1
         }
       },
       {
@@ -7083,7 +7400,8 @@
         "scores": {
           "num_votes": 171,
           "score": 2643.0,
-          "max": 5830
+          "max": 5830,
+          "weight": 1
         }
       },
       {
@@ -7091,7 +7409,8 @@
         "scores": {
           "num_votes": 36,
           "score": 162.0,
-          "max": 1240
+          "max": 1240,
+          "weight": 1
         }
       },
       {
@@ -7099,7 +7418,8 @@
         "scores": {
           "num_votes": 36,
           "score": 103.0,
-          "max": 1240
+          "max": 1240,
+          "weight": 1
         }
       },
       {
@@ -7107,7 +7427,8 @@
         "scores": {
           "num_votes": 36,
           "score": 564.0,
-          "max": 1240
+          "max": 1240,
+          "weight": 1
         }
       },
       {
@@ -7115,7 +7436,8 @@
         "scores": {
           "num_votes": 11001,
           "score": 341856.0,
-          "max": 378930
+          "max": 378930,
+          "weight": 1
         }
       },
       {
@@ -7123,7 +7445,8 @@
         "scores": {
           "num_votes": 216,
           "score": 887.0,
-          "max": 7440
+          "max": 7440,
+          "weight": 1
         }
       },
       {
@@ -7131,7 +7454,8 @@
         "scores": {
           "num_votes": 9275,
           "score": 36956.0,
-          "max": 319590
+          "max": 319590,
+          "weight": 1
         }
       },
       {
@@ -7139,7 +7463,8 @@
         "scores": {
           "num_votes": 15,
           "score": 180.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       }
     ]
@@ -7219,7 +7544,8 @@
         "scores": {
           "num_votes": 7,
           "score": 51.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -7227,7 +7553,8 @@
         "scores": {
           "num_votes": 1805,
           "score": 4015.0,
-          "max": 48970
+          "max": 48970,
+          "weight": 1
         }
       },
       {
@@ -7235,7 +7562,8 @@
         "scores": {
           "num_votes": 398,
           "score": 9362.0,
-          "max": 10780
+          "max": 10780,
+          "weight": 1
         }
       },
       {
@@ -7243,7 +7571,8 @@
         "scores": {
           "num_votes": 2141,
           "score": 53416.0,
-          "max": 58090
+          "max": 58090,
+          "weight": 1
         }
       },
       {
@@ -7251,7 +7580,8 @@
         "scores": {
           "num_votes": 1,
           "score": 25.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       },
       {
@@ -7259,7 +7589,8 @@
         "scores": {
           "num_votes": 21,
           "score": 179.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -7267,7 +7598,8 @@
         "scores": {
           "num_votes": 42,
           "score": 474.0,
-          "max": 1140
+          "max": 1140,
+          "weight": 1
         }
       },
       {
@@ -7275,7 +7607,8 @@
         "scores": {
           "num_votes": 7,
           "score": 78.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -7283,7 +7616,8 @@
         "scores": {
           "num_votes": 7,
           "score": 25.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -7291,7 +7625,8 @@
         "scores": {
           "num_votes": 21,
           "score": 159.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -7299,7 +7634,8 @@
         "scores": {
           "num_votes": 7,
           "score": 79.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -7307,7 +7643,8 @@
         "scores": {
           "num_votes": 56,
           "score": 320.0,
-          "max": 1520
+          "max": 1520,
+          "weight": 1
         }
       },
       {
@@ -7315,7 +7652,8 @@
         "scores": {
           "num_votes": 33,
           "score": 345.0,
-          "max": 850
+          "max": 850,
+          "weight": 1
         }
       }
     ]
@@ -7422,7 +7760,8 @@
         "scores": {
           "num_votes": 30,
           "score": 151.0,
-          "max": 1260
+          "max": 1260,
+          "weight": 1
         }
       },
       {
@@ -7430,7 +7769,8 @@
         "scores": {
           "num_votes": 60,
           "score": 378.0,
-          "max": 2520
+          "max": 2520,
+          "weight": 1
         }
       },
       {
@@ -7438,7 +7778,8 @@
         "scores": {
           "num_votes": 3055,
           "score": 110355.0,
-          "max": 128310
+          "max": 128310,
+          "weight": 1
         }
       },
       {
@@ -7446,7 +7787,8 @@
         "scores": {
           "num_votes": 10,
           "score": 101.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -7454,7 +7796,8 @@
         "scores": {
           "num_votes": 10,
           "score": 75.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -7462,7 +7805,8 @@
         "scores": {
           "num_votes": 10,
           "score": 202.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -7470,7 +7814,8 @@
         "scores": {
           "num_votes": 10,
           "score": 201.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -7478,7 +7823,8 @@
         "scores": {
           "num_votes": 80,
           "score": 1452.0,
-          "max": 3360
+          "max": 3360,
+          "weight": 1
         }
       },
       {
@@ -7486,7 +7832,8 @@
         "scores": {
           "num_votes": 2578,
           "score": 23018.0,
-          "max": 108260
+          "max": 108260,
+          "weight": 1
         }
       },
       {
@@ -7494,7 +7841,8 @@
         "scores": {
           "num_votes": 569,
           "score": 18352.0,
-          "max": 23890
+          "max": 23890,
+          "weight": 1
         }
       },
       {
@@ -7502,7 +7850,8 @@
         "scores": {
           "num_votes": 30,
           "score": 450.0,
-          "max": 1260
+          "max": 1260,
+          "weight": 1
         }
       },
       {
@@ -7510,7 +7859,8 @@
         "scores": {
           "num_votes": 47,
           "score": 935.0,
-          "max": 1950
+          "max": 1950,
+          "weight": 1
         }
       },
       {
@@ -7518,7 +7868,8 @@
         "scores": {
           "num_votes": 5,
           "score": 76.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       }
     ]
@@ -7625,7 +7976,8 @@
         "scores": {
           "num_votes": 10,
           "score": 2.0,
-          "max": 380
+          "max": 380,
+          "weight": 1
         }
       },
       {
@@ -7633,7 +7985,8 @@
         "scores": {
           "num_votes": 570,
           "score": 18845.0,
-          "max": 21660
+          "max": 21660,
+          "weight": 1
         }
       },
       {
@@ -7641,7 +7994,8 @@
         "scores": {
           "num_votes": 30,
           "score": 52.0,
-          "max": 1140
+          "max": 1140,
+          "weight": 1
         }
       },
       {
@@ -7649,7 +8003,8 @@
         "scores": {
           "num_votes": 10,
           "score": 178.0,
-          "max": 380
+          "max": 380,
+          "weight": 1
         }
       },
       {
@@ -7657,7 +8012,8 @@
         "scores": {
           "num_votes": 10,
           "score": 0.0,
-          "max": 380
+          "max": 380,
+          "weight": 1
         }
       },
       {
@@ -7665,7 +8021,8 @@
         "scores": {
           "num_votes": 10,
           "score": 176.0,
-          "max": 380
+          "max": 380,
+          "weight": 1
         }
       },
       {
@@ -7673,7 +8030,8 @@
         "scores": {
           "num_votes": 2578,
           "score": 9422.0,
-          "max": 97980
+          "max": 97980,
+          "weight": 1
         }
       },
       {
@@ -7681,7 +8039,8 @@
         "scores": {
           "num_votes": 48,
           "score": 840.0,
-          "max": 1800
+          "max": 1800,
+          "weight": 1
         }
       },
       {
@@ -7689,7 +8048,8 @@
         "scores": {
           "num_votes": 3058,
           "score": 109095.0,
-          "max": 116260
+          "max": 116260,
+          "weight": 1
         }
       },
       {
@@ -7697,7 +8057,8 @@
         "scores": {
           "num_votes": 80,
           "score": 538.0,
-          "max": 3040
+          "max": 3040,
+          "weight": 1
         }
       },
       {
@@ -7705,7 +8066,8 @@
         "scores": {
           "num_votes": 60,
           "score": 278.0,
-          "max": 2280
+          "max": 2280,
+          "weight": 1
         }
       },
       {
@@ -7713,7 +8075,8 @@
         "scores": {
           "num_votes": 30,
           "score": 154.0,
-          "max": 1140
+          "max": 1140,
+          "weight": 1
         }
       },
       {
@@ -7721,7 +8084,8 @@
         "scores": {
           "num_votes": 3,
           "score": 3.0,
-          "max": 30
+          "max": 30,
+          "weight": 1
         }
       }
     ]
@@ -7792,7 +8156,8 @@
         "scores": {
           "num_votes": 48,
           "score": 501.0,
-          "max": 2080
+          "max": 2080,
+          "weight": 1
         }
       },
       {
@@ -7800,7 +8165,8 @@
         "scores": {
           "num_votes": 18,
           "score": 51.0,
-          "max": 780
+          "max": 780,
+          "weight": 1
         }
       },
       {
@@ -7808,7 +8174,8 @@
         "scores": {
           "num_votes": 342,
           "score": 12112.0,
-          "max": 14820
+          "max": 14820,
+          "weight": 1
         }
       },
       {
@@ -7816,7 +8183,8 @@
         "scores": {
           "num_votes": 24,
           "score": 504.0,
-          "max": 1040
+          "max": 1040,
+          "weight": 1
         }
       },
       {
@@ -7824,7 +8192,8 @@
         "scores": {
           "num_votes": 6,
           "score": 0.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -7832,7 +8201,8 @@
         "scores": {
           "num_votes": 18,
           "score": 75.0,
-          "max": 780
+          "max": 780,
+          "weight": 1
         }
       },
       {
@@ -7840,7 +8210,8 @@
         "scores": {
           "num_votes": 6,
           "score": 0.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -7848,7 +8219,8 @@
         "scores": {
           "num_votes": 6,
           "score": 126.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -7856,7 +8228,8 @@
         "scores": {
           "num_votes": 1830,
           "score": 75566.0,
-          "max": 79300
+          "max": 79300,
+          "weight": 1
         }
       },
       {
@@ -7864,7 +8237,8 @@
         "scores": {
           "num_votes": 36,
           "score": 0.0,
-          "max": 1560
+          "max": 1560,
+          "weight": 1
         }
       },
       {
@@ -7872,7 +8246,8 @@
         "scores": {
           "num_votes": 1548,
           "score": 3190.0,
-          "max": 67080
+          "max": 67080,
+          "weight": 1
         }
       },
       {
@@ -7880,7 +8255,8 @@
         "scores": {
           "num_votes": 6,
           "score": 126.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -7888,7 +8264,8 @@
         "scores": {
           "num_votes": 6,
           "score": 126.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       }
     ]
@@ -7986,7 +8363,8 @@
         "scores": {
           "num_votes": 2317,
           "score": 4549.0,
-          "max": 95290
+          "max": 95290,
+          "weight": 1
         }
       },
       {
@@ -7994,7 +8372,8 @@
         "scores": {
           "num_votes": 54,
           "score": 807.0,
-          "max": 2220
+          "max": 2220,
+          "weight": 1
         }
       },
       {
@@ -8002,7 +8381,8 @@
         "scores": {
           "num_votes": 27,
           "score": 279.0,
-          "max": 1110
+          "max": 1110,
+          "weight": 1
         }
       },
       {
@@ -8010,7 +8390,8 @@
         "scores": {
           "num_votes": 27,
           "score": 352.0,
-          "max": 1110
+          "max": 1110,
+          "weight": 1
         }
       },
       {
@@ -8018,7 +8399,8 @@
         "scores": {
           "num_votes": 9,
           "score": 76.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -8026,7 +8408,8 @@
         "scores": {
           "num_votes": 9,
           "score": 25.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -8034,7 +8417,8 @@
         "scores": {
           "num_votes": 2754,
           "score": 106080.0,
-          "max": 113220
+          "max": 113220,
+          "weight": 1
         }
       },
       {
@@ -8042,7 +8426,8 @@
         "scores": {
           "num_votes": 9,
           "score": 126.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -8050,7 +8435,8 @@
         "scores": {
           "num_votes": 72,
           "score": 954.0,
-          "max": 2960
+          "max": 2960,
+          "weight": 1
         }
       },
       {
@@ -8058,7 +8444,8 @@
         "scores": {
           "num_votes": 9,
           "score": 177.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -8066,7 +8453,8 @@
         "scores": {
           "num_votes": 42,
           "score": 810.0,
-          "max": 1700
+          "max": 1700,
+          "weight": 1
         }
       },
       {
@@ -8074,7 +8462,8 @@
         "scores": {
           "num_votes": 513,
           "score": 17583.0,
-          "max": 21090
+          "max": 21090,
+          "weight": 1
         }
       }
     ]
@@ -8154,7 +8543,8 @@
         "scores": {
           "num_votes": 56,
           "score": 775.0,
-          "max": 2800
+          "max": 2800,
+          "weight": 1
         }
       },
       {
@@ -8162,7 +8552,8 @@
         "scores": {
           "num_votes": 7,
           "score": 125.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -8170,7 +8561,8 @@
         "scores": {
           "num_votes": 1804,
           "score": 4600.0,
-          "max": 90200
+          "max": 90200,
+          "weight": 1
         }
       },
       {
@@ -8178,7 +8570,8 @@
         "scores": {
           "num_votes": 34,
           "score": 850.0,
-          "max": 1700
+          "max": 1700,
+          "weight": 1
         }
       },
       {
@@ -8186,7 +8579,8 @@
         "scores": {
           "num_votes": 7,
           "score": 50.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -8194,7 +8588,8 @@
         "scores": {
           "num_votes": 399,
           "score": 16625.0,
-          "max": 19950
+          "max": 19950,
+          "weight": 1
         }
       },
       {
@@ -8202,7 +8597,8 @@
         "scores": {
           "num_votes": 42,
           "score": 800.0,
-          "max": 2100
+          "max": 2100,
+          "weight": 1
         }
       },
       {
@@ -8210,7 +8606,8 @@
         "scores": {
           "num_votes": 2142,
           "score": 100825.0,
-          "max": 107100
+          "max": 107100,
+          "weight": 1
         }
       },
       {
@@ -8218,7 +8615,8 @@
         "scores": {
           "num_votes": 21,
           "score": 300.0,
-          "max": 1050
+          "max": 1050,
+          "weight": 1
         }
       },
       {
@@ -8226,7 +8624,8 @@
         "scores": {
           "num_votes": 7,
           "score": 175.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -8234,7 +8633,8 @@
         "scores": {
           "num_votes": 7,
           "score": 25.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -8242,7 +8642,8 @@
         "scores": {
           "num_votes": 21,
           "score": 375.0,
-          "max": 1050
+          "max": 1050,
+          "weight": 1
         }
       }
     ]
@@ -8376,7 +8777,8 @@
         "scores": {
           "num_votes": 65,
           "score": 1385.0,
-          "max": 2850
+          "max": 2850,
+          "weight": 1
         }
       },
       {
@@ -8384,7 +8786,8 @@
         "scores": {
           "num_votes": 13,
           "score": 100.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -8392,7 +8795,8 @@
         "scores": {
           "num_votes": 3965,
           "score": 160048.0,
-          "max": 173850
+          "max": 173850,
+          "weight": 1
         }
       },
       {
@@ -8400,7 +8804,8 @@
         "scores": {
           "num_votes": 13,
           "score": 0.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -8408,7 +8813,8 @@
         "scores": {
           "num_votes": 39,
           "score": 177.0,
-          "max": 1710
+          "max": 1710,
+          "weight": 1
         }
       },
       {
@@ -8416,7 +8822,8 @@
         "scores": {
           "num_votes": 13,
           "score": 277.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -8424,7 +8831,8 @@
         "scores": {
           "num_votes": 78,
           "score": 126.0,
-          "max": 3420
+          "max": 3420,
+          "weight": 1
         }
       },
       {
@@ -8432,7 +8840,8 @@
         "scores": {
           "num_votes": 104,
           "score": 754.0,
-          "max": 4560
+          "max": 4560,
+          "weight": 1
         }
       },
       {
@@ -8440,7 +8849,8 @@
         "scores": {
           "num_votes": 13,
           "score": 0.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -8448,7 +8858,8 @@
         "scores": {
           "num_votes": 13,
           "score": 202.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -8456,7 +8867,8 @@
         "scores": {
           "num_votes": 39,
           "score": 102.0,
-          "max": 1710
+          "max": 1710,
+          "weight": 1
         }
       },
       {
@@ -8464,7 +8876,8 @@
         "scores": {
           "num_votes": 741,
           "score": 27503.0,
-          "max": 32490
+          "max": 32490,
+          "weight": 1
         }
       },
       {
@@ -8472,7 +8885,8 @@
         "scores": {
           "num_votes": 3352,
           "score": 7313.0,
-          "max": 146960
+          "max": 146960,
+          "weight": 1
         }
       }
     ]
@@ -8597,7 +9011,8 @@
         "scores": {
           "num_votes": 12,
           "score": 0.0,
-          "max": 520
+          "max": 520,
+          "weight": 1
         }
       },
       {
@@ -8605,7 +9020,8 @@
         "scores": {
           "num_votes": 36,
           "score": 175.0,
-          "max": 1560
+          "max": 1560,
+          "weight": 1
         }
       },
       {
@@ -8613,7 +9029,8 @@
         "scores": {
           "num_votes": 3666,
           "score": 148130.0,
-          "max": 158860
+          "max": 158860,
+          "weight": 1
         }
       },
       {
@@ -8621,7 +9038,8 @@
         "scores": {
           "num_votes": 9,
           "score": 151.0,
-          "max": 410
+          "max": 410,
+          "weight": 1
         }
       },
       {
@@ -8629,7 +9047,8 @@
         "scores": {
           "num_votes": 3091,
           "score": 7917.0,
-          "max": 133910
+          "max": 133910,
+          "weight": 1
         }
       },
       {
@@ -8637,7 +9056,8 @@
         "scores": {
           "num_votes": 36,
           "score": 226.0,
-          "max": 1560
+          "max": 1560,
+          "weight": 1
         }
       },
       {
@@ -8645,7 +9065,8 @@
         "scores": {
           "num_votes": 59,
           "score": 1235.0,
-          "max": 2550
+          "max": 2550,
+          "weight": 1
         }
       },
       {
@@ -8653,7 +9074,8 @@
         "scores": {
           "num_votes": 684,
           "score": 26774.0,
-          "max": 29640
+          "max": 29640,
+          "weight": 1
         }
       },
       {
@@ -8661,7 +9083,8 @@
         "scores": {
           "num_votes": 12,
           "score": 252.0,
-          "max": 520
+          "max": 520,
+          "weight": 1
         }
       },
       {
@@ -8669,7 +9092,8 @@
         "scores": {
           "num_votes": 72,
           "score": 126.0,
-          "max": 3120
+          "max": 3120,
+          "weight": 1
         }
       },
       {
@@ -8677,7 +9101,8 @@
         "scores": {
           "num_votes": 96,
           "score": 1026.0,
-          "max": 4160
+          "max": 4160,
+          "weight": 1
         }
       },
       {
@@ -8685,7 +9110,8 @@
         "scores": {
           "num_votes": 12,
           "score": 151.0,
-          "max": 520
+          "max": 520,
+          "weight": 1
         }
       },
       {
@@ -8693,7 +9119,8 @@
         "scores": {
           "num_votes": 12,
           "score": 101.0,
-          "max": 520
+          "max": 520,
+          "weight": 1
         }
       }
     ]
@@ -8818,7 +9245,8 @@
         "scores": {
           "num_votes": 72,
           "score": 175.0,
-          "max": 3600
+          "max": 3600,
+          "weight": 1
         }
       },
       {
@@ -8826,7 +9254,8 @@
         "scores": {
           "num_votes": 12,
           "score": 0.0,
-          "max": 600
+          "max": 600,
+          "weight": 1
         }
       },
       {
@@ -8834,7 +9263,8 @@
         "scores": {
           "num_votes": 36,
           "score": 225.0,
-          "max": 1800
+          "max": 1800,
+          "weight": 1
         }
       },
       {
@@ -8842,7 +9272,8 @@
         "scores": {
           "num_votes": 3665,
           "score": 169850.0,
-          "max": 183250
+          "max": 183250,
+          "weight": 1
         }
       },
       {
@@ -8850,7 +9281,8 @@
         "scores": {
           "num_votes": 10,
           "score": 200.0,
-          "max": 500
+          "max": 500,
+          "weight": 1
         }
       },
       {
@@ -8858,7 +9290,8 @@
         "scores": {
           "num_votes": 3091,
           "score": 9775.0,
-          "max": 154550
+          "max": 154550,
+          "weight": 1
         }
       },
       {
@@ -8866,7 +9299,8 @@
         "scores": {
           "num_votes": 36,
           "score": 200.0,
-          "max": 1800
+          "max": 1800,
+          "weight": 1
         }
       },
       {
@@ -8874,7 +9308,8 @@
         "scores": {
           "num_votes": 59,
           "score": 1475.0,
-          "max": 2950
+          "max": 2950,
+          "weight": 1
         }
       },
       {
@@ -8882,7 +9317,8 @@
         "scores": {
           "num_votes": 12,
           "score": 300.0,
-          "max": 600
+          "max": 600,
+          "weight": 1
         }
       },
       {
@@ -8890,7 +9326,8 @@
         "scores": {
           "num_votes": 684,
           "score": 30800.0,
-          "max": 34200
+          "max": 34200,
+          "weight": 1
         }
       },
       {
@@ -8898,7 +9335,8 @@
         "scores": {
           "num_votes": 96,
           "score": 1350.0,
-          "max": 4800
+          "max": 4800,
+          "weight": 1
         }
       },
       {
@@ -8906,7 +9344,8 @@
         "scores": {
           "num_votes": 12,
           "score": 175.0,
-          "max": 600
+          "max": 600,
+          "weight": 1
         }
       },
       {
@@ -8914,7 +9353,8 @@
         "scores": {
           "num_votes": 12,
           "score": 125.0,
-          "max": 600
+          "max": 600,
+          "weight": 1
         }
       }
     ]
@@ -9057,7 +9497,8 @@
         "scores": {
           "num_votes": 42,
           "score": 53.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -9065,7 +9506,8 @@
         "scores": {
           "num_votes": 69,
           "score": 549.0,
-          "max": 1490
+          "max": 1490,
+          "weight": 1
         }
       },
       {
@@ -9073,7 +9515,8 @@
         "scores": {
           "num_votes": 14,
           "score": 110.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -9081,7 +9524,8 @@
         "scores": {
           "num_votes": 4277,
           "score": 83372.0,
-          "max": 91650
+          "max": 91650,
+          "weight": 1
         }
       },
       {
@@ -9089,7 +9533,8 @@
         "scores": {
           "num_votes": 14,
           "score": 4.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -9097,7 +9542,8 @@
         "scores": {
           "num_votes": 112,
           "score": 221.0,
-          "max": 2400
+          "max": 2400,
+          "weight": 1
         }
       },
       {
@@ -9105,7 +9551,8 @@
         "scores": {
           "num_votes": 42,
           "score": 9.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -9113,7 +9560,8 @@
         "scores": {
           "num_votes": 14,
           "score": 1.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -9121,7 +9569,8 @@
         "scores": {
           "num_votes": 798,
           "score": 14929.0,
-          "max": 17100
+          "max": 17100,
+          "weight": 1
         }
       },
       {
@@ -9129,7 +9578,8 @@
         "scores": {
           "num_votes": 84,
           "score": 80.0,
-          "max": 1800
+          "max": 1800,
+          "weight": 1
         }
       },
       {
@@ -9137,7 +9587,8 @@
         "scores": {
           "num_votes": 10,
           "score": 32.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       },
       {
@@ -9145,7 +9596,8 @@
         "scores": {
           "num_votes": 3603,
           "score": 9663.0,
-          "max": 77110
+          "max": 77110,
+          "weight": 1
         }
       },
       {
@@ -9153,7 +9605,8 @@
         "scores": {
           "num_votes": 14,
           "score": 3.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       }
     ]
@@ -9188,7 +9641,8 @@
         "scores": {
           "num_votes": 516,
           "score": 750.0,
-          "max": 25800
+          "max": 25800,
+          "weight": 1
         }
       },
       {
@@ -9196,7 +9650,8 @@
         "scores": {
           "num_votes": 6,
           "score": 50.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -9204,7 +9659,8 @@
         "scores": {
           "num_votes": 6,
           "score": 0.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -9212,7 +9668,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -9220,7 +9677,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -9228,7 +9686,8 @@
         "scores": {
           "num_votes": 10,
           "score": 250.0,
-          "max": 500
+          "max": 500,
+          "weight": 1
         }
       },
       {
@@ -9236,7 +9695,8 @@
         "scores": {
           "num_votes": 114,
           "score": 5150.0,
-          "max": 5700
+          "max": 5700,
+          "weight": 1
         }
       },
       {
@@ -9244,7 +9704,8 @@
         "scores": {
           "num_votes": 2,
           "score": 50.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -9252,7 +9713,8 @@
         "scores": {
           "num_votes": 2,
           "score": 50.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -9260,7 +9722,8 @@
         "scores": {
           "num_votes": 12,
           "score": 150.0,
-          "max": 600
+          "max": 600,
+          "weight": 1
         }
       },
       {
@@ -9268,7 +9731,8 @@
         "scores": {
           "num_votes": 612,
           "score": 28950.0,
-          "max": 30600
+          "max": 30600,
+          "weight": 1
         }
       },
       {
@@ -9276,7 +9740,8 @@
         "scores": {
           "num_votes": 16,
           "score": 150.0,
-          "max": 800
+          "max": 800,
+          "weight": 1
         }
       }
     ]
@@ -9347,7 +9812,8 @@
         "scores": {
           "num_votes": 1835,
           "score": 61223.0,
-          "max": 67270
+          "max": 67270,
+          "weight": 1
         }
       },
       {
@@ -9355,7 +9821,8 @@
         "scores": {
           "num_votes": 6,
           "score": 1.0,
-          "max": 220
+          "max": 220,
+          "weight": 1
         }
       },
       {
@@ -9363,7 +9830,8 @@
         "scores": {
           "num_votes": 36,
           "score": 612.0,
-          "max": 1320
+          "max": 1320,
+          "weight": 1
         }
       },
       {
@@ -9371,7 +9839,8 @@
         "scores": {
           "num_votes": 3,
           "score": 51.0,
-          "max": 110
+          "max": 110,
+          "weight": 1
         }
       },
       {
@@ -9379,7 +9848,8 @@
         "scores": {
           "num_votes": 18,
           "score": 129.0,
-          "max": 660
+          "max": 660,
+          "weight": 1
         }
       },
       {
@@ -9387,7 +9857,8 @@
         "scores": {
           "num_votes": 1546,
           "score": 5331.0,
-          "max": 56700
+          "max": 56700,
+          "weight": 1
         }
       },
       {
@@ -9395,7 +9866,8 @@
         "scores": {
           "num_votes": 6,
           "score": 102.0,
-          "max": 220
+          "max": 220,
+          "weight": 1
         }
       },
       {
@@ -9403,7 +9875,8 @@
         "scores": {
           "num_votes": 48,
           "score": 1126.0,
-          "max": 1760
+          "max": 1760,
+          "weight": 1
         }
       },
       {
@@ -9411,7 +9884,8 @@
         "scores": {
           "num_votes": 18,
           "score": 228.0,
-          "max": 660
+          "max": 660,
+          "weight": 1
         }
       },
       {
@@ -9419,7 +9893,8 @@
         "scores": {
           "num_votes": 6,
           "score": 25.0,
-          "max": 220
+          "max": 220,
+          "weight": 1
         }
       },
       {
@@ -9427,7 +9902,8 @@
         "scores": {
           "num_votes": 341,
           "score": 11039.0,
-          "max": 12490
+          "max": 12490,
+          "weight": 1
         }
       },
       {
@@ -9435,7 +9911,8 @@
         "scores": {
           "num_votes": 6,
           "score": 101.0,
-          "max": 220
+          "max": 220,
+          "weight": 1
         }
       },
       {
@@ -9443,7 +9920,8 @@
         "scores": {
           "num_votes": 29,
           "score": 485.0,
-          "max": 1050
+          "max": 1050,
+          "weight": 1
         }
       }
     ]
@@ -9532,7 +10010,8 @@
         "scores": {
           "num_votes": 2057,
           "score": 4570.0,
-          "max": 61810
+          "max": 61810,
+          "weight": 1
         }
       },
       {
@@ -9540,7 +10019,8 @@
         "scores": {
           "num_votes": 24,
           "score": 183.0,
-          "max": 720
+          "max": 720,
+          "weight": 1
         }
       },
       {
@@ -9548,7 +10028,8 @@
         "scores": {
           "num_votes": 8,
           "score": 104.0,
-          "max": 240
+          "max": 240,
+          "weight": 1
         }
       },
       {
@@ -9556,7 +10037,8 @@
         "scores": {
           "num_votes": 3,
           "score": 27.0,
-          "max": 70
+          "max": 70,
+          "weight": 1
         }
       },
       {
@@ -9564,7 +10046,8 @@
         "scores": {
           "num_votes": 64,
           "score": 1384.0,
-          "max": 1920
+          "max": 1920,
+          "weight": 1
         }
       },
       {
@@ -9572,7 +10055,8 @@
         "scores": {
           "num_votes": 40,
           "score": 520.0,
-          "max": 1200
+          "max": 1200,
+          "weight": 1
         }
       },
       {
@@ -9580,7 +10064,8 @@
         "scores": {
           "num_votes": 8,
           "score": 27.0,
-          "max": 240
+          "max": 240,
+          "weight": 1
         }
       },
       {
@@ -9588,7 +10073,8 @@
         "scores": {
           "num_votes": 2447,
           "score": 66476.0,
-          "max": 73430
+          "max": 73430,
+          "weight": 1
         }
       },
       {
@@ -9596,7 +10082,8 @@
         "scores": {
           "num_votes": 48,
           "score": 624.0,
-          "max": 1440
+          "max": 1440,
+          "weight": 1
         }
       },
       {
@@ -9604,7 +10091,8 @@
         "scores": {
           "num_votes": 24,
           "score": 180.0,
-          "max": 720
+          "max": 720,
+          "weight": 1
         }
       },
       {
@@ -9612,7 +10100,8 @@
         "scores": {
           "num_votes": 8,
           "score": 103.0,
-          "max": 240
+          "max": 240,
+          "weight": 1
         }
       },
       {
@@ -9620,7 +10109,8 @@
         "scores": {
           "num_votes": 8,
           "score": 2.0,
-          "max": 240
+          "max": 240,
+          "weight": 1
         }
       },
       {
@@ -9628,7 +10118,8 @@
         "scores": {
           "num_votes": 456,
           "score": 12413.0,
-          "max": 13680
+          "max": 13680,
+          "weight": 1
         }
       }
     ]
@@ -9807,7 +10298,8 @@
         "scores": {
           "num_votes": 18,
           "score": 241.0,
-          "max": 580
+          "max": 580,
+          "weight": 1
         }
       },
       {
@@ -9815,7 +10307,8 @@
         "scores": {
           "num_votes": 18,
           "score": 161.0,
-          "max": 580
+          "max": 580,
+          "weight": 1
         }
       },
       {
@@ -9823,7 +10316,8 @@
         "scores": {
           "num_votes": 108,
           "score": 516.0,
-          "max": 3480
+          "max": 3480,
+          "weight": 1
         }
       },
       {
@@ -9831,7 +10325,8 @@
         "scores": {
           "num_votes": 18,
           "score": 258.0,
-          "max": 580
+          "max": 580,
+          "weight": 1
         }
       },
       {
@@ -9839,7 +10334,8 @@
         "scores": {
           "num_votes": 54,
           "score": 586.0,
-          "max": 1740
+          "max": 1740,
+          "weight": 1
         }
       },
       {
@@ -9847,7 +10343,8 @@
         "scores": {
           "num_votes": 18,
           "score": 189.0,
-          "max": 580
+          "max": 580,
+          "weight": 1
         }
       },
       {
@@ -9855,7 +10352,8 @@
         "scores": {
           "num_votes": 90,
           "score": 1290.0,
-          "max": 2900
+          "max": 2900,
+          "weight": 1
         }
       },
       {
@@ -9863,7 +10361,8 @@
         "scores": {
           "num_votes": 5505,
           "score": 159829.0,
-          "max": 177370
+          "max": 177370,
+          "weight": 1
         }
       },
       {
@@ -9871,7 +10370,8 @@
         "scores": {
           "num_votes": 54,
           "score": 125.0,
-          "max": 1740
+          "max": 1740,
+          "weight": 1
         }
       },
       {
@@ -9879,7 +10379,8 @@
         "scores": {
           "num_votes": 1026,
           "score": 29040.0,
-          "max": 33060
+          "max": 33060,
+          "weight": 1
         }
       },
       {
@@ -9887,7 +10388,8 @@
         "scores": {
           "num_votes": 4632,
           "score": 12796.0,
-          "max": 149160
+          "max": 149160,
+          "weight": 1
         }
       },
       {
@@ -9895,7 +10397,8 @@
         "scores": {
           "num_votes": 7,
           "score": 102.0,
-          "max": 230
+          "max": 230,
+          "weight": 1
         }
       },
       {
@@ -9903,7 +10406,8 @@
         "scores": {
           "num_votes": 144,
           "score": 1357.0,
-          "max": 4640
+          "max": 4640,
+          "weight": 1
         }
       }
     ]
@@ -10010,7 +10514,8 @@
         "scores": {
           "num_votes": 80,
           "score": 55.0,
-          "max": 2080
+          "max": 2080,
+          "weight": 1
         }
       },
       {
@@ -10018,7 +10523,8 @@
         "scores": {
           "num_votes": 3050,
           "score": 49692.0,
-          "max": 79300
+          "max": 79300,
+          "weight": 1
         }
       },
       {
@@ -10026,7 +10532,8 @@
         "scores": {
           "num_votes": 2580,
           "score": 57112.0,
-          "max": 67080
+          "max": 67080,
+          "weight": 1
         }
       },
       {
@@ -10034,7 +10541,8 @@
         "scores": {
           "num_votes": 30,
           "score": 755.0,
-          "max": 780
+          "max": 780,
+          "weight": 1
         }
       },
       {
@@ -10042,7 +10550,8 @@
         "scores": {
           "num_votes": 60,
           "score": 843.0,
-          "max": 1560
+          "max": 1560,
+          "weight": 1
         }
       },
       {
@@ -10050,7 +10559,8 @@
         "scores": {
           "num_votes": 47,
           "score": 479.0,
-          "max": 1190
+          "max": 1190,
+          "weight": 1
         }
       },
       {
@@ -10058,7 +10568,8 @@
         "scores": {
           "num_votes": 10,
           "score": 0.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -10066,7 +10577,8 @@
         "scores": {
           "num_votes": 30,
           "score": 417.0,
-          "max": 780
+          "max": 780,
+          "weight": 1
         }
       },
       {
@@ -10074,7 +10586,8 @@
         "scores": {
           "num_votes": 10,
           "score": 225.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -10082,7 +10595,8 @@
         "scores": {
           "num_votes": 10,
           "score": 260.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -10090,7 +10604,8 @@
         "scores": {
           "num_votes": 567,
           "score": 12770.0,
-          "max": 14710
+          "max": 14710,
+          "weight": 1
         }
       },
       {
@@ -10098,7 +10613,8 @@
         "scores": {
           "num_votes": 10,
           "score": 106.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -10106,7 +10622,8 @@
         "scores": {
           "num_votes": 10,
           "score": 115.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       }
     ]
@@ -10240,7 +10757,8 @@
         "scores": {
           "num_votes": 13,
           "score": 157.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -10248,7 +10766,8 @@
         "scores": {
           "num_votes": 3978,
           "score": 106574.0,
-          "max": 113220
+          "max": 113220,
+          "weight": 1
         }
       },
       {
@@ -10256,7 +10775,8 @@
         "scores": {
           "num_votes": 104,
           "score": 1465.0,
-          "max": 2960
+          "max": 2960,
+          "weight": 1
         }
       },
       {
@@ -10264,7 +10784,8 @@
         "scores": {
           "num_votes": 13,
           "score": 132.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -10272,7 +10793,8 @@
         "scores": {
           "num_votes": 13,
           "score": 54.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -10280,7 +10802,8 @@
         "scores": {
           "num_votes": 78,
           "score": 942.0,
-          "max": 2220
+          "max": 2220,
+          "weight": 1
         }
       },
       {
@@ -10288,7 +10811,8 @@
         "scores": {
           "num_votes": 741,
           "score": 18309.0,
-          "max": 21090
+          "max": 21090,
+          "weight": 1
         }
       },
       {
@@ -10296,7 +10820,8 @@
         "scores": {
           "num_votes": 39,
           "score": 371.0,
-          "max": 1110
+          "max": 1110,
+          "weight": 1
         }
       },
       {
@@ -10304,7 +10829,8 @@
         "scores": {
           "num_votes": 39,
           "score": 319.0,
-          "max": 1110
+          "max": 1110,
+          "weight": 1
         }
       },
       {
@@ -10312,7 +10838,8 @@
         "scores": {
           "num_votes": 3352,
           "score": 5870.0,
-          "max": 95360
+          "max": 95360,
+          "weight": 1
         }
       },
       {
@@ -10320,7 +10847,8 @@
         "scores": {
           "num_votes": 13,
           "score": 51.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -10328,7 +10856,8 @@
         "scores": {
           "num_votes": 63,
           "score": 735.0,
-          "max": 1750
+          "max": 1750,
+          "weight": 1
         }
       }
     ]
@@ -10453,7 +10982,8 @@
         "scores": {
           "num_votes": 43,
           "score": 292.0,
-          "max": 990
+          "max": 990,
+          "weight": 1
         }
       },
       {
@@ -10461,7 +10991,8 @@
         "scores": {
           "num_votes": 12,
           "score": 108.0,
-          "max": 280
+          "max": 280,
+          "weight": 1
         }
       },
       {
@@ -10469,7 +11000,8 @@
         "scores": {
           "num_votes": 36,
           "score": 272.0,
-          "max": 840
+          "max": 840,
+          "weight": 1
         }
       },
       {
@@ -10477,7 +11009,8 @@
         "scores": {
           "num_votes": 75,
           "score": 1145.0,
-          "max": 1790
+          "max": 1790,
+          "weight": 1
         }
       },
       {
@@ -10485,7 +11018,8 @@
         "scores": {
           "num_votes": 2671,
           "score": 54192.0,
-          "max": 64230
+          "max": 64230,
+          "weight": 1
         }
       },
       {
@@ -10493,7 +11027,8 @@
         "scores": {
           "num_votes": 4160,
           "score": 61145.0,
-          "max": 95040
+          "max": 95040,
+          "weight": 1
         }
       },
       {
@@ -10501,7 +11036,8 @@
         "scores": {
           "num_votes": 655,
           "score": 6247.0,
-          "max": 15350
+          "max": 15350,
+          "weight": 1
         }
       },
       {
@@ -10509,7 +11045,8 @@
         "scores": {
           "num_votes": 42,
           "score": 760.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -10517,7 +11054,8 @@
         "scores": {
           "num_votes": 52,
           "score": 460.0,
-          "max": 1200
+          "max": 1200,
+          "weight": 1
         }
       },
       {
@@ -10525,7 +11063,8 @@
         "scores": {
           "num_votes": 21,
           "score": 165.0,
-          "max": 450
+          "max": 450,
+          "weight": 1
         }
       },
       {
@@ -10533,7 +11072,8 @@
         "scores": {
           "num_votes": 65,
           "score": 605.0,
-          "max": 1530
+          "max": 1530,
+          "weight": 1
         }
       },
       {
@@ -10541,7 +11081,8 @@
         "scores": {
           "num_votes": 17,
           "score": 203.0,
-          "max": 410
+          "max": 410,
+          "weight": 1
         }
       },
       {
@@ -10549,7 +11090,8 @@
         "scores": {
           "num_votes": 5,
           "score": 21.0,
-          "max": 130
+          "max": 130,
+          "weight": 1
         }
       },
       {
@@ -10557,7 +11099,8 @@
         "scores": {
           "num_votes": 5,
           "score": 71.0,
-          "max": 130
+          "max": 130,
+          "weight": 1
         }
       },
       {
@@ -10565,7 +11108,8 @@
         "scores": {
           "num_votes": 2,
           "score": 11.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       }
     ]
@@ -10627,7 +11171,8 @@
         "scores": {
           "num_votes": 5,
           "score": 1.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -10635,7 +11180,8 @@
         "scores": {
           "num_votes": 5,
           "score": 27.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -10643,7 +11189,8 @@
         "scores": {
           "num_votes": 5,
           "score": 26.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -10651,7 +11198,8 @@
         "scores": {
           "num_votes": 15,
           "score": 50.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       },
       {
@@ -10659,7 +11207,8 @@
         "scores": {
           "num_votes": 1525,
           "score": 47315.0,
-          "max": 51850
+          "max": 51850,
+          "weight": 1
         }
       },
       {
@@ -10667,7 +11216,8 @@
         "scores": {
           "num_votes": 15,
           "score": 54.0,
-          "max": 510
+          "max": 510,
+          "weight": 1
         }
       },
       {
@@ -10675,7 +11225,8 @@
         "scores": {
           "num_votes": 5,
           "score": 0.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -10683,7 +11234,8 @@
         "scores": {
           "num_votes": 1288,
           "score": 2862.0,
-          "max": 43800
+          "max": 43800,
+          "weight": 1
         }
       },
       {
@@ -10691,7 +11243,8 @@
         "scores": {
           "num_votes": 30,
           "score": 50.0,
-          "max": 1020
+          "max": 1020,
+          "weight": 1
         }
       },
       {
@@ -10699,7 +11252,8 @@
         "scores": {
           "num_votes": 40,
           "score": 310.0,
-          "max": 1360
+          "max": 1360,
+          "weight": 1
         }
       },
       {
@@ -10707,7 +11261,8 @@
         "scores": {
           "num_votes": 25,
           "score": 385.0,
-          "max": 850
+          "max": 850,
+          "weight": 1
         }
       },
       {
@@ -10715,7 +11270,8 @@
         "scores": {
           "num_votes": 5,
           "score": 77.0,
-          "max": 170
+          "max": 170,
+          "weight": 1
         }
       },
       {
@@ -10723,7 +11279,8 @@
         "scores": {
           "num_votes": 285,
           "score": 8379.0,
-          "max": 9690
+          "max": 9690,
+          "weight": 1
         }
       }
     ]
@@ -10830,7 +11387,8 @@
         "scores": {
           "num_votes": 30,
           "score": 79.0,
-          "max": 1260
+          "max": 1260,
+          "weight": 1
         }
       },
       {
@@ -10838,7 +11396,8 @@
         "scores": {
           "num_votes": 60,
           "score": 131.0,
-          "max": 2520
+          "max": 2520,
+          "weight": 1
         }
       },
       {
@@ -10846,7 +11405,8 @@
         "scores": {
           "num_votes": 80,
           "score": 1428.0,
-          "max": 3360
+          "max": 3360,
+          "weight": 1
         }
       },
       {
@@ -10854,7 +11414,8 @@
         "scores": {
           "num_votes": 3054,
           "score": 118188.0,
-          "max": 128220
+          "max": 128220,
+          "weight": 1
         }
       },
       {
@@ -10862,7 +11423,8 @@
         "scores": {
           "num_votes": 10,
           "score": 26.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -10870,7 +11432,8 @@
         "scores": {
           "num_votes": 30,
           "score": 128.0,
-          "max": 1260
+          "max": 1260,
+          "weight": 1
         }
       },
       {
@@ -10878,7 +11441,8 @@
         "scores": {
           "num_votes": 2578,
           "score": 6896.0,
-          "max": 108300
+          "max": 108300,
+          "weight": 1
         }
       },
       {
@@ -10886,7 +11450,8 @@
         "scores": {
           "num_votes": 10,
           "score": 126.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -10894,7 +11459,8 @@
         "scores": {
           "num_votes": 48,
           "score": 960.0,
-          "max": 2000
+          "max": 2000,
+          "weight": 1
         }
       },
       {
@@ -10902,7 +11468,8 @@
         "scores": {
           "num_votes": 10,
           "score": 202.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       },
       {
@@ -10910,7 +11477,8 @@
         "scores": {
           "num_votes": 570,
           "score": 21425.0,
-          "max": 23940
+          "max": 23940,
+          "weight": 1
         }
       },
       {
@@ -10918,7 +11486,8 @@
         "scores": {
           "num_votes": 6,
           "score": 100.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -10926,7 +11495,8 @@
         "scores": {
           "num_votes": 10,
           "score": 151.0,
-          "max": 420
+          "max": 420,
+          "weight": 1
         }
       }
     ]
@@ -10988,7 +11558,8 @@
         "scores": {
           "num_votes": 1527,
           "score": 59707.0,
-          "max": 64150
+          "max": 64150,
+          "weight": 1
         }
       },
       {
@@ -10996,7 +11567,8 @@
         "scores": {
           "num_votes": 5,
           "score": 101.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       },
       {
@@ -11004,7 +11576,8 @@
         "scores": {
           "num_votes": 15,
           "score": 52.0,
-          "max": 630
+          "max": 630,
+          "weight": 1
         }
       },
       {
@@ -11012,7 +11585,8 @@
         "scores": {
           "num_votes": 5,
           "score": 0.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       },
       {
@@ -11020,7 +11594,8 @@
         "scores": {
           "num_votes": 1288,
           "score": 2745.0,
-          "max": 54080
+          "max": 54080,
+          "weight": 1
         }
       },
       {
@@ -11028,7 +11603,8 @@
         "scores": {
           "num_votes": 4,
           "score": 76.0,
-          "max": 160
+          "max": 160,
+          "weight": 1
         }
       },
       {
@@ -11036,7 +11612,8 @@
         "scores": {
           "num_votes": 40,
           "score": 463.0,
-          "max": 1680
+          "max": 1680,
+          "weight": 1
         }
       },
       {
@@ -11044,7 +11621,8 @@
         "scores": {
           "num_votes": 30,
           "score": 201.0,
-          "max": 1260
+          "max": 1260,
+          "weight": 1
         }
       },
       {
@@ -11052,7 +11630,8 @@
         "scores": {
           "num_votes": 5,
           "score": 101.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       },
       {
@@ -11060,7 +11639,8 @@
         "scores": {
           "num_votes": 24,
           "score": 480.0,
-          "max": 1000
+          "max": 1000,
+          "weight": 1
         }
       },
       {
@@ -11068,7 +11648,8 @@
         "scores": {
           "num_votes": 5,
           "score": 25.0,
-          "max": 210
+          "max": 210,
+          "weight": 1
         }
       },
       {
@@ -11076,7 +11657,8 @@
         "scores": {
           "num_votes": 15,
           "score": 101.0,
-          "max": 630
+          "max": 630,
+          "weight": 1
         }
       },
       {
@@ -11084,7 +11666,8 @@
         "scores": {
           "num_votes": 285,
           "score": 10790.0,
-          "max": 11970
+          "max": 11970,
+          "weight": 1
         }
       }
     ]
@@ -11281,7 +11864,8 @@
         "scores": {
           "num_votes": 60,
           "score": 59.0,
-          "max": 1320
+          "max": 1320,
+          "weight": 1
         }
       },
       {
@@ -11289,7 +11873,8 @@
         "scores": {
           "num_votes": 1140,
           "score": 22064.0,
-          "max": 25080
+          "max": 25080,
+          "weight": 1
         }
       },
       {
@@ -11297,7 +11882,8 @@
         "scores": {
           "num_votes": 20,
           "score": 62.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -11305,7 +11891,8 @@
         "scores": {
           "num_votes": 20,
           "score": 127.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -11313,7 +11900,8 @@
         "scores": {
           "num_votes": 20,
           "score": 118.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -11321,7 +11909,8 @@
         "scores": {
           "num_votes": 120,
           "score": 68.0,
-          "max": 2640
+          "max": 2640,
+          "weight": 1
         }
       },
       {
@@ -11329,7 +11918,8 @@
         "scores": {
           "num_votes": 5140,
           "score": 11689.0,
-          "max": 113040
+          "max": 113040,
+          "weight": 1
         }
       },
       {
@@ -11337,7 +11927,8 @@
         "scores": {
           "num_votes": 160,
           "score": 608.0,
-          "max": 3520
+          "max": 3520,
+          "weight": 1
         }
       },
       {
@@ -11345,7 +11936,8 @@
         "scores": {
           "num_votes": 20,
           "score": 164.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -11353,7 +11945,8 @@
         "scores": {
           "num_votes": 6116,
           "score": 121378.0,
-          "max": 134520
+          "max": 134520,
+          "weight": 1
         }
       },
       {
@@ -11361,7 +11954,8 @@
         "scores": {
           "num_votes": 94,
           "score": 742.0,
-          "max": 2020
+          "max": 2020,
+          "weight": 1
         }
       },
       {
@@ -11369,7 +11963,8 @@
         "scores": {
           "num_votes": 60,
           "score": 124.0,
-          "max": 1320
+          "max": 1320,
+          "weight": 1
         }
       },
       {
@@ -11377,7 +11972,8 @@
         "scores": {
           "num_votes": 7,
           "score": 54.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       }
     ]
@@ -11565,7 +12161,8 @@
         "scores": {
           "num_votes": 19,
           "score": 139.0,
-          "max": 390
+          "max": 390,
+          "weight": 1
         }
       },
       {
@@ -11573,7 +12170,8 @@
         "scores": {
           "num_votes": 5694,
           "score": 95126.0,
-          "max": 113620
+          "max": 113620,
+          "weight": 1
         }
       },
       {
@@ -11581,7 +12179,8 @@
         "scores": {
           "num_votes": 18,
           "score": 50.0,
-          "max": 340
+          "max": 340,
+          "weight": 1
         }
       },
       {
@@ -11589,7 +12188,8 @@
         "scores": {
           "num_votes": 57,
           "score": 133.0,
-          "max": 1170
+          "max": 1170,
+          "weight": 1
         }
       },
       {
@@ -11597,7 +12197,8 @@
         "scores": {
           "num_votes": 152,
           "score": 889.0,
-          "max": 3120
+          "max": 3120,
+          "weight": 1
         }
       },
       {
@@ -11605,7 +12206,8 @@
         "scores": {
           "num_votes": 115,
           "score": 44.0,
-          "max": 2390
+          "max": 2390,
+          "weight": 1
         }
       },
       {
@@ -11613,7 +12215,8 @@
         "scores": {
           "num_votes": 18,
           "score": 93.0,
-          "max": 340
+          "max": 340,
+          "weight": 1
         }
       },
       {
@@ -11621,7 +12224,8 @@
         "scores": {
           "num_votes": 4986,
           "score": 26056.0,
-          "max": 104980
+          "max": 104980,
+          "weight": 1
         }
       },
       {
@@ -11629,7 +12233,8 @@
         "scores": {
           "num_votes": 1089,
           "score": 17330.0,
-          "max": 22530
+          "max": 22530,
+          "weight": 1
         }
       },
       {
@@ -11637,7 +12242,8 @@
         "scores": {
           "num_votes": 57,
           "score": 243.0,
-          "max": 1170
+          "max": 1170,
+          "weight": 1
         }
       },
       {
@@ -11645,7 +12251,8 @@
         "scores": {
           "num_votes": 10,
           "score": 57.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       },
       {
@@ -11653,7 +12260,8 @@
         "scores": {
           "num_votes": 25,
           "score": 136.0,
-          "max": 690
+          "max": 690,
+          "weight": 1
         }
       },
       {
@@ -11661,7 +12269,8 @@
         "scores": {
           "num_votes": 93,
           "score": 645.0,
-          "max": 1850
+          "max": 1850,
+          "weight": 1
         }
       },
       {
@@ -11669,7 +12278,8 @@
         "scores": {
           "num_votes": 3,
           "score": 75.0,
-          "max": 150
+          "max": 150,
+          "weight": 1
         }
       },
       {
@@ -11677,7 +12287,8 @@
         "scores": {
           "num_votes": 1,
           "score": 25.0,
-          "max": 50
+          "max": 50,
+          "weight": 1
         }
       }
     ]
@@ -11757,7 +12368,8 @@
         "scores": {
           "num_votes": 34,
           "score": 610.0,
-          "max": 1300
+          "max": 1300,
+          "weight": 1
         }
       },
       {
@@ -11765,7 +12377,8 @@
         "scores": {
           "num_votes": 1798,
           "score": 5803.0,
-          "max": 69500
+          "max": 69500,
+          "weight": 1
         }
       },
       {
@@ -11773,7 +12386,8 @@
         "scores": {
           "num_votes": 7,
           "score": 126.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -11781,7 +12395,8 @@
         "scores": {
           "num_votes": 56,
           "score": 1006.0,
-          "max": 2160
+          "max": 2160,
+          "weight": 1
         }
       },
       {
@@ -11789,7 +12404,8 @@
         "scores": {
           "num_votes": 42,
           "score": 762.0,
-          "max": 1620
+          "max": 1620,
+          "weight": 1
         }
       },
       {
@@ -11797,7 +12413,8 @@
         "scores": {
           "num_votes": 7,
           "score": 127.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -11805,7 +12422,8 @@
         "scores": {
           "num_votes": 7,
           "score": 50.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -11813,7 +12431,8 @@
         "scores": {
           "num_votes": 7,
           "score": 101.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -11821,7 +12440,8 @@
         "scores": {
           "num_votes": 2141,
           "score": 75903.0,
-          "max": 82610
+          "max": 82610,
+          "weight": 1
         }
       },
       {
@@ -11829,7 +12449,8 @@
         "scores": {
           "num_votes": 21,
           "score": 203.0,
-          "max": 810
+          "max": 810,
+          "weight": 1
         }
       },
       {
@@ -11837,7 +12458,8 @@
         "scores": {
           "num_votes": 399,
           "score": 13733.0,
-          "max": 15390
+          "max": 15390,
+          "weight": 1
         }
       },
       {
@@ -11845,7 +12467,8 @@
         "scores": {
           "num_votes": 21,
           "score": 328.0,
-          "max": 810
+          "max": 810,
+          "weight": 1
         }
       },
       {
@@ -11853,7 +12476,8 @@
         "scores": {
           "num_votes": 2,
           "score": 2.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       }
     ]
@@ -11888,7 +12512,8 @@
         "scores": {
           "num_votes": 6,
           "score": 0.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       },
       {
@@ -11896,7 +12521,8 @@
         "scores": {
           "num_votes": 2,
           "score": 26.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -11904,7 +12530,8 @@
         "scores": {
           "num_votes": 516,
           "score": 523.0,
-          "max": 15480
+          "max": 15480,
+          "weight": 1
         }
       },
       {
@@ -11912,7 +12539,8 @@
         "scores": {
           "num_votes": 16,
           "score": 104.0,
-          "max": 480
+          "max": 480,
+          "weight": 1
         }
       },
       {
@@ -11920,7 +12548,8 @@
         "scores": {
           "num_votes": 612,
           "score": 16947.0,
-          "max": 18360
+          "max": 18360,
+          "weight": 1
         }
       },
       {
@@ -11928,7 +12557,8 @@
         "scores": {
           "num_votes": 114,
           "score": 2713.0,
-          "max": 3420
+          "max": 3420,
+          "weight": 1
         }
       },
       {
@@ -11936,7 +12566,8 @@
         "scores": {
           "num_votes": 2,
           "score": 26.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -11944,7 +12575,8 @@
         "scores": {
           "num_votes": 2,
           "score": 26.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -11952,7 +12584,8 @@
         "scores": {
           "num_votes": 12,
           "score": 52.0,
-          "max": 360
+          "max": 360,
+          "weight": 1
         }
       },
       {
@@ -11960,7 +12593,8 @@
         "scores": {
           "num_votes": 6,
           "score": 52.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       },
       {
@@ -11968,7 +12602,8 @@
         "scores": {
           "num_votes": 8,
           "score": 104.0,
-          "max": 240
+          "max": 240,
+          "weight": 1
         }
       },
       {
@@ -11976,7 +12611,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       }
     ]
@@ -12074,7 +12710,8 @@
         "scores": {
           "num_votes": 2318,
           "score": 7210.0,
-          "max": 105620
+          "max": 105620,
+          "weight": 1
         }
       },
       {
@@ -12082,7 +12719,8 @@
         "scores": {
           "num_votes": 9,
           "score": 200.0,
-          "max": 410
+          "max": 410,
+          "weight": 1
         }
       },
       {
@@ -12090,7 +12728,8 @@
         "scores": {
           "num_votes": 9,
           "score": 100.0,
-          "max": 410
+          "max": 410,
+          "weight": 1
         }
       },
       {
@@ -12098,7 +12737,8 @@
         "scores": {
           "num_votes": 27,
           "score": 101.0,
-          "max": 1230
+          "max": 1230,
+          "weight": 1
         }
       },
       {
@@ -12106,7 +12746,8 @@
         "scores": {
           "num_votes": 27,
           "score": 427.0,
-          "max": 1230
+          "max": 1230,
+          "weight": 1
         }
       },
       {
@@ -12114,7 +12755,8 @@
         "scores": {
           "num_votes": 9,
           "score": 201.0,
-          "max": 410
+          "max": 410,
+          "weight": 1
         }
       },
       {
@@ -12122,7 +12764,8 @@
         "scores": {
           "num_votes": 54,
           "score": 225.0,
-          "max": 2460
+          "max": 2460,
+          "weight": 1
         }
       },
       {
@@ -12130,7 +12773,8 @@
         "scores": {
           "num_votes": 72,
           "score": 1303.0,
-          "max": 3280
+          "max": 3280,
+          "weight": 1
         }
       },
       {
@@ -12138,7 +12782,8 @@
         "scores": {
           "num_votes": 2751,
           "score": 116343.0,
-          "max": 125310
+          "max": 125310,
+          "weight": 1
         }
       },
       {
@@ -12146,7 +12791,8 @@
         "scores": {
           "num_votes": 44,
           "score": 1004.0,
-          "max": 2040
+          "max": 2040,
+          "weight": 1
         }
       },
       {
@@ -12154,7 +12800,8 @@
         "scores": {
           "num_votes": 5,
           "score": 100.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -12162,7 +12809,8 @@
         "scores": {
           "num_votes": 9,
           "score": 100.0,
-          "max": 410
+          "max": 410,
+          "weight": 1
         }
       },
       {
@@ -12170,7 +12818,8 @@
         "scores": {
           "num_votes": 513,
           "score": 20916.0,
-          "max": 23370
+          "max": 23370,
+          "weight": 1
         }
       }
     ]
@@ -12277,7 +12926,8 @@
         "scores": {
           "num_votes": 80,
           "score": 1029.0,
-          "max": 2400
+          "max": 2400,
+          "weight": 1
         }
       },
       {
@@ -12285,7 +12935,8 @@
         "scores": {
           "num_votes": 30,
           "score": 130.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -12293,7 +12944,8 @@
         "scores": {
           "num_votes": 2578,
           "score": 13829.0,
-          "max": 77300
+          "max": 77300,
+          "weight": 1
         }
       },
       {
@@ -12301,7 +12953,8 @@
         "scores": {
           "num_votes": 60,
           "score": 554.0,
-          "max": 1800
+          "max": 1800,
+          "weight": 1
         }
       },
       {
@@ -12309,7 +12962,8 @@
         "scores": {
           "num_votes": 10,
           "score": 128.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -12317,7 +12971,8 @@
         "scores": {
           "num_votes": 10,
           "score": 130.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -12325,7 +12980,8 @@
         "scores": {
           "num_votes": 6,
           "score": 53.0,
-          "max": 180
+          "max": 180,
+          "weight": 1
         }
       },
       {
@@ -12333,7 +12989,8 @@
         "scores": {
           "num_votes": 10,
           "score": 26.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -12341,7 +12998,8 @@
         "scores": {
           "num_votes": 3054,
           "score": 81735.0,
-          "max": 91620
+          "max": 91620,
+          "weight": 1
         }
       },
       {
@@ -12349,7 +13007,8 @@
         "scores": {
           "num_votes": 10,
           "score": 130.0,
-          "max": 300
+          "max": 300,
+          "weight": 1
         }
       },
       {
@@ -12357,7 +13016,8 @@
         "scores": {
           "num_votes": 30,
           "score": 385.0,
-          "max": 900
+          "max": 900,
+          "weight": 1
         }
       },
       {
@@ -12365,7 +13025,8 @@
         "scores": {
           "num_votes": 570,
           "score": 14939.0,
-          "max": 17100
+          "max": 17100,
+          "weight": 1
         }
       },
       {
@@ -12373,7 +13034,8 @@
         "scores": {
           "num_votes": 49,
           "score": 649.0,
-          "max": 1490
+          "max": 1490,
+          "weight": 1
         }
       }
     ]
@@ -12480,7 +13142,8 @@
         "scores": {
           "num_votes": 31,
           "score": 302.0,
-          "max": 590
+          "max": 590,
+          "weight": 1
         }
       },
       {
@@ -12488,7 +13151,8 @@
         "scores": {
           "num_votes": 573,
           "score": 10054.0,
-          "max": 14930
+          "max": 14930,
+          "weight": 1
         }
       },
       {
@@ -12496,7 +13160,8 @@
         "scores": {
           "num_votes": 44,
           "score": 500.0,
-          "max": 1200
+          "max": 1200,
+          "weight": 1
         }
       },
       {
@@ -12504,7 +13169,8 @@
         "scores": {
           "num_votes": 2045,
           "score": 24394.0,
-          "max": 59250
+          "max": 59250,
+          "weight": 1
         }
       },
       {
@@ -12512,7 +13178,8 @@
         "scores": {
           "num_votes": 3571,
           "score": 63383.0,
-          "max": 86830
+          "max": 86830,
+          "weight": 1
         }
       },
       {
@@ -12520,7 +13187,8 @@
         "scores": {
           "num_votes": 71,
           "score": 1199.0,
-          "max": 1910
+          "max": 1910,
+          "weight": 1
         }
       },
       {
@@ -12528,7 +13196,8 @@
         "scores": {
           "num_votes": 19,
           "score": 258.0,
-          "max": 430
+          "max": 430,
+          "weight": 1
         }
       },
       {
@@ -12536,7 +13205,8 @@
         "scores": {
           "num_votes": 30,
           "score": 522.0,
-          "max": 780
+          "max": 780,
+          "weight": 1
         }
       },
       {
@@ -12544,7 +13214,8 @@
         "scores": {
           "num_votes": 34,
           "score": 558.0,
-          "max": 860
+          "max": 860,
+          "weight": 1
         }
       },
       {
@@ -12552,7 +13223,8 @@
         "scores": {
           "num_votes": 5,
           "score": 53.0,
-          "max": 130
+          "max": 130,
+          "weight": 1
         }
       },
       {
@@ -12560,7 +13232,8 @@
         "scores": {
           "num_votes": 24,
           "score": 168.0,
-          "max": 480
+          "max": 480,
+          "weight": 1
         }
       },
       {
@@ -12568,7 +13241,8 @@
         "scores": {
           "num_votes": 2,
           "score": 75.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -12576,7 +13250,8 @@
         "scores": {
           "num_votes": 57,
           "score": 654.0,
-          "max": 1490
+          "max": 1490,
+          "weight": 1
         }
       },
       {
@@ -12584,7 +13259,8 @@
         "scores": {
           "num_votes": 2,
           "score": 100.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -12592,7 +13268,8 @@
         "scores": {
           "num_votes": 10,
           "score": 106.0,
-          "max": 260
+          "max": 260,
+          "weight": 1
         }
       },
       {
@@ -12600,7 +13277,8 @@
         "scores": {
           "num_votes": 1,
           "score": 1.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       }
     ]
@@ -12887,7 +13565,8 @@
         "scores": {
           "num_votes": 6538,
           "score": 60815.0,
-          "max": 148060
+          "max": 148060,
+          "weight": 1
         }
       },
       {
@@ -12895,7 +13574,8 @@
         "scores": {
           "num_votes": 10485,
           "score": 181057.0,
-          "max": 226010
+          "max": 226010,
+          "weight": 1
         }
       },
       {
@@ -12903,7 +13583,8 @@
         "scores": {
           "num_votes": 90,
           "score": 874.0,
-          "max": 1980
+          "max": 1980,
+          "weight": 1
         }
       },
       {
@@ -12911,7 +13592,8 @@
         "scores": {
           "num_votes": 170,
           "score": 2008.0,
-          "max": 3740
+          "max": 3740,
+          "weight": 1
         }
       },
       {
@@ -12919,7 +13601,8 @@
         "scores": {
           "num_votes": 59,
           "score": 268.0,
-          "max": 1190
+          "max": 1190,
+          "weight": 1
         }
       },
       {
@@ -12927,7 +13610,8 @@
         "scores": {
           "num_votes": 106,
           "score": 1895.0,
-          "max": 2300
+          "max": 2300,
+          "weight": 1
         }
       },
       {
@@ -12935,7 +13619,8 @@
         "scores": {
           "num_votes": 119,
           "score": 612.0,
-          "max": 2310
+          "max": 2310,
+          "weight": 1
         }
       },
       {
@@ -12943,7 +13628,8 @@
         "scores": {
           "num_votes": 57,
           "score": 417.0,
-          "max": 1170
+          "max": 1170,
+          "weight": 1
         }
       },
       {
@@ -12951,7 +13637,8 @@
         "scores": {
           "num_votes": 180,
           "score": 489.0,
-          "max": 4160
+          "max": 4160,
+          "weight": 1
         }
       },
       {
@@ -12959,7 +13646,8 @@
         "scores": {
           "num_votes": 1623,
           "score": 29077.0,
-          "max": 36110
+          "max": 36110,
+          "weight": 1
         }
       },
       {
@@ -12967,7 +13655,8 @@
         "scores": {
           "num_votes": 30,
           "score": 246.0,
-          "max": 660
+          "max": 660,
+          "weight": 1
         }
       },
       {
@@ -12975,7 +13664,8 @@
         "scores": {
           "num_votes": 118,
           "score": 1030.0,
-          "max": 2700
+          "max": 2700,
+          "weight": 1
         }
       },
       {
@@ -12983,7 +13673,8 @@
         "scores": {
           "num_votes": 2,
           "score": 2.0,
-          "max": 20
+          "max": 20,
+          "weight": 1
         }
       },
       {
@@ -12991,7 +13682,8 @@
         "scores": {
           "num_votes": 11,
           "score": 235.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -12999,7 +13691,8 @@
         "scores": {
           "num_votes": 11,
           "score": 270.0,
-          "max": 270
+          "max": 270,
+          "weight": 1
         }
       },
       {
@@ -13007,7 +13700,8 @@
         "scores": {
           "num_votes": 14,
           "score": 168.0,
-          "max": 340
+          "max": 340,
+          "weight": 1
         }
       },
       {
@@ -13015,7 +13709,8 @@
         "scores": {
           "num_votes": 6,
           "score": 30.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       }
     ]
@@ -13149,7 +13844,8 @@
         "scores": {
           "num_votes": 60,
           "score": 420.0,
-          "max": 1200
+          "max": 1200,
+          "weight": 1
         }
       },
       {
@@ -13157,7 +13853,8 @@
         "scores": {
           "num_votes": 2603,
           "score": 29953.0,
-          "max": 53950
+          "max": 53950,
+          "weight": 1
         }
       },
       {
@@ -13165,7 +13862,8 @@
         "scores": {
           "num_votes": 73,
           "score": 835.0,
-          "max": 1450
+          "max": 1450,
+          "weight": 1
         }
       },
       {
@@ -13173,7 +13871,8 @@
         "scores": {
           "num_votes": 30,
           "score": 291.0,
-          "max": 580
+          "max": 580,
+          "weight": 1
         }
       },
       {
@@ -13181,7 +13880,8 @@
         "scores": {
           "num_votes": 44,
           "score": 627.0,
-          "max": 800
+          "max": 800,
+          "weight": 1
         }
       },
       {
@@ -13189,7 +13889,8 @@
         "scores": {
           "num_votes": 95,
           "score": 653.0,
-          "max": 1990
+          "max": 1990,
+          "weight": 1
         }
       },
       {
@@ -13197,7 +13898,8 @@
         "scores": {
           "num_votes": 36,
           "score": 267.0,
-          "max": 440
+          "max": 440,
+          "weight": 1
         }
       },
       {
@@ -13205,7 +13907,8 @@
         "scores": {
           "num_votes": 13,
           "score": 85.0,
-          "max": 250
+          "max": 250,
+          "weight": 1
         }
       },
       {
@@ -13213,7 +13916,8 @@
         "scores": {
           "num_votes": 39,
           "score": 329.0,
-          "max": 750
+          "max": 750,
+          "weight": 1
         }
       },
       {
@@ -13221,7 +13925,8 @@
         "scores": {
           "num_votes": 4676,
           "score": 48919.0,
-          "max": 85200
+          "max": 85200,
+          "weight": 1
         }
       },
       {
@@ -13229,7 +13934,8 @@
         "scores": {
           "num_votes": 33,
           "score": 177.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13237,7 +13943,8 @@
         "scores": {
           "num_votes": 7,
           "score": 154.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -13245,7 +13952,8 @@
         "scores": {
           "num_votes": 757,
           "score": 12779.0,
-          "max": 14890
+          "max": 14890,
+          "weight": 1
         }
       },
       {
@@ -13253,7 +13961,8 @@
         "scores": {
           "num_votes": 2,
           "score": 51.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       },
       {
@@ -13261,7 +13970,8 @@
         "scores": {
           "num_votes": 2,
           "score": 50.0,
-          "max": 60
+          "max": 60,
+          "weight": 1
         }
       }
     ]
@@ -13449,7 +14159,8 @@
         "scores": {
           "num_votes": 139,
           "score": 298.0,
-          "max": 1390
+          "max": 1390,
+          "weight": 1
         }
       },
       {
@@ -13457,7 +14168,8 @@
         "scores": {
           "num_votes": 57,
           "score": 57.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13465,7 +14177,8 @@
         "scores": {
           "num_votes": 57,
           "score": 46.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13473,7 +14186,8 @@
         "scores": {
           "num_votes": 10,
           "score": 5.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -13481,7 +14195,8 @@
         "scores": {
           "num_votes": 89,
           "score": 107.0,
-          "max": 890
+          "max": 890,
+          "weight": 1
         }
       },
       {
@@ -13489,7 +14204,8 @@
         "scores": {
           "num_votes": 109,
           "score": 13.0,
-          "max": 1090
+          "max": 1090,
+          "weight": 1
         }
       },
       {
@@ -13497,7 +14213,8 @@
         "scores": {
           "num_votes": 48,
           "score": 215.0,
-          "max": 480
+          "max": 480,
+          "weight": 1
         }
       },
       {
@@ -13505,7 +14222,8 @@
         "scores": {
           "num_votes": 1114,
           "score": 186.0,
-          "max": 11140
+          "max": 11140,
+          "weight": 1
         }
       },
       {
@@ -13513,7 +14231,8 @@
         "scores": {
           "num_votes": 86,
           "score": 86.0,
-          "max": 860
+          "max": 860,
+          "weight": 1
         }
       },
       {
@@ -13521,7 +14240,8 @@
         "scores": {
           "num_votes": 3404,
           "score": 1906.0,
-          "max": 34040
+          "max": 34040,
+          "weight": 1
         }
       },
       {
@@ -13529,7 +14249,8 @@
         "scores": {
           "num_votes": 66,
           "score": 12.0,
-          "max": 660
+          "max": 660,
+          "weight": 1
         }
       },
       {
@@ -13537,7 +14258,8 @@
         "scores": {
           "num_votes": 7187,
           "score": 57074.0,
-          "max": 71870
+          "max": 71870,
+          "weight": 1
         }
       },
       {
@@ -13545,7 +14267,8 @@
         "scores": {
           "num_votes": 19,
           "score": 19.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       }
     ]
@@ -13598,7 +14321,8 @@
         "scores": {
           "num_votes": 28,
           "score": 780.0,
-          "max": 1000
+          "max": 1000,
+          "weight": 1
         }
       },
       {
@@ -13606,7 +14330,8 @@
         "scores": {
           "num_votes": 9,
           "score": 153.0,
-          "max": 330
+          "max": 330,
+          "weight": 1
         }
       },
       {
@@ -13614,7 +14339,8 @@
         "scores": {
           "num_votes": 11,
           "score": 27.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -13622,7 +14348,8 @@
         "scores": {
           "num_votes": 230,
           "score": 825.0,
-          "max": 7340
+          "max": 7340,
+          "weight": 1
         }
       },
       {
@@ -13630,7 +14357,8 @@
         "scores": {
           "num_votes": 13,
           "score": 2.0,
-          "max": 370
+          "max": 370,
+          "weight": 1
         }
       },
       {
@@ -13638,7 +14366,8 @@
         "scores": {
           "num_votes": 4,
           "score": 52.0,
-          "max": 120
+          "max": 120,
+          "weight": 1
         }
       },
       {
@@ -13646,7 +14375,8 @@
         "scores": {
           "num_votes": 1377,
           "score": 27444.0,
-          "max": 41930
+          "max": 41930,
+          "weight": 1
         }
       },
       {
@@ -13654,7 +14384,8 @@
         "scores": {
           "num_votes": 12,
           "score": 78.0,
-          "max": 360
+          "max": 360,
+          "weight": 1
         }
       },
       {
@@ -13662,7 +14393,8 @@
         "scores": {
           "num_votes": 2,
           "score": 0.0,
-          "max": 100
+          "max": 100,
+          "weight": 1
         }
       },
       {
@@ -13670,7 +14402,8 @@
         "scores": {
           "num_votes": 858,
           "score": 21325.0,
-          "max": 24260
+          "max": 24260,
+          "weight": 1
         }
       },
       {
@@ -13678,7 +14411,8 @@
         "scores": {
           "num_votes": 24,
           "score": 5.0,
-          "max": 720
+          "max": 720,
+          "weight": 1
         }
       },
       {
@@ -13686,7 +14420,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       },
       {
@@ -13694,7 +14429,8 @@
         "scores": {
           "num_votes": 11,
           "score": 4.0,
-          "max": 350
+          "max": 350,
+          "weight": 1
         }
       },
       {
@@ -13702,7 +14438,8 @@
         "scores": {
           "num_votes": 17,
           "score": 257.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13710,7 +14447,8 @@
         "scores": {
           "num_votes": 1,
           "score": 0.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       },
       {
@@ -13718,7 +14456,8 @@
         "scores": {
           "num_votes": 1,
           "score": 1.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       }
     ]
@@ -13834,7 +14573,8 @@
         "scores": {
           "num_votes": 33,
           "score": 175.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13842,7 +14582,8 @@
         "scores": {
           "num_votes": 33,
           "score": 177.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13850,7 +14591,8 @@
         "scores": {
           "num_votes": 11,
           "score": 77.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -13858,7 +14600,8 @@
         "scores": {
           "num_votes": 2146,
           "score": 14172.0,
-          "max": 37140
+          "max": 37140,
+          "weight": 1
         }
       },
       {
@@ -13866,7 +14609,8 @@
         "scores": {
           "num_votes": 68,
           "score": 444.0,
-          "max": 1160
+          "max": 1160,
+          "weight": 1
         }
       },
       {
@@ -13874,7 +14618,8 @@
         "scores": {
           "num_votes": 3866,
           "score": 32442.0,
-          "max": 66820
+          "max": 66820,
+          "weight": 1
         }
       },
       {
@@ -13882,7 +14627,8 @@
         "scores": {
           "num_votes": 693,
           "score": 4310.0,
-          "max": 11970
+          "max": 11970,
+          "weight": 1
         }
       },
       {
@@ -13890,7 +14636,8 @@
         "scores": {
           "num_votes": 44,
           "score": 266.0,
-          "max": 680
+          "max": 680,
+          "weight": 1
         }
       },
       {
@@ -13898,7 +14645,8 @@
         "scores": {
           "num_votes": 99,
           "score": 603.0,
-          "max": 1710
+          "max": 1710,
+          "weight": 1
         }
       },
       {
@@ -13906,7 +14654,8 @@
         "scores": {
           "num_votes": 11,
           "score": 59.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -13914,7 +14663,8 @@
         "scores": {
           "num_votes": 55,
           "score": 295.0,
-          "max": 950
+          "max": 950,
+          "weight": 1
         }
       },
       {
@@ -13922,7 +14672,8 @@
         "scores": {
           "num_votes": 33,
           "score": 177.0,
-          "max": 570
+          "max": 570,
+          "weight": 1
         }
       },
       {
@@ -13930,7 +14681,8 @@
         "scores": {
           "num_votes": 11,
           "score": 41.0,
-          "max": 190
+          "max": 190,
+          "weight": 1
         }
       },
       {
@@ -13938,7 +14690,8 @@
         "scores": {
           "num_votes": 1,
           "score": 1.0,
-          "max": 10
+          "max": 10,
+          "weight": 1
         }
       }
     ]
