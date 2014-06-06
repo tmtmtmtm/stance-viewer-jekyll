@@ -4,7 +4,7 @@ class Issue
 
   @@datafile = 'stancer.json'
   #FIXME
-  @@issues = JSON.parse(File.read('data.json'))
+  @@issues = JSON.parse(File.read('_data/issues.yaml'))
 
   def initialize(id)
     @id = id
