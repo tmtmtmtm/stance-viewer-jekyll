@@ -6,8 +6,12 @@ layout: default
 
 <h3>Stances</h3>
 <ul>
-  {% for stance in page.stances %}
-  {% if stance.num_votes > 0 %}<li>{% include stance.html stance=stance %}</li>{% endif %}
+  {% for issue in site.data.partystances %}
+    {% for stance in issue.stances %}
+      {% if stance.party == page.id %}
+        {% if stance.scores.num_votes > 0 %}<li>{% include stance.html scores=stance.scores %} {{issue.html}}</li>{% endif %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </ul>
 
