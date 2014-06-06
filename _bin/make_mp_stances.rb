@@ -4,8 +4,10 @@ require 'json'
 require 'stancer'
 require 'parallel'
 
-issues = JSON.parse(File.read('data.json'))
-parties = JSON.parse(File.read('parties.json'))
+issues = JSON.parse(File.read('_data/issues.yaml'))
+parties = JSON.parse(File.read('_data/parties.yaml'))
+
+allstances = []
 
 issues.each do |i|
   begin
@@ -17,10 +19,12 @@ issues.each do |i|
         filter: "party.id:#{p['id']}",
         issue: Issue.new(i['id']),
       ).scored_blocs
-    }.reduce(:merge)
+    }.reduce(:merge).map { |k, v| { person: k, scores: v } }
     i['stances'] = stances
-    puts JSON.pretty_generate(i)
-  rescue
-    warn "PROBLEM with #{i['text']} (#{i['id']})"
+    allstances << i
+  rescue => e
+    warn "PROBLEM with #{i['text']} (#{i['id']}) = #{e}"
   end
 end
+
+puts JSON.pretty_generate(allstances)
