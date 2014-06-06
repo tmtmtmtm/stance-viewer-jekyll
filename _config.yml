@@ -1,5 +1,6 @@
 markdown: redcarpet
 pygments: false
+relative_permalinks: false
 exclude: 
   - lib/
   - t/

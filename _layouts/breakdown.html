@@ -1,0 +1,15 @@
+---
+layout: default
+---
+ 
+<h2><a href="/person/{{ page.id }}.html">{{ page.name }}</a></h2>
+
+<h4>on {{ page.stance.title }}</h4>
+<ul>
+  <li>{% include stance.html stance=page.stance %}</li>
+</ul>
+
+<h4>Individual Votes</h4>
+<ul>
+  <li>Vote detail here
+</ul>
