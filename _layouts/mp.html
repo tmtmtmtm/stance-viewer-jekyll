@@ -2,7 +2,7 @@
 layout: default
 ---
  
-<h2>{{ page.name }}</h2>
+<h2>{{ page.title }}</h2>
 
 <h4>History:</h4>
 <ul>
@@ -17,7 +17,11 @@ layout: default
 
 <h3>Stances:</h3>
 <ul>
-  {% for stance in page.stances %}
-  {% if stance.num_votes > 0 %}<li>{% include stance.html stance=stance %}</li>{% endif %}
+  {% for issue in site.data.mpstances %}
+    {% for stance in issue.stances %}
+      {% if stance.person == page.id %}
+        {% if stance.scores.num_votes > 0 %}<li>{% include stance.html scores=stance.scores %} {{issue.html}}</li>{% endif %}
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </ul>
