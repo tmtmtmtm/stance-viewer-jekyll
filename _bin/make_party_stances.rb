@@ -3,14 +3,14 @@
 require 'json'
 require 'stancer'
 
-issues = JSON.parse(File.read('data.json'))
+issues = JSON.parse(File.read('_data/issues.yaml'))
 
-issues.each do |i|
-  warn "Calculating #{i['text']}"
-  aspect = Aspect.new(
+allstances = issues.map do |i|
+  i['stances'] = Aspect.new(
     bloc:'party.id',
     issue: Issue.new(i['id']),
-  )
-  i['stances'] = aspect.scored_blocs
-  puts JSON.pretty_generate(i)
+  ).scored_blocs.map { |k, v| { party: k, scores: v } }
+  i
 end
+
+puts JSON.pretty_generate(allstances)
