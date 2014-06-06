@@ -4,11 +4,11 @@ class Issue
 
   @@datafile = 'stancer.json'
   #FIXME
-  @@issues = JSON.parse(File.read('_data/issues.yaml'))
+  @@issues = JSON.parse(File.read('data.json'))
 
   def initialize(id)
     @id = id
-    @data = @@issues.find { |i| i['id'] == id }
+    @data = @@issues.detect { |i| i['id'] == id }
     raise "No such issue (#{id})" if @data.nil?
   end
 
@@ -21,72 +21,120 @@ class Issue
   end
 
   def aspect_for(motionid)
-    aspects.find { |a| a['motion_id'] == motionid }
+    aspects.detect { |a| a['motion_id'] == motionid }
   end
 
 end
 
-class Stance
 
-  require 'open-uri/cached'
-  OpenURI::Cache.cache_path = '/tmp/.open_uri_cache'
+class Aspect
+  # weightable aggregate
 
-  @@SERVER = 'http://localhost:5000'
-  @@API    = '/api/1'
-
-  def initialize(filter, issue)
-    @filter = filter
-    @issue = issue
+  # TODO: issue / motion / filter / bloc
+  def initialize args
+    args.each do |k,v|
+      instance_variable_set("@#{k}", v) unless v.nil?
+    end
+    raise "Need an issue" if @issue.nil?
+    @motion = @issue.motion_ids if @motion.nil?
   end
 
-  def score
-    @issue.motion_ids.map { |mid| motion_score(mid) }.inject { |a, b|
-      a.merge(b) { |k, aval, bval| aval + bval }
+  def aggregate
+    @__agg ||= Aggregate.new(bloc: @bloc, filter: @filter, motion: @motion)
+  end
+
+  def weighted_blocs
+    @__wb ||= Hash[ 
+      aggregate.bloc_aggregates.map { |bloc, aggs|
+        [ bloc,  aggs.map { |ai| weighted_aggregate(ai) } ]
+      }
+    ]
+  end
+
+  def scored_blocs
+    # Sum the nested hash values by reducing the merge
+    @__sb ||= Hash[
+      weighted_blocs.map { |bloc,waggs|
+        [ bloc, waggs.each.inject { |a, b| a.merge(b) { |k, aval, bval| aval + bval } } ]
+      }
+    ]
+  end
+
+  def score(bloc=nil)
+    sb = scored_blocs
+    return sb[bloc] unless sb.empty?
+    # TODO I don't like hard-coding this here. It should just sum as
+    # normal, but to zero
+    return {
+      num_votes: 0,
+      score: 0,
+      max: 0,
     }
   end
 
-  def motion_score(motionid)
+
+  private
+  # score a given aggregate by looking up the weights for that motion in
+  # the given Issue
+  def weighted_aggregate (ai)
+    motionid = ai['motion_id']
     aspect = @issue.aspect_for(motionid) or raise "No votes on #{motionid}" 
     weights = aspect['weights']
 
-    agg_match = aggregate.detect { |a| a['motion_id'] == motionid }
-    return { 
-      num_votes: 0,
-      score: 0,
-      max: 0
-    } if agg_match.nil?
-
-    votes     = agg_match['counts']
-
-    # TODO test if this matches the results
+    votes     = ai['counts']
     num_votes = votes.values.map(&:to_i).reduce(:+)
     max_score = weights.values.max * num_votes
     score = votes.map { |option, count| weights[option] * count }.reduce(:+)
 
     return { 
-      # weights: weights,
-      # votes: votes,
       num_votes: num_votes,
       score: score,
       max: max_score,
     }
   end
 
+end
+
+class Aggregate
+
+  require 'open-uri/cached'
+  OpenURI::Cache.cache_path = '/tmp/cache'
+
+  @@SERVER = 'http://localhost:5000'
+  @@API    = '/api/1'
+
+  # TODO: restrict to motion / filter / bloc
+  def initialize args
+    args.each do |k,v|
+      instance_variable_set("@#{k}", v) unless v.nil?
+    end
+  end
+
+  def bloc_aggregates
+    bloc_keys = blocs
+    abort "Can't handle multi-blocs yet" if bloc_keys.size > 1
+    aggregates.group_by { |ai| ai['bloc'][bloc_keys.first] }
+  end
+
+  def blocs
+    aggregate_json['request']['blocs'].reject(&:empty?)
+  end
+
   private
-  def aggregate
-    aggregate_json['aggregate']
+  def aggregates
+    @__agg ||= aggregate_json['aggregate'] 
   end
 
   def aggregate_url
-    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @issue.motion_ids, filter: @filter)
+    @@SERVER + @@API + "/aggregate?" + URI.encode_www_form(motion: @motion, filter: @filter, bloc: @bloc)
   end
 
   def aggregate_txt
-    @agg_txt ||= open(aggregate_url).read
+    @__txt ||= open(aggregate_url).read
   end
 
   def aggregate_json
-    JSON.parse(aggregate_txt)
+    @__json ||= JSON.parse(aggregate_txt)
   end
 
 end
