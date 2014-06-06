@@ -19,7 +19,8 @@ issues.each do |i|
         filter: "party.id:#{p['id']}",
         issue: Issue.new(i['id']),
       ).scored_blocs
-    }.reduce(:merge).map { |k, v| { person: k, scores: v } }
+    }.reduce(:merge).map { |k, v| { person: k, scores: v.merge({ weight: v[:num_votes].zero? ? 0.5 : v[:score] / v[:max] }) } }
+    
     i['stances'] = stances
     allstances << i
   rescue => e
