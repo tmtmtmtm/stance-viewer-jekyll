@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: annabelle_ewing
-name: Annabelle Ewing
+title: Annabelle Ewing
 memberships:
 - id: snp
   name: SNP

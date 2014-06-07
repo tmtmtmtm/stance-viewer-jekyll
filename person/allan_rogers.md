@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: allan_rogers
-name: Allan Rogers
+title: Allan Rogers
 memberships:
 - id: lab
   name: Labour Party

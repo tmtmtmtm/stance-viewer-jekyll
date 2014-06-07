@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rhodri_morgan
-name: Rhodri Morgan
+title: Rhodri Morgan
 memberships:
 - id: lab
   name: Labour Party

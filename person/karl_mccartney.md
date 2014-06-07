@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: karl_mccartney
-name: Karl McCartney
+title: Karl McCartney
 memberships:
 - id: con
   name: Conservative Party

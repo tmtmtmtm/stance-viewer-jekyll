@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angus_robertson
-name: Angus Robertson
+title: Angus Robertson
 memberships:
 - id: snp
   name: SNP

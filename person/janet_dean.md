@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: janet_dean
-name: Janet Dean
+title: Janet Dean
 memberships:
 - id: lab
   name: Labour Party

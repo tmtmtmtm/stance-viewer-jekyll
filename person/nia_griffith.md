@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nia_griffith
-name: Nia Griffith
+title: Nia Griffith
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: keith_hill
-name: Keith Hill
+title: Keith Hill
 memberships:
 - id: lab
   name: Labour Party

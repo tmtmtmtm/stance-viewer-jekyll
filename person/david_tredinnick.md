@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_tredinnick
-name: David Tredinnick
+title: David Tredinnick
 memberships:
 - id: con
   name: Conservative Party

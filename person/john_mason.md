@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_mason
-name: John Mason
+title: John Mason
 memberships:
 - id: snp
   name: SNP

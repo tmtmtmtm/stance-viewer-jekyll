@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_leech
-name: John Leech
+title: John Leech
 memberships:
 - id: ldem
   name: Liberal Democrats

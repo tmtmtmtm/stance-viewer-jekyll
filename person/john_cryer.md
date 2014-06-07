@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_cryer
-name: John Cryer
+title: John Cryer
 memberships:
 - id: lab
   name: Labour Party

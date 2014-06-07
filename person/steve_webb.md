@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: steve_webb
-name: Steve Webb
+title: Steve Webb
 memberships:
 - id: ldem
   name: Liberal Democrats

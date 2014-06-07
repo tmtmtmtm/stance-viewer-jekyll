@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_ainsworth
-name: Peter Ainsworth
+title: Peter Ainsworth
 memberships:
 - id: con
   name: Conservative Party

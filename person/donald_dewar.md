@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: donald_dewar
-name: Donald Dewar
+title: Donald Dewar
 memberships:
 - id: lab
   name: Labour Party

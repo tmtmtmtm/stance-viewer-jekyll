@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tommy_graham
-name: Tommy Graham
+title: Tommy Graham
 memberships:
 - id: ind
   name: Independent

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martyn_jones
-name: Martyn Jones
+title: Martyn Jones
 memberships:
 - id: lab
   name: Labour Party

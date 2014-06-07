@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_heyes
-name: David Heyes
+title: David Heyes
 memberships:
 - id: lab
   name: Labour Party

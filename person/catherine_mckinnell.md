@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: catherine_mckinnell
-name: Catherine McKinnell
+title: Catherine McKinnell
 memberships:
 - id: lab
   name: Labour Party

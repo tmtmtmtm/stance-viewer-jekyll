@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: derek_fatchett
-name: Derek Fatchett
+title: Derek Fatchett
 memberships:
 - id: lab
   name: Labour Party

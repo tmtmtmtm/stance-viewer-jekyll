@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_blackman
-name: Bob Blackman
+title: Bob Blackman
 memberships:
 - id: con
   name: Conservative Party

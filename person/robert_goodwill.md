@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_goodwill
-name: Robert Goodwill
+title: Robert Goodwill
 memberships:
 - id: con
   name: Conservative Party

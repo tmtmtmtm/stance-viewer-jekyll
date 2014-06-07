@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angie_bray
-name: Angie Bray
+title: Angie Bray
 memberships:
 - id: con
   name: Conservative Party

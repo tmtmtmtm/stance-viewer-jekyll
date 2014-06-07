@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_hunter
-name: Mark Hunter
+title: Mark Hunter
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: helen_jackson
-name: Helen Jackson
+title: Helen Jackson
 memberships:
 - id: lab
   name: Labour Party

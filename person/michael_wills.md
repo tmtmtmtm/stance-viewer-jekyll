@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_wills
-name: Michael Wills
+title: Michael Wills
 memberships:
 - id: lab
   name: Labour Party

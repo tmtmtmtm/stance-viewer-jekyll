@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tim_farron
-name: Tim Farron
+title: Tim Farron
 memberships:
 - id: ldem
   name: Liberal Democrats

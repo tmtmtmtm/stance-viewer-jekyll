@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_mowat
-name: David Mowat
+title: David Mowat
 memberships:
 - id: con
   name: Conservative Party

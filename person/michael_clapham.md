@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_clapham
-name: Michael Clapham
+title: Michael Clapham
 memberships:
 - id: lab
   name: Labour Party

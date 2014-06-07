@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andy_sawford
-name: Andy Sawford
+title: Andy Sawford
 memberships:
 - id: lab
   name: Labour Party

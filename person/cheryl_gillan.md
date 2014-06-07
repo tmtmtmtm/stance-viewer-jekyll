@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: cheryl_gillan
-name: Cheryl Gillan
+title: Cheryl Gillan
 memberships:
 - id: con
   name: Conservative Party

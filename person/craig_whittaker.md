@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: craig_whittaker
-name: Craig Whittaker
+title: Craig Whittaker
 memberships:
 - id: con
   name: Conservative Party

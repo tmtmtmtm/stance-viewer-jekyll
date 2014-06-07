@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: frank_cook
-name: Frank Cook
+title: Frank Cook
 memberships:
 - id: lab
   name: Labour Party

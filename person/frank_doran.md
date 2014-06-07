@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: frank_doran
-name: Frank Doran
+title: Frank Doran
 memberships:
 - id: lab
   name: Labour Party

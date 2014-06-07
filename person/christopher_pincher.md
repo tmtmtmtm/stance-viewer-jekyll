@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christopher_pincher
-name: Christopher Pincher
+title: Christopher Pincher
 memberships:
 - id: con
   name: Conservative Party

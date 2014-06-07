@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stewart_hosie
-name: Stewart Hosie
+title: Stewart Hosie
 memberships:
 - id: snp
   name: SNP

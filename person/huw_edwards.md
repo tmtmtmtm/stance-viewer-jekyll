@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: huw_edwards
-name: Huw Edwards
+title: Huw Edwards
 memberships:
 - id: lab
   name: Labour Party

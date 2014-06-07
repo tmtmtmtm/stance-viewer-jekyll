@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: doug_henderson
-name: Doug Henderson
+title: Doug Henderson
 memberships:
 - id: lab
   name: Labour Party

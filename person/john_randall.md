@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_randall
-name: John Randall
+title: John Randall
 memberships:
 - id: con
   name: Conservative Party

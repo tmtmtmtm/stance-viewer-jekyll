@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_taylor
-name: Ann Taylor
+title: Ann Taylor
 memberships:
 - id: lab
   name: Labour Party

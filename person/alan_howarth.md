@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_howarth
-name: Alan Howarth
+title: Alan Howarth
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_marek
-name: John Marek
+title: John Marek
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: duncan_hames
-name: Duncan Hames
+title: Duncan Hames
 memberships:
 - id: ldem
   name: Liberal Democrats

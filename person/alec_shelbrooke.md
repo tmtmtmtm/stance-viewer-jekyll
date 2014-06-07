@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alec_shelbrooke
-name: Alec Shelbrooke
+title: Alec Shelbrooke
 memberships:
 - id: con
   name: Conservative Party

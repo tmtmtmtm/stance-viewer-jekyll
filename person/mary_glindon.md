@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mary_glindon
-name: Mary Glindon
+title: Mary Glindon
 memberships:
 - id: lab
   name: Labour Party

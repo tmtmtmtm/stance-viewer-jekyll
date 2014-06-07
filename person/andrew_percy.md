@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_percy
-name: Andrew Percy
+title: Andrew Percy
 memberships:
 - id: con
   name: Conservative Party

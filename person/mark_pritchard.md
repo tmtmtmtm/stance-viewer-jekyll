@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_pritchard
-name: Mark Pritchard
+title: Mark Pritchard
 memberships:
 - id: con
   name: Conservative Party

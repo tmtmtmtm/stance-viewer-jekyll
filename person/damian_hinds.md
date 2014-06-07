@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: damian_hinds
-name: Damian Hinds
+title: Damian Hinds
 memberships:
 - id: con
   name: Conservative Party

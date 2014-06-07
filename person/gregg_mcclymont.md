@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gregg_mcclymont
-name: Gregg McClymont
+title: Gregg McClymont
 memberships:
 - id: lab
   name: Labour Party

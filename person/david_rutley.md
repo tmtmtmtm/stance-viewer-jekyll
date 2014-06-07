@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_rutley
-name: David Rutley
+title: David Rutley
 memberships:
 - id: con
   name: Conservative Party

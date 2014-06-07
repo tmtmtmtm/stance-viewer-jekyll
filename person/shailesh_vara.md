@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: shailesh_vara
-name: Shailesh Vara
+title: Shailesh Vara
 memberships:
 - id: con
   name: Conservative Party

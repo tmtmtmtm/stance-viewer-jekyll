@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_cotter
-name: Brian Cotter
+title: Brian Cotter
 memberships:
 - id: ldem
   name: Liberal Democrats

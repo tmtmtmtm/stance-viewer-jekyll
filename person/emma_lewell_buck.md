@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: emma_lewell_buck
-name: Emma Lewell-Buck
+title: Emma Lewell-Buck
 memberships:
 - id: lab
   name: Labour Party

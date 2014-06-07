@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roger_casale
-name: Roger Casale
+title: Roger Casale
 memberships:
 - id: lab
   name: Labour Party

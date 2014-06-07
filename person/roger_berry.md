@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roger_berry
-name: Roger Berry
+title: Roger Berry
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: howard_stoate
-name: Howard Stoate
+title: Howard Stoate
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margaret_ritchie
-name: Margaret Ritchie
+title: Margaret Ritchie
 memberships:
 - id: sdlp
   name: SDLP

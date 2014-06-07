@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_brooke
-name: Peter Brooke
+title: Peter Brooke
 memberships:
 - id: con
   name: Conservative Party

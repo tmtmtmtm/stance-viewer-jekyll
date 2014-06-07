@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: steven_baker
-name: Steven Baker
+title: Steven Baker
 memberships:
 - id: con
   name: Conservative Party

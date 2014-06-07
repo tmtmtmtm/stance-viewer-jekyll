@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: oliver_letwin
-name: Oliver Letwin
+title: Oliver Letwin
 memberships:
 - id: con
   name: Conservative Party

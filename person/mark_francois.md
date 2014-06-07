@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_francois
-name: Mark Francois
+title: Mark Francois
 memberships:
 - id: con
   name: Conservative Party

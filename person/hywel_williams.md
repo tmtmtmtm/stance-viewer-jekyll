@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hywel_williams
-name: Hywel Williams
+title: Hywel Williams
 memberships:
 - id: pc
   name: Plaid Cymru

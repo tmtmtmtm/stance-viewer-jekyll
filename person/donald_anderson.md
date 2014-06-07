@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: donald_anderson
-name: Donald Anderson
+title: Donald Anderson
 memberships:
 - id: lab
   name: Labour Party

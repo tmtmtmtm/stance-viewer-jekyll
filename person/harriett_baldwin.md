@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: harriett_baldwin
-name: Harriett Baldwin
+title: Harriett Baldwin
 memberships:
 - id: con
   name: Conservative Party

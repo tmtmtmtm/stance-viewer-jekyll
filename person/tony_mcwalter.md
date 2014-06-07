@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_mcwalter
-name: Tony McWalter
+title: Tony McWalter
 memberships:
 - id: lab
   name: Labour Party

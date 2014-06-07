@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jackie_ballard
-name: Jackie Ballard
+title: Jackie Ballard
 memberships:
 - id: ldem
   name: Liberal Democrats

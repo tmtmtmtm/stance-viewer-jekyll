@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_whitehead
-name: Alan Whitehead
+title: Alan Whitehead
 memberships:
 - id: lab
   name: Labour Party

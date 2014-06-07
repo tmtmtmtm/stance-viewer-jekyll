@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tobias_ellwood
-name: Tobias Ellwood
+title: Tobias Ellwood
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_austin
-name: Ian Austin
+title: Ian Austin
 memberships:
 - id: lab
   name: Labour Party

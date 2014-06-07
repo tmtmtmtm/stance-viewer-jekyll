@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_body
-name: Richard Body
+title: Richard Body
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: william_thompson
-name: William Thompson
+title: William Thompson
 memberships:
 - id: uup
   name: UUP

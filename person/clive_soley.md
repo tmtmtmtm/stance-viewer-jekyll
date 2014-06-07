@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: clive_soley
-name: Clive Soley
+title: Clive Soley
 memberships:
 - id: lab
   name: Labour Party

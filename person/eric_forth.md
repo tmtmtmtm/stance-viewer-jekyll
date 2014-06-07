@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_forth
-name: Eric Forth
+title: Eric Forth
 memberships:
 - id: con
   name: Conservative Party

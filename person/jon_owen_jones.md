@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jon_owen_jones
-name: Jon Owen Jones
+title: Jon Owen Jones
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_penrose
-name: John Penrose
+title: John Penrose
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sydney_chapman
-name: Sydney Chapman
+title: Sydney Chapman
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: linda_perham
-name: Linda Perham
+title: Linda Perham
 memberships:
 - id: lab
   name: Labour Party

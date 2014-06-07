@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dawn_primarolo
-name: Dawn Primarolo
+title: Dawn Primarolo
 memberships:
 - id: lab
   name: Labour Party

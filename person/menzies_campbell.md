@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: menzies_campbell
-name: Menzies Campbell
+title: Menzies Campbell
 memberships:
 - id: ldem
   name: Liberal Democrats

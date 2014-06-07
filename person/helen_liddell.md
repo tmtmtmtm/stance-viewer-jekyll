@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: helen_liddell
-name: Helen Liddell
+title: Helen Liddell
 memberships:
 - id: lab
   name: Labour Party

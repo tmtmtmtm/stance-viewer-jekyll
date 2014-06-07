@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_moffat
-name: Anne Moffat
+title: Anne Moffat
 memberships:
 - id: lab
   name: Labour Party

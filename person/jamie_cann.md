@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jamie_cann
-name: Jamie Cann
+title: Jamie Cann
 memberships:
 - id: lab
   name: Labour Party

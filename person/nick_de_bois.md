@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_de_bois
-name: Nick de Bois
+title: Nick de Bois
 memberships:
 - id: con
   name: Conservative Party

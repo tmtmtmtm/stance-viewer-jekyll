@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_ohara
-name: Edward O'Hara
+title: Edward O'Hara
 memberships:
 - id: lab
   name: Labour Party

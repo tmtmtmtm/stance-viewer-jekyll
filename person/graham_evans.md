@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graham_evans
-name: Graham Evans
+title: Graham Evans
 memberships:
 - id: con
   name: Conservative Party

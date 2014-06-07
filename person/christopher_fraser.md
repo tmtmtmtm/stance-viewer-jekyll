@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christopher_fraser
-name: Christopher Fraser
+title: Christopher Fraser
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: esther_mcvey
-name: Esther McVey
+title: Esther McVey
 memberships:
 - id: con
   name: Conservative Party

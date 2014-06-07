@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: estelle_morris
-name: Estelle Morris
+title: Estelle Morris
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: helen_clark
-name: Helen Clark
+title: Helen Clark
 memberships:
 - id: lab
   name: Labour Party

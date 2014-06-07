@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lady_hermon
-name: Lady Hermon
+title: Lady Hermon
 memberships:
 - id: uup
   name: UUP

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_livsey
-name: Richard Livsey
+title: Richard Livsey
 memberships:
 - id: ldem
   name: Liberal Democrats

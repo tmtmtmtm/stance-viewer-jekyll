@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: patrick_nicholls
-name: Patrick Nicholls
+title: Patrick Nicholls
 memberships:
 - id: con
   name: Conservative Party

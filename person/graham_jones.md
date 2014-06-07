@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graham_jones
-name: Graham Jones
+title: Graham Jones
 memberships:
 - id: lab
   name: Labour Party

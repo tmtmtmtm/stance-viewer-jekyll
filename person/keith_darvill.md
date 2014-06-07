@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: keith_darvill
-name: Keith Darvill
+title: Keith Darvill
 memberships:
 - id: lab
   name: Labour Party

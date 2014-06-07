@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: theresa_villiers
-name: Theresa Villiers
+title: Theresa Villiers
 memberships:
 - id: con
   name: Conservative Party

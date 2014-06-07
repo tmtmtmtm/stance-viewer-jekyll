@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: diana_organ
-name: Diana Organ
+title: Diana Organ
 memberships:
 - id: lab
   name: Labour Party

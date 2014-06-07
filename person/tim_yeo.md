@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tim_yeo
-name: Tim Yeo
+title: Tim Yeo
 memberships:
 - id: con
   name: Conservative Party

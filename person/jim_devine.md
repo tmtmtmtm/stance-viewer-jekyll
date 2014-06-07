@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_devine
-name: Jim Devine
+title: Jim Devine
 memberships:
 - id: lab
   name: Labour Party

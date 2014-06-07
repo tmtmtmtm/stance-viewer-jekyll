@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: betty_williams
-name: Betty Williams
+title: Betty Williams
 memberships:
 - id: lab
   name: Labour Party

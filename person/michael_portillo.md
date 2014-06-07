@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_portillo
-name: Michael Portillo
+title: Michael Portillo
 memberships:
 - id: con
   name: Conservative Party

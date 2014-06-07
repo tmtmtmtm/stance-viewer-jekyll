@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iain_luke
-name: Iain Luke
+title: Iain Luke
 memberships:
 - id: lab
   name: Labour Party

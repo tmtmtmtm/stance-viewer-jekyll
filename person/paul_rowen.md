@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_rowen
-name: Paul Rowen
+title: Paul Rowen
 memberships:
 - id: ldem
   name: Liberal Democrats

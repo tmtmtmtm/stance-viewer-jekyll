@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gerald_howarth
-name: Gerald Howarth
+title: Gerald Howarth
 memberships:
 - id: con
   name: Conservative Party

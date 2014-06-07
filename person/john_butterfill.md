@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_butterfill
-name: John Butterfill
+title: John Butterfill
 memberships:
 - id: con
   name: Conservative Party

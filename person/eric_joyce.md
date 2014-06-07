@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_joyce
-name: Eric Joyce
+title: Eric Joyce
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_blair
-name: Tony Blair
+title: Tony Blair
 memberships:
 - id: lab
   name: Labour Party

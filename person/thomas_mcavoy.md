@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: thomas_mcavoy
-name: Thomas McAvoy
+title: Thomas McAvoy
 memberships:
 - id: lab
   name: Labour Party

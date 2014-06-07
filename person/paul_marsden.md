@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_marsden
-name: Paul Marsden
+title: Paul Marsden
 memberships:
 - id: lab
   name: Labour Party

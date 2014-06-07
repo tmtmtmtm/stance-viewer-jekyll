@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phil_sawford
-name: Phil Sawford
+title: Phil Sawford
 memberships:
 - id: lab
   name: Labour Party

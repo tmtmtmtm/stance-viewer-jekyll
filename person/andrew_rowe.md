@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_rowe
-name: Andrew Rowe
+title: Andrew Rowe
 memberships:
 - id: con
   name: Conservative Party

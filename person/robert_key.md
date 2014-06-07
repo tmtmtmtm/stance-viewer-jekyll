@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_key
-name: Robert Key
+title: Robert Key
 memberships:
 - id: con
   name: Conservative Party

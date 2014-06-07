@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: cathy_jamieson
-name: Cathy Jamieson
+title: Cathy Jamieson
 memberships:
 - id: lab
   name: Labour Party

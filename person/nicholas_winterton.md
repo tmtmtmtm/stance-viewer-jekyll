@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicholas_winterton
-name: Nicholas Winterton
+title: Nicholas Winterton
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: greg_hands
-name: Greg Hands
+title: Greg Hands
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: shabana_mahmood
-name: Shabana Mahmood
+title: Shabana Mahmood
 memberships:
 - id: lab
   name: Labour Party

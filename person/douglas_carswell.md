@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: douglas_carswell
-name: Douglas Carswell
+title: Douglas Carswell
 memberships:
 - id: con
   name: Conservative Party

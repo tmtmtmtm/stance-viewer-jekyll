@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_esterson
-name: Bill Esterson
+title: Bill Esterson
 memberships:
 - id: lab
   name: Labour Party

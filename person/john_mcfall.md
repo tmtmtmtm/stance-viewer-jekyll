@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_mcfall
-name: John McFall
+title: John McFall
 memberships:
 - id: lab
   name: Labour Party

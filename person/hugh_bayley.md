@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hugh_bayley
-name: Hugh Bayley
+title: Hugh Bayley
 memberships:
 - id: lab
   name: Labour Party

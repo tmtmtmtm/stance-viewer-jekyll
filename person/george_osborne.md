@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_osborne
-name: George Osborne
+title: George Osborne
 memberships:
 - id: con
   name: Conservative Party

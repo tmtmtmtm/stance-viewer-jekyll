@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lawrie_quinn
-name: Lawrie Quinn
+title: Lawrie Quinn
 memberships:
 - id: lab
   name: Labour Party

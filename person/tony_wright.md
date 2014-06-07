@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_wright
-name: Tony Wright
+title: Tony Wright
 memberships:
 - id: lab
   name: Labour Party

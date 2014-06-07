@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ken_purchase
-name: Ken Purchase
+title: Ken Purchase
 memberships:
 - id: lab
   name: Labour Party

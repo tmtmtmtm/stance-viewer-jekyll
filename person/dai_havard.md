@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dai_havard
-name: Dai Havard
+title: Dai Havard
 memberships:
 - id: lab
   name: Labour Party

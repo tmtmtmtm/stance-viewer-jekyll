@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_reid
-name: John Reid
+title: John Reid
 memberships:
 - id: lab
   name: Labour Party

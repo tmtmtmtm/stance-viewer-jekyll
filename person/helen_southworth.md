@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: helen_southworth
-name: Helen Southworth
+title: Helen Southworth
 memberships:
 - id: lab
   name: Labour Party

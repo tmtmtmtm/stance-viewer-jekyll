@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: parmjit_dhanda
-name: Parmjit Dhanda
+title: Parmjit Dhanda
 memberships:
 - id: lab
   name: Labour Party

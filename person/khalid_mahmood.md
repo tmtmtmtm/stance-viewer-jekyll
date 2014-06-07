@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: khalid_mahmood
-name: Khalid Mahmood
+title: Khalid Mahmood
 memberships:
 - id: lab
   name: Labour Party

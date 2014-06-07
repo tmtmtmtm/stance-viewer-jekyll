@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_murray
-name: Ian Murray
+title: Ian Murray
 memberships:
 - id: lab
   name: Labour Party

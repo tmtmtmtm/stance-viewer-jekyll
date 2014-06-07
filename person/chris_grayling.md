@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_grayling
-name: Chris Grayling
+title: Chris Grayling
 memberships:
 - id: con
   name: Conservative Party

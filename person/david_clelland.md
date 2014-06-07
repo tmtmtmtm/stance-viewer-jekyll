@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_clelland
-name: David Clelland
+title: David Clelland
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_cran
-name: James Cran
+title: James Cran
 memberships:
 - id: con
   name: Conservative Party

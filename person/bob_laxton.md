@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_laxton
-name: Bob Laxton
+title: Bob Laxton
 memberships:
 - id: lab
   name: Labour Party

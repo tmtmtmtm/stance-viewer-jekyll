@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_dorrell
-name: Stephen Dorrell
+title: Stephen Dorrell
 memberships:
 - id: con
   name: Conservative Party

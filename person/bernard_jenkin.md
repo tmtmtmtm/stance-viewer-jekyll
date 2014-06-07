@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bernard_jenkin
-name: Bernard Jenkin
+title: Bernard Jenkin
 memberships:
 - id: con
   name: Conservative Party

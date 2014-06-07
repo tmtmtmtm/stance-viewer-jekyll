@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: teresa_gorman
-name: Teresa Gorman
+title: Teresa Gorman
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gerald_kaufman
-name: Gerald Kaufman
+title: Gerald Kaufman
 memberships:
 - id: lab
   name: Labour Party

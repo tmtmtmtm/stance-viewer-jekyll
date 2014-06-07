@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sadiq_khan
-name: Sadiq Khan
+title: Sadiq Khan
 memberships:
 - id: lab
   name: Labour Party

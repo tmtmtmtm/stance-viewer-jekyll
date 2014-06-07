@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_luff
-name: Peter Luff
+title: Peter Luff
 memberships:
 - id: con
   name: Conservative Party

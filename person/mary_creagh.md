@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mary_creagh
-name: Mary Creagh
+title: Mary Creagh
 memberships:
 - id: lab
   name: Labour Party

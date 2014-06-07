@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_faber
-name: David Faber
+title: David Faber
 memberships:
 - id: con
   name: Conservative Party

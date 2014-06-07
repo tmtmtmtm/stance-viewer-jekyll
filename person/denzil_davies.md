@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: denzil_davies
-name: Denzil Davies
+title: Denzil Davies
 memberships:
 - id: lab
   name: Labour Party

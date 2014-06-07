@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_amess
-name: David Amess
+title: David Amess
 memberships:
 - id: con
   name: Conservative Party

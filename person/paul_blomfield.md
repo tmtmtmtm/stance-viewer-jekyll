@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_blomfield
-name: Paul Blomfield
+title: Paul Blomfield
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rory_stewart
-name: Rory Stewart
+title: Rory Stewart
 memberships:
 - id: con
   name: Conservative Party

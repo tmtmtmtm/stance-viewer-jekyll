@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_campbell
-name: Anne Campbell
+title: Anne Campbell
 memberships:
 - id: lab
   name: Labour Party

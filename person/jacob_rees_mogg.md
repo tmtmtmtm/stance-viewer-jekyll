@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jacob_rees_mogg
-name: Jacob Rees-Mogg
+title: Jacob Rees-Mogg
 memberships:
 - id: con
   name: Conservative Party

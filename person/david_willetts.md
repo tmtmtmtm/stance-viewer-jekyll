@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_willetts
-name: David Willetts
+title: David Willetts
 memberships:
 - id: con
   name: Conservative Party

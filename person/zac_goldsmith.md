@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: zac_goldsmith
-name: Zac Goldsmith
+title: Zac Goldsmith
 memberships:
 - id: con
   name: Conservative Party

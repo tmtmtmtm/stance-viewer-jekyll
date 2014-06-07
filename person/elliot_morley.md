@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: elliot_morley
-name: Elliot Morley
+title: Elliot Morley
 memberships:
 - id: lab
   name: Labour Party

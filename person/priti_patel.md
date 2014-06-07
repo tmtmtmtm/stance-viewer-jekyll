@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: priti_patel
-name: Priti Patel
+title: Priti Patel
 memberships:
 - id: con
   name: Conservative Party

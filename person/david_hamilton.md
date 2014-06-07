@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_hamilton
-name: David Hamilton
+title: David Hamilton
 memberships:
 - id: lab
   name: Labour Party

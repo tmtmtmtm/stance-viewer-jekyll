@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_main
-name: Anne Main
+title: Anne Main
 memberships:
 - id: con
   name: Conservative Party

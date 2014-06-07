@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: helen_grant
-name: Helen Grant
+title: Helen Grant
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eleanor_laing
-name: Eleanor Laing
+title: Eleanor Laing
 memberships:
 - id: con
   name: Conservative Party

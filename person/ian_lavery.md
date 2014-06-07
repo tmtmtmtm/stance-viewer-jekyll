@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_lavery
-name: Ian Lavery
+title: Ian Lavery
 memberships:
 - id: lab
   name: Labour Party

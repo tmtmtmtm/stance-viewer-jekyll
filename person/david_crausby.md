@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_crausby
-name: David Crausby
+title: David Crausby
 memberships:
 - id: lab
   name: Labour Party

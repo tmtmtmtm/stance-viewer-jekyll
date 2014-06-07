@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: oliver_colvile
-name: Oliver Colvile
+title: Oliver Colvile
 memberships:
 - id: con
   name: Conservative Party

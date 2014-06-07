@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: shahid_malik
-name: Shahid Malik
+title: Shahid Malik
 memberships:
 - id: lab
   name: Labour Party

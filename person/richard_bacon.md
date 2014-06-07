@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_bacon
-name: Richard Bacon
+title: Richard Bacon
 memberships:
 - id: con
   name: Conservative Party

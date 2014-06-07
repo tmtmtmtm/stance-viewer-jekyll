@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: fiona_jones
-name: Fiona Jones
+title: Fiona Jones
 memberships:
 - id: lab
   name: Labour Party

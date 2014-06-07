@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: philip_hammond
-name: Philip Hammond
+title: Philip Hammond
 memberships:
 - id: con
   name: Conservative Party

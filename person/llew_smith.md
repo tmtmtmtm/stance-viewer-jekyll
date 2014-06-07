@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: llew_smith
-name: Llew Smith
+title: Llew Smith
 memberships:
 - id: lab
   name: Labour Party

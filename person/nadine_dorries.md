@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nadine_dorries
-name: Nadine Dorries
+title: Nadine Dorries
 memberships:
 - id: con
   name: Conservative Party

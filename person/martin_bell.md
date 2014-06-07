@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_bell
-name: Martin Bell
+title: Martin Bell
 memberships:
 - id: ind
   name: Independent

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_spring
-name: Richard Spring
+title: Richard Spring
 memberships:
 - id: con
   name: Conservative Party

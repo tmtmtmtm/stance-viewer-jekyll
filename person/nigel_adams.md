@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_adams
-name: Nigel Adams
+title: Nigel Adams
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_spencer
-name: Mark Spencer
+title: Mark Spencer
 memberships:
 - id: con
   name: Conservative Party

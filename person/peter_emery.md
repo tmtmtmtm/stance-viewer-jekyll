@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_emery
-name: Peter Emery
+title: Peter Emery
 memberships:
 - id: con
   name: Conservative Party

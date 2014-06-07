@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joan_ryan
-name: Joan Ryan
+title: Joan Ryan
 memberships:
 - id: lab
   name: Labour Party

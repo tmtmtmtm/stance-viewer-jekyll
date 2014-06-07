@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: oona_king
-name: Oona King
+title: Oona King
 memberships:
 - id: lab
   name: Labour Party

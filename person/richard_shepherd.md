@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_shepherd
-name: Richard Shepherd
+title: Richard Shepherd
 memberships:
 - id: con
   name: Conservative Party

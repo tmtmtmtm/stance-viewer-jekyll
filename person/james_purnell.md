@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_purnell
-name: James Purnell
+title: James Purnell
 memberships:
 - id: lab
   name: Labour Party

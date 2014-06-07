@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: therese_coffey
-name: Therese Coffey
+title: Therese Coffey
 memberships:
 - id: con
   name: Conservative Party

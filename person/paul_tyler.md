@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_tyler
-name: Paul Tyler
+title: Paul Tyler
 memberships:
 - id: ldem
   name: Liberal Democrats

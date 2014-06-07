@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: karen_bradley
-name: Karen Bradley
+title: Karen Bradley
 memberships:
 - id: con
   name: Conservative Party

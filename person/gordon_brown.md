@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gordon_brown
-name: Gordon Brown
+title: Gordon Brown
 memberships:
 - id: lab
   name: Labour Party

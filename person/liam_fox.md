@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: liam_fox
-name: Liam Fox
+title: Liam Fox
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: luciana_berger
-name: Luciana Berger
+title: Luciana Berger
 memberships:
 - id: lab
   name: Labour Party

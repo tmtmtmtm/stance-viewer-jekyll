@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_grogan
-name: John Grogan
+title: John Grogan
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_spellar
-name: John Spellar
+title: John Spellar
 memberships:
 - id: lab
   name: Labour Party

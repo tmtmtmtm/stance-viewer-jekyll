@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kenneth_clarke
-name: Kenneth Clarke
+title: Kenneth Clarke
 memberships:
 - id: con
   name: Conservative Party

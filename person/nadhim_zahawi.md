@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nadhim_zahawi
-name: Nadhim Zahawi
+title: Nadhim Zahawi
 memberships:
 - id: con
   name: Conservative Party

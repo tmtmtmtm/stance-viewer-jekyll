@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angus_macneil
-name: Angus MacNeil
+title: Angus MacNeil
 memberships:
 - id: snp
   name: SNP

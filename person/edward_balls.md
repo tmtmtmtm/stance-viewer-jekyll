@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_balls
-name: Edward Balls
+title: Edward Balls
 memberships:
 - id: lab
   name: Labour Party

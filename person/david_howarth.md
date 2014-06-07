@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_howarth
-name: David Howarth
+title: David Howarth
 memberships:
 - id: ldem
   name: Liberal Democrats

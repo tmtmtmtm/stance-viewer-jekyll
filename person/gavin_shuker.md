@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gavin_shuker
-name: Gavin Shuker
+title: Gavin Shuker
 memberships:
 - id: lab
   name: Labour Party

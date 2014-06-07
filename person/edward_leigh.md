@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_leigh
-name: Edward Leigh
+title: Edward Leigh
 memberships:
 - id: con
   name: Conservative Party

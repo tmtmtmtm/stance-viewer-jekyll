@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_kane
-name: Mike Kane
+title: Mike Kane
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margaret_moran
-name: Margaret Moran
+title: Margaret Moran
 memberships:
 - id: lab
   name: Labour Party

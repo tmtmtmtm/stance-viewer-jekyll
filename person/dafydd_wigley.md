@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dafydd_wigley
-name: Dafydd Wigley
+title: Dafydd Wigley
 memberships:
 - id: pc
   name: Plaid Cymru

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: quentin_davies
-name: Quentin Davies
+title: Quentin Davies
 memberships:
 - id: lab
   name: Labour Party

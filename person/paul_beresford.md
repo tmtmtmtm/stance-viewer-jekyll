@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_beresford
-name: Paul Beresford
+title: Paul Beresford
 memberships:
 - id: con
   name: Conservative Party

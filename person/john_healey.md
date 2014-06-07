@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_healey
-name: John Healey
+title: John Healey
 memberships:
 - id: lab
   name: Labour Party

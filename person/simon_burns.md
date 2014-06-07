@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_burns
-name: Simon Burns
+title: Simon Burns
 memberships:
 - id: con
   name: Conservative Party

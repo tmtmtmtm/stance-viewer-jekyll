@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_weatherley
-name: Mike Weatherley
+title: Mike Weatherley
 memberships:
 - id: con
   name: Conservative Party

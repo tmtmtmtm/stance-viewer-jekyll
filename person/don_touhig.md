@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: don_touhig
-name: Don Touhig
+title: Don Touhig
 memberships:
 - id: lab
   name: Labour Party

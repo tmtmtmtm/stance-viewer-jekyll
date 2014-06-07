@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_ancram
-name: Michael Ancram
+title: Michael Ancram
 memberships:
 - id: con
   name: Conservative Party

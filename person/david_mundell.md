@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_mundell
-name: David Mundell
+title: David Mundell
 memberships:
 - id: con
   name: Conservative Party

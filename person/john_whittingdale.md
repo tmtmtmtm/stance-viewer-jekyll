@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_whittingdale
-name: John Whittingdale
+title: John Whittingdale
 memberships:
 - id: con
   name: Conservative Party

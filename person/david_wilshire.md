@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_wilshire
-name: David Wilshire
+title: David Wilshire
 memberships:
 - id: con
   name: Conservative Party

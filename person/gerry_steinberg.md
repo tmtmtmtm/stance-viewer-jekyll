@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gerry_steinberg
-name: Gerry Steinberg
+title: Gerry Steinberg
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julia_drown
-name: Julia Drown
+title: Julia Drown
 memberships:
 - id: lab
   name: Labour Party

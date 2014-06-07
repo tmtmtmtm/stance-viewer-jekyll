@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bowen_wells
-name: Bowen Wells
+title: Bowen Wells
 memberships:
 - id: con
   name: Conservative Party

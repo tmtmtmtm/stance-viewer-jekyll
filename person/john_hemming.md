@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_hemming
-name: John Hemming
+title: John Hemming
 memberships:
 - id: ldem
   name: Liberal Democrats

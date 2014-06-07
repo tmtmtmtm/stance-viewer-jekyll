@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_shannon
-name: Jim Shannon
+title: Jim Shannon
 memberships:
 - id: dup
   name: DUP

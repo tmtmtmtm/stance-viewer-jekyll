@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_bennett
-name: Andrew Bennett
+title: Andrew Bennett
 memberships:
 - id: lab
   name: Labour Party

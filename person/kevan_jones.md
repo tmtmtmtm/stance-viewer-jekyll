@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kevan_jones
-name: Kevan Jones
+title: Kevan Jones
 memberships:
 - id: lab
   name: Labour Party

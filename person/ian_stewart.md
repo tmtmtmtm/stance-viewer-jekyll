@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_stewart
-name: Ian Stewart
+title: Ian Stewart
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bruce_grocott
-name: Bruce Grocott
+title: Bruce Grocott
 memberships:
 - id: lab
   name: Labour Party

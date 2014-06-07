@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: steve_reed
-name: Steve Reed
+title: Steve Reed
 memberships:
 - id: lab
   name: Labour Party

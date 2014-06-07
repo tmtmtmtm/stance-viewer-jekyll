@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: barbara_roche
-name: Barbara Roche
+title: Barbara Roche
 memberships:
 - id: lab
   name: Labour Party

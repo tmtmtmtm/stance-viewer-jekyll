@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gordon_birtwistle
-name: Gordon Birtwistle
+title: Gordon Birtwistle
 memberships:
 - id: ldem
   name: Liberal Democrats

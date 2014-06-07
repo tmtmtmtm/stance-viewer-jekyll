@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_taylor
-name: Ian Taylor
+title: Ian Taylor
 memberships:
 - id: con
   name: Conservative Party

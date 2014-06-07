@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: norman_baker
-name: Norman Baker
+title: Norman Baker
 memberships:
 - id: ldem
   name: Liberal Democrats

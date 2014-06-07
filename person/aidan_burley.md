@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: aidan_burley
-name: Aidan Burley
+title: Aidan Burley
 memberships:
 - id: con
   name: Conservative Party

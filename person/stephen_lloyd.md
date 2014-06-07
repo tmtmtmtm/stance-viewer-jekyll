@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_lloyd
-name: Stephen Lloyd
+title: Stephen Lloyd
 memberships:
 - id: ldem
   name: Liberal Democrats

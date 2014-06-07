@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicholas_boles
-name: Nicholas Boles
+title: Nicholas Boles
 memberships:
 - id: con
   name: Conservative Party

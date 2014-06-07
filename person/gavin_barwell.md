@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gavin_barwell
-name: Gavin Barwell
+title: Gavin Barwell
 memberships:
 - id: con
   name: Conservative Party

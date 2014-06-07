@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charlotte_atkins
-name: Charlotte Atkins
+title: Charlotte Atkins
 memberships:
 - id: lab
   name: Labour Party

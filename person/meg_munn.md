@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: meg_munn
-name: Meg Munn
+title: Meg Munn
 memberships:
 - id: lab
   name: Labour Party

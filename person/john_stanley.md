@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_stanley
-name: John Stanley
+title: John Stanley
 memberships:
 - id: con
   name: Conservative Party

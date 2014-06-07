@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: howard_flight
-name: Howard Flight
+title: Howard Flight
 memberships:
 - id: con
   name: Conservative Party

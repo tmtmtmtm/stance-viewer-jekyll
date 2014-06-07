@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_liddell_grainger
-name: Ian Liddell-Grainger
+title: Ian Liddell-Grainger
 memberships:
 - id: con
   name: Conservative Party

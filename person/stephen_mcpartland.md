@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_mcpartland
-name: Stephen McPartland
+title: Stephen McPartland
 memberships:
 - id: con
   name: Conservative Party

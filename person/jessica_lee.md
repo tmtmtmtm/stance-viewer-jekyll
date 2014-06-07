@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jessica_lee
-name: Jessica Lee
+title: Jessica Lee
 memberships:
 - id: con
   name: Conservative Party

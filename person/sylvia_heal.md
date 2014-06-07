@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sylvia_heal
-name: Sylvia Heal
+title: Sylvia Heal
 memberships:
 - id: lab
   name: Labour Party

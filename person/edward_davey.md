@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_davey
-name: Edward Davey
+title: Edward Davey
 memberships:
 - id: ldem
   name: Liberal Democrats

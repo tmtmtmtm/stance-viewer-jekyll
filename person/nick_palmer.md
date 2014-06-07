@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_palmer
-name: Nick Palmer
+title: Nick Palmer
 memberships:
 - id: lab
   name: Labour Party

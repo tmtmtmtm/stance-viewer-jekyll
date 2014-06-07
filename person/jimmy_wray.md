@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jimmy_wray
-name: Jimmy Wray
+title: Jimmy Wray
 memberships:
 - id: lab
   name: Labour Party

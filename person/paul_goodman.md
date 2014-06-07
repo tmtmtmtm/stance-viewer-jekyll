@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_goodman
-name: Paul Goodman
+title: Paul Goodman
 memberships:
 - id: con
   name: Conservative Party

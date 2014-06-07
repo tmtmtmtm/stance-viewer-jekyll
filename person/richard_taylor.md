@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_taylor
-name: Richard Taylor
+title: Richard Taylor
 memberships:
 - id: ind
   name: Independent

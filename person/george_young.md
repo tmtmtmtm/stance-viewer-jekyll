@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_young
-name: George Young
+title: George Young
 memberships:
 - id: con
   name: Conservative Party

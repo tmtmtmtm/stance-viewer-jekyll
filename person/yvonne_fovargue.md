@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: yvonne_fovargue
-name: Yvonne Fovargue
+title: Yvonne Fovargue
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_salter
-name: Martin Salter
+title: Martin Salter
 memberships:
 - id: lab
   name: Labour Party

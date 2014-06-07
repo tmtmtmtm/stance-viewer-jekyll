@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_plaskitt
-name: James Plaskitt
+title: James Plaskitt
 memberships:
 - id: lab
   name: Labour Party

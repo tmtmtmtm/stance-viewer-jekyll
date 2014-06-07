@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: shaun_woodward
-name: Shaun Woodward
+title: Shaun Woodward
 memberships:
 - id: lab
   name: Labour Party

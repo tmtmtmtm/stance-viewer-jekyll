@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dai_davies
-name: Dai Davies
+title: Dai Davies
 memberships:
 - id: ind
   name: Independent

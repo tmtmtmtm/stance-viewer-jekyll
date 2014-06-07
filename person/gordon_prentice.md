@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gordon_prentice
-name: Gordon Prentice
+title: Gordon Prentice
 memberships:
 - id: lab
   name: Labour Party

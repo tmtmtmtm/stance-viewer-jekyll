@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bernie_grant
-name: Bernie Grant
+title: Bernie Grant
 memberships:
 - id: lab
   name: Labour Party

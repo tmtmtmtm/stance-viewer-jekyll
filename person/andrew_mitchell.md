@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_mitchell
-name: Andrew Mitchell
+title: Andrew Mitchell
 memberships:
 - id: con
   name: Conservative Party

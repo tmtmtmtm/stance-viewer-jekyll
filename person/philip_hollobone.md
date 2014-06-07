@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: philip_hollobone
-name: Philip Hollobone
+title: Philip Hollobone
 memberships:
 - id: con
   name: Conservative Party

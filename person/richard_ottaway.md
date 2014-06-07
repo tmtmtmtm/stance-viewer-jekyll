@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_ottaway
-name: Richard Ottaway
+title: Richard Ottaway
 memberships:
 - id: con
   name: Conservative Party

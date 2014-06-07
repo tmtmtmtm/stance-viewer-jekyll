@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_hoban
-name: Mark Hoban
+title: Mark Hoban
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kris_hopkins
-name: Kris Hopkins
+title: Kris Hopkins
 memberships:
 - id: con
   name: Conservative Party

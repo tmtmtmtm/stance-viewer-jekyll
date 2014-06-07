@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_kidney
-name: David Kidney
+title: David Kidney
 memberships:
 - id: lab
   name: Labour Party

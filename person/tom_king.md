@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_king
-name: Tom King
+title: Tom King
 memberships:
 - id: con
   name: Conservative Party

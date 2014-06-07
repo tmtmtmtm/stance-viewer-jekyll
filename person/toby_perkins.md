@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: toby_perkins
-name: Toby Perkins
+title: Toby Perkins
 memberships:
 - id: lab
   name: Labour Party

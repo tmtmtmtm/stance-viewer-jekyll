@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dari_taylor
-name: Dari Taylor
+title: Dari Taylor
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dominic_raab
-name: Dominic Raab
+title: Dominic Raab
 memberships:
 - id: con
   name: Conservative Party

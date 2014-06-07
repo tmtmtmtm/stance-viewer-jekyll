@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geraldine_smith
-name: Geraldine Smith
+title: Geraldine Smith
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: russell_brown
-name: Russell Brown
+title: Russell Brown
 memberships:
 - id: lab
   name: Labour Party

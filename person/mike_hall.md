@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_hall
-name: Mike Hall
+title: Mike Hall
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_hinchliffe
-name: David Hinchliffe
+title: David Hinchliffe
 memberships:
 - id: lab
   name: Labour Party

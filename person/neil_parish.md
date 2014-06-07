@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: neil_parish
-name: Neil Parish
+title: Neil Parish
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roger_williams
-name: Roger Williams
+title: Roger Williams
 memberships:
 - id: ldem
   name: Liberal Democrats

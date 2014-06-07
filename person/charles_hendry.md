@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charles_hendry
-name: Charles Hendry
+title: Charles Hendry
 memberships:
 - id: con
   name: Conservative Party

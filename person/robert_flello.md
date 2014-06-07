@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_flello
-name: Robert Flello
+title: Robert Flello
 memberships:
 - id: lab
   name: Labour Party

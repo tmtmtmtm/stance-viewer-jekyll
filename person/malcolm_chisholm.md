@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: malcolm_chisholm
-name: Malcolm Chisholm
+title: Malcolm Chisholm
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_stewart
-name: Bob Stewart
+title: Bob Stewart
 memberships:
 - id: con
   name: Conservative Party

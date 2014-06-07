@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jane_griffiths
-name: Jane Griffiths
+title: Jane Griffiths
 memberships:
 - id: lab
   name: Labour Party

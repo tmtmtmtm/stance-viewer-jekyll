@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gary_streeter
-name: Gary Streeter
+title: Gary Streeter
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_brand
-name: Peter Brand
+title: Peter Brand
 memberships:
 - id: ldem
   name: Liberal Democrats

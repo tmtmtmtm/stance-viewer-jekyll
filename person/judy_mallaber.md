@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: judy_mallaber
-name: Judy Mallaber
+title: Judy Mallaber
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_selous
-name: Andrew Selous
+title: Andrew Selous
 memberships:
 - id: con
   name: Conservative Party

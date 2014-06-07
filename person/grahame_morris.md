@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: grahame_morris
-name: Grahame Morris
+title: Grahame Morris
 memberships:
 - id: lab
   name: Labour Party

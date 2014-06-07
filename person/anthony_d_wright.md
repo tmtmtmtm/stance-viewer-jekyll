@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anthony_d_wright
-name: Anthony D Wright
+title: Anthony D Wright
 memberships:
 - id: lab
   name: Labour Party

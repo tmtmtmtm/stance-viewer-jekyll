@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_wilson
-name: Brian Wilson
+title: Brian Wilson
 memberships:
 - id: lab
   name: Labour Party

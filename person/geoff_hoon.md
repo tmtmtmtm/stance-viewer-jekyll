@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geoff_hoon
-name: Geoff Hoon
+title: Geoff Hoon
 memberships:
 - id: lab
   name: Labour Party

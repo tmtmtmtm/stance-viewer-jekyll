@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: keith_simpson
-name: Keith Simpson
+title: Keith Simpson
 memberships:
 - id: con
   name: Conservative Party

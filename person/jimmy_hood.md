@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jimmy_hood
-name: Jimmy Hood
+title: Jimmy Hood
 memberships:
 - id: lab
   name: Labour Party

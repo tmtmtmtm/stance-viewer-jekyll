@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_caton
-name: Martin Caton
+title: Martin Caton
 memberships:
 - id: lab
   name: Labour Party

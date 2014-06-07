@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_baron
-name: John Baron
+title: John Baron
 memberships:
 - id: con
   name: Conservative Party

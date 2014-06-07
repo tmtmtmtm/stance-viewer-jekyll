@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julian_brazier
-name: Julian Brazier
+title: Julian Brazier
 memberships:
 - id: con
   name: Conservative Party

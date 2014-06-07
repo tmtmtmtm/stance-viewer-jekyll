@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_freer
-name: Mike Freer
+title: Mike Freer
 memberships:
 - id: con
   name: Conservative Party

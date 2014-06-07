@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alice_mahon
-name: Alice Mahon
+title: Alice Mahon
 memberships:
 - id: lab
   name: Labour Party

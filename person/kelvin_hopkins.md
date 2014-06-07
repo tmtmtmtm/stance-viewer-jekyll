@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kelvin_hopkins
-name: Kelvin Hopkins
+title: Kelvin Hopkins
 memberships:
 - id: lab
   name: Labour Party

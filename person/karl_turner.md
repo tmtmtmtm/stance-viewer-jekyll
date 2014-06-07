@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: karl_turner
-name: Karl Turner
+title: Karl Turner
 memberships:
 - id: lab
   name: Labour Party

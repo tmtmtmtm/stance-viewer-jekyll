@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_lazarowicz
-name: Mark Lazarowicz
+title: Mark Lazarowicz
 memberships:
 - id: lab
   name: Labour Party

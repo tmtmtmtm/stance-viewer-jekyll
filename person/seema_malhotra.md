@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: seema_malhotra
-name: Seema Malhotra
+title: Seema Malhotra
 memberships:
 - id: lab
   name: Labour Party

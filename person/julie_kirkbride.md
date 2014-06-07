@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julie_kirkbride
-name: Julie Kirkbride
+title: Julie Kirkbride
 memberships:
 - id: con
   name: Conservative Party

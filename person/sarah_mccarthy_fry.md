@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sarah_mccarthy_fry
-name: Sarah McCarthy-Fry
+title: Sarah McCarthy-Fry
 memberships:
 - id: lab
   name: Labour Party

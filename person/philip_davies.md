@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: philip_davies
-name: Philip Davies
+title: Philip Davies
 memberships:
 - id: con
   name: Conservative Party

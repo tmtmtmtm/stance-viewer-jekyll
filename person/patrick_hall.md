@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: patrick_hall
-name: Patrick Hall
+title: Patrick Hall
 memberships:
 - id: lab
   name: Labour Party

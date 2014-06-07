@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: fraser_kemp
-name: Fraser Kemp
+title: Fraser Kemp
 memberships:
 - id: lab
   name: Labour Party

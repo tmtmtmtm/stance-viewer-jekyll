@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_bruce
-name: Ian Bruce
+title: Ian Bruce
 memberships:
 - id: con
   name: Conservative Party

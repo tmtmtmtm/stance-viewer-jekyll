@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iain_duncan_smith
-name: Iain Duncan Smith
+title: Iain Duncan Smith
 memberships:
 - id: con
   name: Conservative Party

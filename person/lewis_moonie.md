@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lewis_moonie
-name: Lewis Moonie
+title: Lewis Moonie
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_pickles
-name: Eric Pickles
+title: Eric Pickles
 memberships:
 - id: con
   name: Conservative Party

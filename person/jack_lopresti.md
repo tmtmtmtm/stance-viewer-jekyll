@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jack_lopresti
-name: Jack Lopresti
+title: Jack Lopresti
 memberships:
 - id: con
   name: Conservative Party

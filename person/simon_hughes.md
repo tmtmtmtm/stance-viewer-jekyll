@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_hughes
-name: Simon Hughes
+title: Simon Hughes
 memberships:
 - id: ldem
   name: Liberal Democrats

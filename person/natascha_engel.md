@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: natascha_engel
-name: Natascha Engel
+title: Natascha Engel
 memberships:
 - id: lab
   name: Labour Party

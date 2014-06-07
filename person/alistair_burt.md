@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alistair_burt
-name: Alistair Burt
+title: Alistair Burt
 memberships:
 - id: con
   name: Conservative Party

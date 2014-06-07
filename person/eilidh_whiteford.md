@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eilidh_whiteford
-name: Eilidh Whiteford
+title: Eilidh Whiteford
 memberships:
 - id: snp
   name: SNP

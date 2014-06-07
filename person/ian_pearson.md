@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_pearson
-name: Ian Pearson
+title: Ian Pearson
 memberships:
 - id: lab
   name: Labour Party

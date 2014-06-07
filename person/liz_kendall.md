@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: liz_kendall
-name: Liz Kendall
+title: Liz Kendall
 memberships:
 - id: lab
   name: Labour Party

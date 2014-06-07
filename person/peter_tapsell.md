@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_tapsell
-name: Peter Tapsell
+title: Peter Tapsell
 memberships:
 - id: con
   name: Conservative Party

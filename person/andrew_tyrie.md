@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_tyrie
-name: Andrew Tyrie
+title: Andrew Tyrie
 memberships:
 - id: con
   name: Conservative Party

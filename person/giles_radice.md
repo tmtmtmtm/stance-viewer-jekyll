@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: giles_radice
-name: Giles Radice
+title: Giles Radice
 memberships:
 - id: lab
   name: Labour Party

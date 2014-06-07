@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: colin_pickthall
-name: Colin Pickthall
+title: Colin Pickthall
 memberships:
 - id: lab
   name: Labour Party

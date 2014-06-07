@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_cameron
-name: David Cameron
+title: David Cameron
 memberships:
 - id: con
   name: Conservative Party

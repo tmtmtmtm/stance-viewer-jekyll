@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gordon_banks
-name: Gordon Banks
+title: Gordon Banks
 memberships:
 - id: lab
   name: Labour Party

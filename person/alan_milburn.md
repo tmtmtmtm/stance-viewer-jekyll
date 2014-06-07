@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_milburn
-name: Alan Milburn
+title: Alan Milburn
 memberships:
 - id: lab
   name: Labour Party

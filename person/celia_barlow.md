@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: celia_barlow
-name: Celia Barlow
+title: Celia Barlow
 memberships:
 - id: lab
   name: Labour Party

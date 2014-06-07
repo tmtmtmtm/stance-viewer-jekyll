@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: teresa_pearce
-name: Teresa Pearce
+title: Teresa Pearce
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_ruffley
-name: David Ruffley
+title: David Ruffley
 memberships:
 - id: con
   name: Conservative Party

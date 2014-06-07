@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: win_griffiths
-name: Win Griffiths
+title: Win Griffiths
 memberships:
 - id: lab
   name: Labour Party

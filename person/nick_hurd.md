@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_hurd
-name: Nick Hurd
+title: Nick Hurd
 memberships:
 - id: con
   name: Conservative Party

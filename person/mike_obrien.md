@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_obrien
-name: Mike O'Brien
+title: Mike O'Brien
 memberships:
 - id: lab
   name: Labour Party

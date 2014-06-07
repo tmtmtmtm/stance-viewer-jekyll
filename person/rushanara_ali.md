@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rushanara_ali
-name: Rushanara Ali
+title: Rushanara Ali
 memberships:
 - id: lab
   name: Labour Party

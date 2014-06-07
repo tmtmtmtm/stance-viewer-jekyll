@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: candy_atherton
-name: Candy Atherton
+title: Candy Atherton
 memberships:
 - id: lab
   name: Labour Party

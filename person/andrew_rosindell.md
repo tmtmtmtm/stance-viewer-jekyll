@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_rosindell
-name: Andrew Rosindell
+title: Andrew Rosindell
 memberships:
 - id: con
   name: Conservative Party

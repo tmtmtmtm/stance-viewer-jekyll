@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_crabb
-name: Stephen Crabb
+title: Stephen Crabb
 memberships:
 - id: con
   name: Conservative Party

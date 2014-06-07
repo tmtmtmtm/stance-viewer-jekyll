@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: meg_hillier
-name: Meg Hillier
+title: Meg Hillier
 memberships:
 - id: lab
   name: Labour Party

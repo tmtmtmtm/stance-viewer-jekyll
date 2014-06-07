@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: patrick_mercer
-name: Patrick Mercer
+title: Patrick Mercer
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christopher_chope
-name: Christopher Chope
+title: Christopher Chope
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_cummings
-name: John Cummings
+title: John Cummings
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_robertson
-name: George Robertson
+title: George Robertson
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: elfyn_llwyd
-name: Elfyn Llwyd
+title: Elfyn Llwyd
 memberships:
 - id: pc
   name: Plaid Cymru

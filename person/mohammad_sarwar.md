@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mohammad_sarwar
-name: Mohammad Sarwar
+title: Mohammad Sarwar
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_mcdonald
-name: Andrew McDonald
+title: Andrew McDonald
 memberships:
 - id: lab
   name: Labour Party

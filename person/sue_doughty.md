@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sue_doughty
-name: Sue Doughty
+title: Sue Doughty
 memberships:
 - id: ldem
   name: Liberal Democrats

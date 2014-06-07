@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geoffrey_cox
-name: Geoffrey Cox
+title: Geoffrey Cox
 memberships:
 - id: con
   name: Conservative Party

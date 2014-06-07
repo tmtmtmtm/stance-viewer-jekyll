@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: henry_smith
-name: Henry Smith
+title: Henry Smith
 memberships:
 - id: con
   name: Conservative Party

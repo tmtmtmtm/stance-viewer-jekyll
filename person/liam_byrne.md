@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: liam_byrne
-name: Liam Byrne
+title: Liam Byrne
 memberships:
 - id: lab
   name: Labour Party

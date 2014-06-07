@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alun_michael
-name: Alun Michael
+title: Alun Michael
 memberships:
 - id: lab
   name: Labour Party

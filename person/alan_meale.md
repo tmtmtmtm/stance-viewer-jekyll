@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_meale
-name: Alan Meale
+title: Alan Meale
 memberships:
 - id: lab
   name: Labour Party

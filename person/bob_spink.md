@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_spink
-name: Bob Spink
+title: Bob Spink
 memberships:
 - id: con
   name: Conservative Party

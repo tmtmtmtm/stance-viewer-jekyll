@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jacqui_lait
-name: Jacqui Lait
+title: Jacqui Lait
 memberships:
 - id: con
   name: Conservative Party

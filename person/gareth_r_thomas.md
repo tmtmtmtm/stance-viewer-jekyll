@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gareth_r_thomas
-name: Gareth R. Thomas
+title: Gareth R. Thomas
 memberships:
 - id: lab
   name: Labour Party

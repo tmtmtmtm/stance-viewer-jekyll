@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_spicer
-name: Michael Spicer
+title: Michael Spicer
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_thornton
-name: Mike Thornton
+title: Mike Thornton
 memberships:
 - id: ldem
   name: Liberal Democrats

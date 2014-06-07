@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christine_butler
-name: Christine Butler
+title: Christine Butler
 memberships:
 - id: lab
   name: Labour Party

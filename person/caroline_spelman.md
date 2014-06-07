@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: caroline_spelman
-name: Caroline Spelman
+title: Caroline Spelman
 memberships:
 - id: con
   name: Conservative Party

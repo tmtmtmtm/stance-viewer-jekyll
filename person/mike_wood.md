@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_wood
-name: Mike Wood
+title: Mike Wood
 memberships:
 - id: lab
   name: Labour Party

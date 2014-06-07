@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kerry_pollard
-name: Kerry Pollard
+title: Kerry Pollard
 memberships:
 - id: lab
   name: Labour Party

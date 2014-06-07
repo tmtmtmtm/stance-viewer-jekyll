@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicholas_dakin
-name: Nicholas Dakin
+title: Nicholas Dakin
 memberships:
 - id: lab
   name: Labour Party

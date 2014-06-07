@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: susan_elan_jones
-name: Susan Elan Jones
+title: Susan Elan Jones
 memberships:
 - id: lab
   name: Labour Party

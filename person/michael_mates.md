@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_mates
-name: Michael Mates
+title: Michael Mates
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: laura_sandys
-name: Laura Sandys
+title: Laura Sandys
 memberships:
 - id: con
   name: Conservative Party

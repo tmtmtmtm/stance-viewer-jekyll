@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_lilley
-name: Peter Lilley
+title: Peter Lilley
 memberships:
 - id: con
   name: Conservative Party

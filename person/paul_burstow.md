@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_burstow
-name: Paul Burstow
+title: Paul Burstow
 memberships:
 - id: ldem
   name: Liberal Democrats

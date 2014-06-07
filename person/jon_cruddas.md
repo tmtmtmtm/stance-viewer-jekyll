@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jon_cruddas
-name: Jon Cruddas
+title: Jon Cruddas
 memberships:
 - id: lab
   name: Labour Party

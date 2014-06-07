@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bridget_prentice
-name: Bridget Prentice
+title: Bridget Prentice
 memberships:
 - id: lab
   name: Labour Party

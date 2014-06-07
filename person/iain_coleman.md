@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iain_coleman
-name: Iain Coleman
+title: Iain Coleman
 memberships:
 - id: lab
   name: Labour Party

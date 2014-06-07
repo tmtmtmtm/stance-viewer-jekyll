@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adrian_flook
-name: Adrian Flook
+title: Adrian Flook
 memberships:
 - id: con
   name: Conservative Party

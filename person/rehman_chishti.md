@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rehman_chishti
-name: Rehman Chishti
+title: Rehman Chishti
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_mudie
-name: George Mudie
+title: George Mudie
 memberships:
 - id: lab
   name: Labour Party

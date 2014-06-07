@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alistair_carmichael
-name: Alistair Carmichael
+title: Alistair Carmichael
 memberships:
 - id: ldem
   name: Liberal Democrats

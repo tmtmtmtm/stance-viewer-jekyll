@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tam_dalyell
-name: Tam Dalyell
+title: Tam Dalyell
 memberships:
 - id: lab
   name: Labour Party

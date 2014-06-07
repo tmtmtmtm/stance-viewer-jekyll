@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tim_collins
-name: Tim Collins
+title: Tim Collins
 memberships:
 - id: con
   name: Conservative Party

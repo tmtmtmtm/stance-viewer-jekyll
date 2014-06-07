@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lorely_burt
-name: Lorely Burt
+title: Lorely Burt
 memberships:
 - id: ldem
   name: Liberal Democrats

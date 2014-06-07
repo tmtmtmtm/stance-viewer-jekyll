@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_garnier
-name: Edward Garnier
+title: Edward Garnier
 memberships:
 - id: con
   name: Conservative Party

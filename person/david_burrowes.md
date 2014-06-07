@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_burrowes
-name: David Burrowes
+title: David Burrowes
 memberships:
 - id: con
   name: Conservative Party

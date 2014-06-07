@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_barclay
-name: Stephen Barclay
+title: Stephen Barclay
 memberships:
 - id: con
   name: Conservative Party

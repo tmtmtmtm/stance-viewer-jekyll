@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_wright
-name: David Wright
+title: David Wright
 memberships:
 - id: lab
   name: Labour Party

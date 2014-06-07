@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_wallace
-name: Jim Wallace
+title: Jim Wallace
 memberships:
 - id: ldem
   name: Liberal Democrats

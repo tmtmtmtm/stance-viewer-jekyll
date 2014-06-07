@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_field
-name: Mark Field
+title: Mark Field
 memberships:
 - id: con
   name: Conservative Party

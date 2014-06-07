@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gavin_williamson
-name: Gavin Williamson
+title: Gavin Williamson
 memberships:
 - id: con
   name: Conservative Party

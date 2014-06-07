@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_halfon
-name: Robert Halfon
+title: Robert Halfon
 memberships:
 - id: con
   name: Conservative Party

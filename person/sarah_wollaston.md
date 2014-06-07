@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sarah_wollaston
-name: Sarah Wollaston
+title: Sarah Wollaston
 memberships:
 - id: con
   name: Conservative Party

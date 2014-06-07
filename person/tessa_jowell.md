@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tessa_jowell
-name: Tessa Jowell
+title: Tessa Jowell
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lembit_opik
-name: Lembit Öpik
+title: Lembit Öpik
 memberships:
 - id: ldem
   name: Liberal Democrats

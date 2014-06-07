@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julian_smith
-name: Julian Smith
+title: Julian Smith
 memberships:
 - id: con
   name: Conservative Party

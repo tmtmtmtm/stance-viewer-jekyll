@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_vaizey
-name: Edward Vaizey
+title: Edward Vaizey
 memberships:
 - id: con
   name: Conservative Party

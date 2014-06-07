@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: glyn_davies
-name: Glyn Davies
+title: Glyn Davies
 memberships:
 - id: con
   name: Conservative Party

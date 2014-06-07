@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_hammond
-name: Stephen Hammond
+title: Stephen Hammond
 memberships:
 - id: con
   name: Conservative Party

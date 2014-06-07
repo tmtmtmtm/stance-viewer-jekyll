@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sarah_newton
-name: Sarah Newton
+title: Sarah Newton
 memberships:
 - id: con
   name: Conservative Party

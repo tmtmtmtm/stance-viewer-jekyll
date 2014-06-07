@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gwyn_prosser
-name: Gwyn Prosser
+title: Gwyn Prosser
 memberships:
 - id: lab
   name: Labour Party

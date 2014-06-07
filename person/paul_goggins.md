@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_goggins
-name: Paul Goggins
+title: Paul Goggins
 memberships:
 - id: lab
   name: Labour Party

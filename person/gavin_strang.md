@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gavin_strang
-name: Gavin Strang
+title: Gavin Strang
 memberships:
 - id: lab
   name: Labour Party

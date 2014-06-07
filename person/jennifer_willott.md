@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jennifer_willott
-name: Jennifer Willott
+title: Jennifer Willott
 memberships:
 - id: ldem
   name: Liberal Democrats

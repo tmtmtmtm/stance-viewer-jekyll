@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: danny_alexander
-name: Danny Alexander
+title: Danny Alexander
 memberships:
 - id: ldem
   name: Liberal Democrats

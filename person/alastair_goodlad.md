@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alastair_goodlad
-name: Alastair Goodlad
+title: Alastair Goodlad
 memberships:
 - id: con
   name: Conservative Party

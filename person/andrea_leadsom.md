@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrea_leadsom
-name: Andrea Leadsom
+title: Andrea Leadsom
 memberships:
 - id: con
   name: Conservative Party

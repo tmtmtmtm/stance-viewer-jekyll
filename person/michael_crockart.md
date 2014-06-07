@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_crockart
-name: Michael Crockart
+title: Michael Crockart
 memberships:
 - id: ldem
   name: Liberal Democrats

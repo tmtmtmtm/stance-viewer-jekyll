@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angela_c_smith
-name: Angela C. Smith
+title: Angela C. Smith
 memberships:
 - id: lab
   name: Labour Party

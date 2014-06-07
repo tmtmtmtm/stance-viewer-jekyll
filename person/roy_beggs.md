@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roy_beggs
-name: Roy Beggs
+title: Roy Beggs
 memberships:
 - id: uup
   name: UUP

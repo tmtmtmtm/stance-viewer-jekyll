@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: keith_vaz
-name: Keith Vaz
+title: Keith Vaz
 memberships:
 - id: lab
   name: Labour Party

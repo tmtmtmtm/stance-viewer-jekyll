@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_harper
-name: Mark Harper
+title: Mark Harper
 memberships:
 - id: con
   name: Conservative Party

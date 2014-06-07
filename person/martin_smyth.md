@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_smyth
-name: Martin Smyth
+title: Martin Smyth
 memberships:
 - id: uup
   name: UUP

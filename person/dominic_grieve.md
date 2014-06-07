@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dominic_grieve
-name: Dominic Grieve
+title: Dominic Grieve
 memberships:
 - id: con
   name: Conservative Party

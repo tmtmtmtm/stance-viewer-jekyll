@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_bingham
-name: Andrew Bingham
+title: Andrew Bingham
 memberships:
 - id: con
   name: Conservative Party

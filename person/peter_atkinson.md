@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_atkinson
-name: Peter Atkinson
+title: Peter Atkinson
 memberships:
 - id: con
   name: Conservative Party

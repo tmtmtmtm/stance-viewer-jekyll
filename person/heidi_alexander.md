@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: heidi_alexander
-name: Heidi Alexander
+title: Heidi Alexander
 memberships:
 - id: lab
   name: Labour Party

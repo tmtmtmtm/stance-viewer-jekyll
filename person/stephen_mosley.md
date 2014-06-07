@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_mosley
-name: Stephen Mosley
+title: Stephen Mosley
 memberships:
 - id: con
   name: Conservative Party

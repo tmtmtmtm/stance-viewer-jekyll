@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roberta_blackman_woods
-name: Roberta Blackman-Woods
+title: Roberta Blackman-Woods
 memberships:
 - id: lab
   name: Labour Party

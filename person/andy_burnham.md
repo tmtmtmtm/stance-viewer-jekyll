@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andy_burnham
-name: Andy Burnham
+title: Andy Burnham
 memberships:
 - id: lab
   name: Labour Party

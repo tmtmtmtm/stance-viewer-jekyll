@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_st_aubyn
-name: Nick St Aubyn
+title: Nick St Aubyn
 memberships:
 - id: con
   name: Conservative Party

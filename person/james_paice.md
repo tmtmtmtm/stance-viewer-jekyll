@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_paice
-name: James Paice
+title: James Paice
 memberships:
 - id: con
   name: Conservative Party

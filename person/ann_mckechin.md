@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_mckechin
-name: Ann McKechin
+title: Ann McKechin
 memberships:
 - id: lab
   name: Labour Party

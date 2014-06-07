@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alison_seabeck
-name: Alison Seabeck
+title: Alison Seabeck
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andy_reed
-name: Andy Reed
+title: Andy Reed
 memberships:
 - id: lab
   name: Labour Party

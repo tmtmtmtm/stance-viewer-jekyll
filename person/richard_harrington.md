@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_harrington
-name: Richard Harrington
+title: Richard Harrington
 memberships:
 - id: con
   name: Conservative Party

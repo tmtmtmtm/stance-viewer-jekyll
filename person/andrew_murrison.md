@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_murrison
-name: Andrew Murrison
+title: Andrew Murrison
 memberships:
 - id: con
   name: Conservative Party

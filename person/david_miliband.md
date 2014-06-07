@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_miliband
-name: David Miliband
+title: David Miliband
 memberships:
 - id: lab
   name: Labour Party

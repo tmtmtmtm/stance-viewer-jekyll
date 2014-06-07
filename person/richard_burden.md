@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_burden
-name: Richard Burden
+title: Richard Burden
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: francie_molloy
-name: Francie Molloy
+title: Francie Molloy
 memberships:
 - id: sf
   name: Sinn Féin

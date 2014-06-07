@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_maxton
-name: John Maxton
+title: John Maxton
 memberships:
 - id: lab
   name: Labour Party

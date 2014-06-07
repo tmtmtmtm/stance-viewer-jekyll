@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_welsh
-name: Andrew Welsh
+title: Andrew Welsh
 memberships:
 - id: snp
   name: SNP

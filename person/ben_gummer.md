@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ben_gummer
-name: Ben Gummer
+title: Ben Gummer
 memberships:
 - id: con
   name: Conservative Party

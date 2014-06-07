@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_cawsey
-name: Ian Cawsey
+title: Ian Cawsey
 memberships:
 - id: lab
   name: Labour Party

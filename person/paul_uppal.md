@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_uppal
-name: Paul Uppal
+title: Paul Uppal
 memberships:
 - id: con
   name: Conservative Party

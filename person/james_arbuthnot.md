@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_arbuthnot
-name: James Arbuthnot
+title: James Arbuthnot
 memberships:
 - id: con
   name: Conservative Party

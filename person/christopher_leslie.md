@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christopher_leslie
-name: Christopher Leslie
+title: Christopher Leslie
 memberships:
 - id: lab
   name: Labour Party

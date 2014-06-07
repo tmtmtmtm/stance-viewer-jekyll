@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_smith
-name: Robert Smith
+title: Robert Smith
 memberships:
 - id: ldem
   name: Liberal Democrats

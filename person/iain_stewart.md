@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iain_stewart
-name: Iain Stewart
+title: Iain Stewart
 memberships:
 - id: con
   name: Conservative Party

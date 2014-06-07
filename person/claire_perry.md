@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: claire_perry
-name: Claire Perry
+title: Claire Perry
 memberships:
 - id: con
   name: Conservative Party

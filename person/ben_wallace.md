@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ben_wallace
-name: Ben Wallace
+title: Ben Wallace
 memberships:
 - id: con
   name: Conservative Party

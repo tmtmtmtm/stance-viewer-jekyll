@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: maria_miller
-name: Maria Miller
+title: Maria Miller
 memberships:
 - id: con
   name: Conservative Party

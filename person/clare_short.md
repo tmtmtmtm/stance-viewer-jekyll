@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: clare_short
-name: Clare Short
+title: Clare Short
 memberships:
 - id: ind
   name: Independent

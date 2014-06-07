@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tim_loughton
-name: Tim Loughton
+title: Tim Loughton
 memberships:
 - id: con
   name: Conservative Party

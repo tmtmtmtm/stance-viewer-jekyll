@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robin_walker
-name: Robin Walker
+title: Robin Walker
 memberships:
 - id: con
   name: Conservative Party

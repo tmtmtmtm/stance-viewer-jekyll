@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: maria_eagle
-name: Maria Eagle
+title: Maria Eagle
 memberships:
 - id: lab
   name: Labour Party

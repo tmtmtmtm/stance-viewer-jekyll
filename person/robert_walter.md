@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_walter
-name: Robert Walter
+title: Robert Walter
 memberships:
 - id: con
   name: Conservative Party

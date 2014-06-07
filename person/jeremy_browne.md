@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeremy_browne
-name: Jeremy Browne
+title: Jeremy Browne
 memberships:
 - id: ldem
   name: Liberal Democrats

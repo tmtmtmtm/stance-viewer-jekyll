@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bruce_george
-name: Bruce George
+title: Bruce George
 memberships:
 - id: lab
   name: Labour Party

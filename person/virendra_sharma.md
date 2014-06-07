@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: virendra_sharma
-name: Virendra Sharma
+title: Virendra Sharma
 memberships:
 - id: lab
   name: Labour Party

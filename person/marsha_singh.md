@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: marsha_singh
-name: Marsha Singh
+title: Marsha Singh
 memberships:
 - id: lab
   name: Labour Party

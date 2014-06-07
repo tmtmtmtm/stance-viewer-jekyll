@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_cryer
-name: Ann Cryer
+title: Ann Cryer
 memberships:
 - id: lab
   name: Labour Party

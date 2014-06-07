@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: heather_wheeler
-name: Heather Wheeler
+title: Heather Wheeler
 memberships:
 - id: con
   name: Conservative Party

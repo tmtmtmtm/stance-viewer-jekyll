@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_reevell
-name: Simon Reevell
+title: Simon Reevell
 memberships:
 - id: con
   name: Conservative Party

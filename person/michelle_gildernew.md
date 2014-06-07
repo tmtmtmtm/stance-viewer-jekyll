@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michelle_gildernew
-name: Michelle Gildernew
+title: Michelle Gildernew
 memberships:
 - id: sf
   name: Sinn Féin

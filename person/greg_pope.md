@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: greg_pope
-name: Greg Pope
+title: Greg Pope
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: malcolm_bruce
-name: Malcolm Bruce
+title: Malcolm Bruce
 memberships:
 - id: ldem
   name: Liberal Democrats

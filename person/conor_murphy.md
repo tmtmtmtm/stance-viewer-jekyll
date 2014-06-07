@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: conor_murphy
-name: Conor Murphy
+title: Conor Murphy
 memberships:
 - id: sf
   name: Sinn Féin

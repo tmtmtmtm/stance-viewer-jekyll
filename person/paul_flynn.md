@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_flynn
-name: Paul Flynn
+title: Paul Flynn
 memberships:
 - id: lab
   name: Labour Party

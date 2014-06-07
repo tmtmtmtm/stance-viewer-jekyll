@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: emma_reynolds
-name: Emma Reynolds
+title: Emma Reynolds
 memberships:
 - id: lab
   name: Labour Party

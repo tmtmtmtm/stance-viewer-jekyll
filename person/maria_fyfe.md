@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: maria_fyfe
-name: Maria Fyfe
+title: Maria Fyfe
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: oliver_heald
-name: Oliver Heald
+title: Oliver Heald
 memberships:
 - id: con
   name: Conservative Party

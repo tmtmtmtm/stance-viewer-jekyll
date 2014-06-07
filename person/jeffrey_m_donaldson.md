@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeffrey_m_donaldson
-name: Jeffrey M Donaldson
+title: Jeffrey M Donaldson
 memberships:
 - id: dup
   name: DUP

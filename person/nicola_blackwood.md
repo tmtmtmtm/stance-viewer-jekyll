@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicola_blackwood
-name: Nicola Blackwood
+title: Nicola Blackwood
 memberships:
 - id: con
   name: Conservative Party

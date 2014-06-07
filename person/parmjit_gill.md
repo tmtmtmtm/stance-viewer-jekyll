@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: parmjit_gill
-name: Parmjit Gill
+title: Parmjit Gill
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julian_huppert
-name: Julian Huppert
+title: Julian Huppert
 memberships:
 - id: ldem
   name: Liberal Democrats

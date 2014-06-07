@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: derek_wyatt
-name: Derek Wyatt
+title: Derek Wyatt
 memberships:
 - id: lab
   name: Labour Party

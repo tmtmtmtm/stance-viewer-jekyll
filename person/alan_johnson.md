@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_johnson
-name: Alan Johnson
+title: Alan Johnson
 memberships:
 - id: lab
   name: Labour Party

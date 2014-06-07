@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ross_cranston
-name: Ross Cranston
+title: Ross Cranston
 memberships:
 - id: lab
   name: Labour Party

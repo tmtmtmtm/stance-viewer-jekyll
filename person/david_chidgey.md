@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_chidgey
-name: David Chidgey
+title: David Chidgey
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sarah_champion
-name: Sarah Champion
+title: Sarah Champion
 memberships:
 - id: lab
   name: Labour Party

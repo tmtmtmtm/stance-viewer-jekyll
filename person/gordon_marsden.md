@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gordon_marsden
-name: Gordon Marsden
+title: Gordon Marsden
 memberships:
 - id: lab
   name: Labour Party

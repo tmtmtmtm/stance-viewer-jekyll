@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gerry_sutcliffe
-name: Gerry Sutcliffe
+title: Gerry Sutcliffe
 memberships:
 - id: lab
   name: Labour Party

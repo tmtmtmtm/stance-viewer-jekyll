@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_davies
-name: David Davies
+title: David Davies
 memberships:
 - id: con
   name: Conservative Party

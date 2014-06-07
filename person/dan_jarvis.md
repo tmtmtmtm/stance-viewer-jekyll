@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dan_jarvis
-name: Dan Jarvis
+title: Dan Jarvis
 memberships:
 - id: lab
   name: Labour Party

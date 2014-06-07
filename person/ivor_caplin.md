@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ivor_caplin
-name: Ivor Caplin
+title: Ivor Caplin
 memberships:
 - id: lab
   name: Labour Party

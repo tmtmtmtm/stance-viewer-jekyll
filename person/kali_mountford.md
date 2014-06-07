@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kali_mountford
-name: Kali Mountford
+title: Kali Mountford
 memberships:
 - id: lab
   name: Labour Party

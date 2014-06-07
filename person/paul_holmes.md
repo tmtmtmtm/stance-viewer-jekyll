@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_holmes
-name: Paul Holmes
+title: Paul Holmes
 memberships:
 - id: ldem
   name: Liberal Democrats

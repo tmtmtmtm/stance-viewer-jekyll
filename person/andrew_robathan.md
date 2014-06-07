@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_robathan
-name: Andrew Robathan
+title: Andrew Robathan
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margaret_beckett
-name: Margaret Beckett
+title: Margaret Beckett
 memberships:
 - id: lab
   name: Labour Party

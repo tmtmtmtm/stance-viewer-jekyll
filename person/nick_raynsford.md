@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_raynsford
-name: Nick Raynsford
+title: Nick Raynsford
 memberships:
 - id: lab
   name: Labour Party

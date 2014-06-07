@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_winterton
-name: Ann Winterton
+title: Ann Winterton
 memberships:
 - id: con
   name: Conservative Party

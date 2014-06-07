@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lee_scott
-name: Lee Scott
+title: Lee Scott
 memberships:
 - id: con
   name: Conservative Party

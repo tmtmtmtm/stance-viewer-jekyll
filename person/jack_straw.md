@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jack_straw
-name: Jack Straw
+title: Jack Straw
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adrian_bailey
-name: Adrian Bailey
+title: Adrian Bailey
 memberships:
 - id: lab
   name: Labour Party

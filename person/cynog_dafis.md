@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: cynog_dafis
-name: Cynog Dafis
+title: Cynog Dafis
 memberships:
 - id: pc
   name: Plaid Cymru

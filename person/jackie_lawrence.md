@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jackie_lawrence
-name: Jackie Lawrence
+title: Jackie Lawrence
 memberships:
 - id: lab
   name: Labour Party

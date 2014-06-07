@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: matthew_offord
-name: Matthew Offord
+title: Matthew Offord
 memberships:
 - id: con
   name: Conservative Party

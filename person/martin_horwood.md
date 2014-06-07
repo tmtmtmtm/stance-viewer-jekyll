@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_horwood
-name: Martin Horwood
+title: Martin Horwood
 memberships:
 - id: ldem
   name: Liberal Democrats

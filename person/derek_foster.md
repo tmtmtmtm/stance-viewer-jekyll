@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: derek_foster
-name: Derek Foster
+title: Derek Foster
 memberships:
 - id: lab
   name: Labour Party

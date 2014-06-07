@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_griffiths
-name: Nigel Griffiths
+title: Nigel Griffiths
 memberships:
 - id: lab
   name: Labour Party

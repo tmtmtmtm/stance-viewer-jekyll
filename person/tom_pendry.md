@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_pendry
-name: Tom Pendry
+title: Tom Pendry
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lisa_nandy
-name: Lisa Nandy
+title: Lisa Nandy
 memberships:
 - id: lab
   name: Labour Party

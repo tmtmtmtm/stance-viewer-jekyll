@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: fabian_hamilton
-name: Fabian Hamilton
+title: Fabian Hamilton
 memberships:
 - id: lab
   name: Labour Party

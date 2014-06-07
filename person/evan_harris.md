@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: evan_harris
-name: Evan Harris
+title: Evan Harris
 memberships:
 - id: ldem
   name: Liberal Democrats

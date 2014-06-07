@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: llin_golding
-name: Llin Golding
+title: Llin Golding
 memberships:
 - id: lab
   name: Labour Party

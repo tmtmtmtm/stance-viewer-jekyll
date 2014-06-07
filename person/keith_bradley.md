@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: keith_bradley
-name: Keith Bradley
+title: Keith Bradley
 memberships:
 - id: lab
   name: Labour Party

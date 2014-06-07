@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_redwood
-name: John Redwood
+title: John Redwood
 memberships:
 - id: con
   name: Conservative Party

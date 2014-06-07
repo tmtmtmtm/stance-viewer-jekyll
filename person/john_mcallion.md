@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_mcallion
-name: John McAllion
+title: John McAllion
 memberships:
 - id: lab
   name: Labour Party

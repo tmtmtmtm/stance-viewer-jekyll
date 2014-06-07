@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joyce_quin
-name: Joyce Quin
+title: Joyce Quin
 memberships:
 - id: lab
   name: Labour Party

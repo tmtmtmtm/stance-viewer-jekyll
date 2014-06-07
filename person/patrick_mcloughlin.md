@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: patrick_mcloughlin
-name: Patrick McLoughlin
+title: Patrick McLoughlin
 memberships:
 - id: con
   name: Conservative Party

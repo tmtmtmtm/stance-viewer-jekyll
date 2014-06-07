@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margaret_hodge
-name: Margaret Hodge
+title: Margaret Hodge
 memberships:
 - id: lab
   name: Labour Party

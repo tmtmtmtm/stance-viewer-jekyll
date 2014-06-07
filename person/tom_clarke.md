@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_clarke
-name: Tom Clarke
+title: Tom Clarke
 memberships:
 - id: lab
   name: Labour Party

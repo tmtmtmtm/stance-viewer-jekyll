@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julian_lewis
-name: Julian Lewis
+title: Julian Lewis
 memberships:
 - id: con
   name: Conservative Party

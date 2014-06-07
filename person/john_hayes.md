@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_hayes
-name: John Hayes
+title: John Hayes
 memberships:
 - id: con
   name: Conservative Party

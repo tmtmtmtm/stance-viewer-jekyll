@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jo_johnson
-name: Jo Johnson
+title: Jo Johnson
 memberships:
 - id: con
   name: Conservative Party

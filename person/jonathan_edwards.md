@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_edwards
-name: Jonathan Edwards
+title: Jonathan Edwards
 memberships:
 - id: pc
   name: Plaid Cymru

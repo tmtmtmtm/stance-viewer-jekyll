@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andy_king
-name: Andy King
+title: Andy King
 memberships:
 - id: lab
   name: Labour Party

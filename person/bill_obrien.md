@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_obrien
-name: Bill O'Brien
+title: Bill O'Brien
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_graham
-name: Richard Graham
+title: Richard Graham
 memberships:
 - id: con
   name: Conservative Party

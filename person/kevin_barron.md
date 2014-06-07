@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kevin_barron
-name: Kevin Barron
+title: Kevin Barron
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_lidington
-name: David Lidington
+title: David Lidington
 memberships:
 - id: con
   name: Conservative Party

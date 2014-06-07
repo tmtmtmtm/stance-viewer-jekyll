@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alun_cairns
-name: Alun Cairns
+title: Alun Cairns
 memberships:
 - id: con
   name: Conservative Party

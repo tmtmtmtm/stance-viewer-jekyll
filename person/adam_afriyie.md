@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adam_afriyie
-name: Adam Afriyie
+title: Adam Afriyie
 memberships:
 - id: con
   name: Conservative Party

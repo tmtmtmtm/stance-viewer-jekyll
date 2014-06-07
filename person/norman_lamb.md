@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: norman_lamb
-name: Norman Lamb
+title: Norman Lamb
 memberships:
 - id: ldem
   name: Liberal Democrats

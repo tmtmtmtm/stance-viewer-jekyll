@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_tami
-name: Mark Tami
+title: Mark Tami
 memberships:
 - id: lab
   name: Labour Party

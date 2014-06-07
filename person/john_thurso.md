@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_thurso
-name: John Thurso
+title: John Thurso
 memberships:
 - id: ldem
   name: Liberal Democrats

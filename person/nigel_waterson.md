@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_waterson
-name: Nigel Waterson
+title: Nigel Waterson
 memberships:
 - id: con
   name: Conservative Party

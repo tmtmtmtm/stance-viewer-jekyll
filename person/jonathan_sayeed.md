@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_sayeed
-name: Jonathan Sayeed
+title: Jonathan Sayeed
 memberships:
 - id: con
   name: Conservative Party

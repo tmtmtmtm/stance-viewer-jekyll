@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_lyons
-name: John Lyons
+title: John Lyons
 memberships:
 - id: lab
   name: Labour Party

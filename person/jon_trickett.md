@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jon_trickett
-name: Jon Trickett
+title: Jon Trickett
 memberships:
 - id: lab
   name: Labour Party

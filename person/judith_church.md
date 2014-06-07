@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: judith_church
-name: Judith Church
+title: Judith Church
 memberships:
 - id: lab
   name: Labour Party

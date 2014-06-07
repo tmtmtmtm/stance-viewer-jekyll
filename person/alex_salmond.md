@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alex_salmond
-name: Alex Salmond
+title: Alex Salmond
 memberships:
 - id: snp
   name: SNP

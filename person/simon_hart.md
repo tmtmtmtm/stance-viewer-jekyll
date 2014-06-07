@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_hart
-name: Simon Hart
+title: Simon Hart
 memberships:
 - id: con
   name: Conservative Party

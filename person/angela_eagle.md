@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angela_eagle
-name: Angela Eagle
+title: Angela Eagle
 memberships:
 - id: lab
   name: Labour Party

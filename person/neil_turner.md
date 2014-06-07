@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: neil_turner
-name: Neil Turner
+title: Neil Turner
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_fitzpatrick
-name: Jim Fitzpatrick
+title: Jim Fitzpatrick
 memberships:
 - id: lab
   name: Labour Party

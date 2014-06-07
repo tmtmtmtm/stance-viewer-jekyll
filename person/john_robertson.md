@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_robertson
-name: John Robertson
+title: John Robertson
 memberships:
 - id: lab
   name: Labour Party

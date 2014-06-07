@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rob_wilson
-name: Rob Wilson
+title: Rob Wilson
 memberships:
 - id: con
   name: Conservative Party

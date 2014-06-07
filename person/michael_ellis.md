@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_ellis
-name: Michael Ellis
+title: Michael Ellis
 memberships:
 - id: con
   name: Conservative Party

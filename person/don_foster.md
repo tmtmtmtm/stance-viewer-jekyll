@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: don_foster
-name: Don Foster
+title: Don Foster
 memberships:
 - id: ldem
   name: Liberal Democrats

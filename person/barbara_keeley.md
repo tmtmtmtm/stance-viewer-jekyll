@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: barbara_keeley
-name: Barbara Keeley
+title: Barbara Keeley
 memberships:
 - id: lab
   name: Labour Party

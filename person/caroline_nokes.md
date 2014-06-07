@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: caroline_nokes
-name: Caroline Nokes
+title: Caroline Nokes
 memberships:
 - id: con
   name: Conservative Party

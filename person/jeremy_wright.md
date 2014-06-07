@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeremy_wright
-name: Jeremy Wright
+title: Jeremy Wright
 memberships:
 - id: con
   name: Conservative Party

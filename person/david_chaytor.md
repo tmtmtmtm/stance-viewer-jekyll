@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_chaytor
-name: David Chaytor
+title: David Chaytor
 memberships:
 - id: lab
   name: Labour Party

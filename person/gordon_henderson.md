@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gordon_henderson
-name: Gordon Henderson
+title: Gordon Henderson
 memberships:
 - id: con
   name: Conservative Party

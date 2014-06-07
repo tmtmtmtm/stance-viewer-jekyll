@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sally_keeble
-name: Sally Keeble
+title: Sally Keeble
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jack_dromey
-name: Jack Dromey
+title: Jack Dromey
 memberships:
 - id: lab
   name: Labour Party

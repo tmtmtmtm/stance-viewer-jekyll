@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eileen_gordon
-name: Eileen Gordon
+title: Eileen Gordon
 memberships:
 - id: lab
   name: Labour Party

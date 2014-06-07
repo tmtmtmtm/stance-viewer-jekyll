@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: doug_naysmith
-name: Doug Naysmith
+title: Doug Naysmith
 memberships:
 - id: lab
   name: Labour Party

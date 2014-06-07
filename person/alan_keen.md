@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_keen
-name: Alan Keen
+title: Alan Keen
 memberships:
 - id: lab
   name: Labour Party

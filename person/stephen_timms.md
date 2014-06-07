@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_timms
-name: Stephen Timms
+title: Stephen Timms
 memberships:
 - id: lab
   name: Labour Party

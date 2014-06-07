@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_sedgemore
-name: Brian Sedgemore
+title: Brian Sedgemore
 memberships:
 - id: lab
   name: Labour Party

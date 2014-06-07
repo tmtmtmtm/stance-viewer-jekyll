@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: marcus_jones
-name: Marcus Jones
+title: Marcus Jones
 memberships:
 - id: con
   name: Conservative Party

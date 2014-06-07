@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_tynan
-name: Bill Tynan
+title: Bill Tynan
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: karen_buck
-name: Karen Buck
+title: Karen Buck
 memberships:
 - id: lab
   name: Labour Party

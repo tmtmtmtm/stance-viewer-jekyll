@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_mccartney
-name: Robert McCartney
+title: Robert McCartney
 memberships:
 - id: ukup
   name: UKUP

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_major
-name: John Major
+title: John Major
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geoffrey_johnson_smith
-name: Geoffrey Johnson Smith
+title: Geoffrey Johnson Smith
 memberships:
 - id: con
   name: Conservative Party

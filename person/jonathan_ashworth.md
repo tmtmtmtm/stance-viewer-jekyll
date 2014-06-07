@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_ashworth
-name: Jonathan Ashworth
+title: Jonathan Ashworth
 memberships:
 - id: lab
   name: Labour Party

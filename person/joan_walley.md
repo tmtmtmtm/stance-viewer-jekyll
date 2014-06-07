@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joan_walley
-name: Joan Walley
+title: Joan Walley
 memberships:
 - id: lab
   name: Labour Party

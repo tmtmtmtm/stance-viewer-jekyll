@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_taylor
-name: David Taylor
+title: David Taylor
 memberships:
 - id: lab
   name: Labour Party

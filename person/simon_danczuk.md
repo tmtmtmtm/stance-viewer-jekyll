@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_danczuk
-name: Simon Danczuk
+title: Simon Danczuk
 memberships:
 - id: lab
   name: Labour Party

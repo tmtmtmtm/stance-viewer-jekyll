@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kevin_brennan
-name: Kevin Brennan
+title: Kevin Brennan
 memberships:
 - id: lab
   name: Labour Party

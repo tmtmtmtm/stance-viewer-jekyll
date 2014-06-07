@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: douglas_hogg
-name: Douglas Hogg
+title: Douglas Hogg
 memberships:
 - id: con
   name: Conservative Party

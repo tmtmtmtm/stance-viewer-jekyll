@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_clwyd
-name: Ann Clwyd
+title: Ann Clwyd
 memberships:
 - id: lab
   name: Labour Party

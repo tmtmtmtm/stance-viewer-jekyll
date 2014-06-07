@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_brake
-name: Tom Brake
+title: Tom Brake
 memberships:
 - id: ldem
   name: Liberal Democrats

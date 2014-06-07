@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: steve_rotheram
-name: Steve Rotheram
+title: Steve Rotheram
 memberships:
 - id: lab
   name: Labour Party

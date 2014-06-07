@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_turner
-name: Andrew Turner
+title: Andrew Turner
 memberships:
 - id: con
   name: Conservative Party

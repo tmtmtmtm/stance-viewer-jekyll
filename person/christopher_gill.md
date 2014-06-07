@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christopher_gill
-name: Christopher Gill
+title: Christopher Gill
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: william_cash
-name: William Cash
+title: William Cash
 memberships:
 - id: con
   name: Conservative Party

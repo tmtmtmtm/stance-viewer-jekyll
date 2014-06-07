@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: elizabeth_truss
-name: Elizabeth Truss
+title: Elizabeth Truss
 memberships:
 - id: con
   name: Conservative Party

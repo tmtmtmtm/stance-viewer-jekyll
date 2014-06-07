@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: harold_best
-name: Harold Best
+title: Harold Best
 memberships:
 - id: lab
   name: Labour Party

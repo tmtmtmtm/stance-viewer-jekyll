@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_wiggin
-name: Bill Wiggin
+title: Bill Wiggin
 memberships:
 - id: con
   name: Conservative Party

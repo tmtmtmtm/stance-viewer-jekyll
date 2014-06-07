@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: desmond_swayne
-name: Desmond Swayne
+title: Desmond Swayne
 memberships:
 - id: con
   name: Conservative Party

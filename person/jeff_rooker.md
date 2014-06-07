@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeff_rooker
-name: Jeff Rooker
+title: Jeff Rooker
 memberships:
 - id: lab
   name: Labour Party

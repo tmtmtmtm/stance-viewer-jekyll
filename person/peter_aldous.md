@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_aldous
-name: Peter Aldous
+title: Peter Aldous
 memberships:
 - id: con
   name: Conservative Party

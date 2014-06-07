@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rosie_cooper
-name: Rosie Cooper
+title: Rosie Cooper
 memberships:
 - id: lab
   name: Labour Party

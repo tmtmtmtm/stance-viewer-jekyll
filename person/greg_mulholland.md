@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: greg_mulholland
-name: Greg Mulholland
+title: Greg Mulholland
 memberships:
 - id: ldem
   name: Liberal Democrats

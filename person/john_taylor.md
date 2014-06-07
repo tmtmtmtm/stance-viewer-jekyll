@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_taylor
-name: John Taylor
+title: John Taylor
 memberships:
 - id: con
   name: Conservative Party

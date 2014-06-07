@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: willie_rennie
-name: Willie Rennie
+title: Willie Rennie
 memberships:
 - id: ldem
   name: Liberal Democrats

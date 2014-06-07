@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lynne_jones
-name: Lynne Jones
+title: Lynne Jones
 memberships:
 - id: lab
   name: Labour Party

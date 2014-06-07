@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_mills
-name: Nigel Mills
+title: Nigel Mills
 memberships:
 - id: con
   name: Conservative Party

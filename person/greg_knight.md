@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: greg_knight
-name: Greg Knight
+title: Greg Knight
 memberships:
 - id: con
   name: Conservative Party

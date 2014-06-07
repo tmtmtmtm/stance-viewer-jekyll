@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_mcintosh
-name: Anne McIntosh
+title: Anne McIntosh
 memberships:
 - id: con
   name: Conservative Party

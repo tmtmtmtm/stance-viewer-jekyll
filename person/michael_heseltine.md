@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_heseltine
-name: Michael Heseltine
+title: Michael Heseltine
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mo_mowlam
-name: Mo Mowlam
+title: Mo Mowlam
 memberships:
 - id: lab
   name: Labour Party

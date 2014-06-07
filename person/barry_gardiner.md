@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: barry_gardiner
-name: Barry Gardiner
+title: Barry Gardiner
 memberships:
 - id: lab
   name: Labour Party

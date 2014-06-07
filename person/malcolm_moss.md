@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: malcolm_moss
-name: Malcolm Moss
+title: Malcolm Moss
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_hume
-name: John Hume
+title: John Hume
 memberships:
 - id: sdlp
   name: SDLP

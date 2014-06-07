@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_stewart
-name: David Stewart
+title: David Stewart
 memberships:
 - id: lab
   name: Labour Party

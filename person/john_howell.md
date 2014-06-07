@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_howell
-name: John Howell
+title: John Howell
 memberships:
 - id: con
   name: Conservative Party

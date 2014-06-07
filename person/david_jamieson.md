@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_jamieson
-name: David Jamieson
+title: David Jamieson
 memberships:
 - id: lab
   name: Labour Party

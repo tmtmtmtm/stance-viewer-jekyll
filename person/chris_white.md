@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_white
-name: Chris White
+title: Chris White
 memberships:
 - id: con
   name: Conservative Party

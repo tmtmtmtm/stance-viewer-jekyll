@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margaret_curran
-name: Margaret Curran
+title: Margaret Curran
 memberships:
 - id: lab
   name: Labour Party

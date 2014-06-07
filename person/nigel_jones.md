@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_jones
-name: Nigel Jones
+title: Nigel Jones
 memberships:
 - id: ldem
   name: Liberal Democrats

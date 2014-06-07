@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stuart_bell
-name: Stuart Bell
+title: Stuart Bell
 memberships:
 - id: lab
   name: Labour Party

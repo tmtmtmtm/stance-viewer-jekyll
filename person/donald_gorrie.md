@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: donald_gorrie
-name: Donald Gorrie
+title: Donald Gorrie
 memberships:
 - id: ldem
   name: Liberal Democrats

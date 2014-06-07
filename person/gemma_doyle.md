@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gemma_doyle
-name: Gemma Doyle
+title: Gemma Doyle
 memberships:
 - id: lab
   name: Labour Party

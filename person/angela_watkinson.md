@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angela_watkinson
-name: Angela Watkinson
+title: Angela Watkinson
 memberships:
 - id: con
   name: Conservative Party

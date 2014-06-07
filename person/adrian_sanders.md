@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adrian_sanders
-name: Adrian Sanders
+title: Adrian Sanders
 memberships:
 - id: ldem
   name: Liberal Democrats

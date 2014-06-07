@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_illsley
-name: Eric Illsley
+title: Eric Illsley
 memberships:
 - id: lab
   name: Labour Party

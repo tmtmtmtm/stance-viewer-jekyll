@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_keetch
-name: Paul Keetch
+title: Paul Keetch
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: syd_rapson
-name: Syd Rapson
+title: Syd Rapson
 memberships:
 - id: lab
   name: Labour Party

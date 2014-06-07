@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tess_kingham
-name: Tess Kingham
+title: Tess Kingham
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dale_campbell_savours
-name: Dale Campbell-Savours
+title: Dale Campbell-Savours
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicholas_soames
-name: Nicholas Soames
+title: Nicholas Soames
 memberships:
 - id: con
   name: Conservative Party

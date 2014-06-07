@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_stinchcombe
-name: Paul Stinchcombe
+title: Paul Stinchcombe
 memberships:
 - id: lab
   name: Labour Party

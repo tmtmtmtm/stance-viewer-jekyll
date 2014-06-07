@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_sheridan
-name: Jim Sheridan
+title: Jim Sheridan
 memberships:
 - id: lab
   name: Labour Party

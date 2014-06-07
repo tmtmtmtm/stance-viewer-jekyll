@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_maynard
-name: Paul Maynard
+title: Paul Maynard
 memberships:
 - id: con
   name: Conservative Party

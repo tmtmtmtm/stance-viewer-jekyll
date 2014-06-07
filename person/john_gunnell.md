@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_gunnell
-name: John Gunnell
+title: John Gunnell
 memberships:
 - id: lab
   name: Labour Party

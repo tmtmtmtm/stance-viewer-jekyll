@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: fiona_mactaggart
-name: Fiona Mactaggart
+title: Fiona Mactaggart
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kwasi_kwarteng
-name: Kwasi Kwarteng
+title: Kwasi Kwarteng
 memberships:
 - id: con
   name: Conservative Party

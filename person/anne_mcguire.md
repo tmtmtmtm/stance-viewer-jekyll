@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_mcguire
-name: Anne McGuire
+title: Anne McGuire
 memberships:
 - id: lab
   name: Labour Party

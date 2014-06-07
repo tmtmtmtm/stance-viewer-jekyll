@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_reynolds
-name: Jonathan Reynolds
+title: Jonathan Reynolds
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_marshall
-name: Jim Marshall
+title: Jim Marshall
 memberships:
 - id: lab
   name: Labour Party

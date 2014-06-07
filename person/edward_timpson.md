@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_timpson
-name: Edward Timpson
+title: Edward Timpson
 memberships:
 - id: con
   name: Conservative Party

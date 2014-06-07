@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alok_sharma
-name: Alok Sharma
+title: Alok Sharma
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lindsay_roy
-name: Lindsay Roy
+title: Lindsay Roy
 memberships:
 - id: lab
   name: Labour Party

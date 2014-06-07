@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ken_maginnis
-name: Ken Maginnis
+title: Ken Maginnis
 memberships:
 - id: uup
   name: UUP

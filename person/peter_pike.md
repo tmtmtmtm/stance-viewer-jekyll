@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_pike
-name: Peter Pike
+title: Peter Pike
 memberships:
 - id: lab
   name: Labour Party

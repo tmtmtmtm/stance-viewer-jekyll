@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: madeleine_moon
-name: Madeleine Moon
+title: Madeleine Moon
 memberships:
 - id: lab
   name: Labour Party

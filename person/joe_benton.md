@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joe_benton
-name: Joe Benton
+title: Joe Benton
 memberships:
 - id: lab
   name: Labour Party

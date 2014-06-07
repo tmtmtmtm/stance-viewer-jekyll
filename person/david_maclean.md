@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_maclean
-name: David Maclean
+title: David Maclean
 memberships:
 - id: con
   name: Conservative Party

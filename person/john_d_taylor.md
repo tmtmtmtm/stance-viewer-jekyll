@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_d_taylor
-name: John D Taylor
+title: John D Taylor
 memberships:
 - id: uup
   name: UUP

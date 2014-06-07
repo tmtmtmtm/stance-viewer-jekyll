@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charles_kennedy
-name: Charles Kennedy
+title: Charles Kennedy
 memberships:
 - id: ldem
   name: Liberal Democrats

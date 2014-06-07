@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dennis_skinner
-name: Dennis Skinner
+title: Dennis Skinner
 memberships:
 - id: lab
   name: Labour Party

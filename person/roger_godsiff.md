@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roger_godsiff
-name: Roger Godsiff
+title: Roger Godsiff
 memberships:
 - id: lab
   name: Labour Party

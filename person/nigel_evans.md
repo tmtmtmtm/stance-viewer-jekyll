@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_evans
-name: Nigel Evans
+title: Nigel Evans
 memberships:
 - id: con
   name: Conservative Party

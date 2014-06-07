@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_evans
-name: Jonathan Evans
+title: Jonathan Evans
 memberships:
 - id: con
   name: Conservative Party

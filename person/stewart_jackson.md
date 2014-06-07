@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stewart_jackson
-name: Stewart Jackson
+title: Stewart Jackson
 memberships:
 - id: con
   name: Conservative Party

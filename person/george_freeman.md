@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_freeman
-name: George Freeman
+title: George Freeman
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: raymond_powell
-name: Raymond Powell
+title: Raymond Powell
 memberships:
 - id: lab
   name: Labour Party

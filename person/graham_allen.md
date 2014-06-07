@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graham_allen
-name: Graham Allen
+title: Graham Allen
 memberships:
 - id: lab
   name: Labour Party

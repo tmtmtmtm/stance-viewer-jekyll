@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_moore
-name: Michael Moore
+title: Michael Moore
 memberships:
 - id: ldem
   name: Liberal Democrats

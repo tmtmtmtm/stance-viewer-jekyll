@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: norman_godman
-name: Norman Godman
+title: Norman Godman
 memberships:
 - id: lab
   name: Labour Party

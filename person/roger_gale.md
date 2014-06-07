@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roger_gale
-name: Roger Gale
+title: Roger Gale
 memberships:
 - id: con
   name: Conservative Party

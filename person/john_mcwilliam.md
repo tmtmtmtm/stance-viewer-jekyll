@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_mcwilliam
-name: John McWilliam
+title: John McWilliam
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_bridgen
-name: Andrew Bridgen
+title: Andrew Bridgen
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_colvin
-name: Michael Colvin
+title: Michael Colvin
 memberships:
 - id: con
   name: Conservative Party

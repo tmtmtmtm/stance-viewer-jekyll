@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_allan
-name: Richard Allan
+title: Richard Allan
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: patrick_cormack
-name: Patrick Cormack
+title: Patrick Cormack
 memberships:
 - id: con
   name: Conservative Party

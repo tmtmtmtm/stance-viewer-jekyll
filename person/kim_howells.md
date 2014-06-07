@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kim_howells
-name: Kim Howells
+title: Kim Howells
 memberships:
 - id: lab
   name: Labour Party

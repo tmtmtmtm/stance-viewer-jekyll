@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: neil_gerrard
-name: Neil Gerrard
+title: Neil Gerrard
 memberships:
 - id: lab
   name: Labour Party

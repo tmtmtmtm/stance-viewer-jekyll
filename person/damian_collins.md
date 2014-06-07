@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: damian_collins
-name: Damian Collins
+title: Damian Collins
 memberships:
 - id: con
   name: Conservative Party

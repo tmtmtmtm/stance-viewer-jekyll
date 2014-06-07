@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_kirby
-name: Simon Kirby
+title: Simon Kirby
 memberships:
 - id: con
   name: Conservative Party

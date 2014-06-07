@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sheryll_murray
-name: Sheryll Murray
+title: Sheryll Murray
 memberships:
 - id: con
   name: Conservative Party

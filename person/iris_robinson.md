@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iris_robinson
-name: Iris Robinson
+title: Iris Robinson
 memberships:
 - id: dup
   name: DUP

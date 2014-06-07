@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_rendel
-name: David Rendel
+title: David Rendel
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jane_ellison
-name: Jane Ellison
+title: Jane Ellison
 memberships:
 - id: con
   name: Conservative Party

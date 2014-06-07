@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: greg_clark
-name: Greg Clark
+title: Greg Clark
 memberships:
 - id: con
   name: Conservative Party

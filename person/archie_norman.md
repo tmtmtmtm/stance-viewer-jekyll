@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: archie_norman
-name: Archie Norman
+title: Archie Norman
 memberships:
 - id: con
   name: Conservative Party

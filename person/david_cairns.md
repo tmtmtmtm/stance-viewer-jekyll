@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_cairns
-name: David Cairns
+title: David Cairns
 memberships:
 - id: lab
   name: Labour Party

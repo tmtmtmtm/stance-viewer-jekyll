@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_lock
-name: David Lock
+title: David Lock
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hilton_dawson
-name: Hilton Dawson
+title: Hilton Dawson
 memberships:
 - id: lab
   name: Labour Party

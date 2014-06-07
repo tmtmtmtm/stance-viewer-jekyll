@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jo_swinson
-name: Jo Swinson
+title: Jo Swinson
 memberships:
 - id: ldem
   name: Liberal Democrats

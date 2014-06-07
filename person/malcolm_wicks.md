@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: malcolm_wicks
-name: Malcolm Wicks
+title: Malcolm Wicks
 memberships:
 - id: lab
   name: Labour Party

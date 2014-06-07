@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sharon_hodgson
-name: Sharon Hodgson
+title: Sharon Hodgson
 memberships:
 - id: lab
   name: Labour Party

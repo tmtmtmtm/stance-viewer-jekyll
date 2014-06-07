@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_pond
-name: Chris Pond
+title: Chris Pond
 memberships:
 - id: lab
   name: Labour Party

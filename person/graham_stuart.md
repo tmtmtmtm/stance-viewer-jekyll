@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graham_stuart
-name: Graham Stuart
+title: Graham Stuart
 memberships:
 - id: con
   name: Conservative Party

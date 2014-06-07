@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_denham
-name: John Denham
+title: John Denham
 memberships:
 - id: lab
   name: Labour Party

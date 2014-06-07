@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_foulkes
-name: George Foulkes
+title: George Foulkes
 memberships:
 - id: lab
   name: Labour Party

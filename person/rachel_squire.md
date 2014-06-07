@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rachel_squire
-name: Rachel Squire
+title: Rachel Squire
 memberships:
 - id: lab
   name: Labour Party

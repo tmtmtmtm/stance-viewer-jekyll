@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gloria_de_piero
-name: Gloria De Piero
+title: Gloria De Piero
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_gibson
-name: Ian Gibson
+title: Ian Gibson
 memberships:
 - id: lab
   name: Labour Party

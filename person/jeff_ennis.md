@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeff_ennis
-name: Jeff Ennis
+title: Jeff Ennis
 memberships:
 - id: lab
   name: Labour Party

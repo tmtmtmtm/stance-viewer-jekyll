@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_ward
-name: David Ward
+title: David Ward
 memberships:
 - id: ldem
   name: Liberal Democrats

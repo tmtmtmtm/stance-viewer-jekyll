@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: seamus_mallon
-name: Seamus Mallon
+title: Seamus Mallon
 memberships:
 - id: sdlp
   name: SDLP

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: malcolm_rifkind
-name: Malcolm Rifkind
+title: Malcolm Rifkind
 memberships:
 - id: con
   name: Conservative Party

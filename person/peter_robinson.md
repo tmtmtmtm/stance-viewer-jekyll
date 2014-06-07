@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_robinson
-name: Peter Robinson
+title: Peter Robinson
 memberships:
 - id: dup
   name: DUP

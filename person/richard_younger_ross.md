@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_younger_ross
-name: Richard Younger-Ross
+title: Richard Younger-Ross
 memberships:
 - id: ldem
   name: Liberal Democrats

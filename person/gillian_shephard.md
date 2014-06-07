@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gillian_shephard
-name: Gillian Shephard
+title: Gillian Shephard
 memberships:
 - id: con
   name: Conservative Party

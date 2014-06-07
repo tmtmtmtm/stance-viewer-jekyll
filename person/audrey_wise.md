@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: audrey_wise
-name: Audrey Wise
+title: Audrey Wise
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_soulsby
-name: Peter Soulsby
+title: Peter Soulsby
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ronnie_campbell
-name: Ronnie Campbell
+title: Ronnie Campbell
 memberships:
 - id: lab
   name: Labour Party

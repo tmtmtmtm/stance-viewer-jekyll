@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tim_boswell
-name: Tim Boswell
+title: Tim Boswell
 memberships:
 - id: con
   name: Conservative Party

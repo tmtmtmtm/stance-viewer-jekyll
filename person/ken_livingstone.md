@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ken_livingstone
-name: Ken Livingstone
+title: Ken Livingstone
 memberships:
 - id: ind
   name: Independent

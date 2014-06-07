@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_heathcoat_amory
-name: David Heathcoat-Amory
+title: David Heathcoat-Amory
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_lloyd
-name: Tony Lloyd
+title: Tony Lloyd
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_dobbin
-name: Jim Dobbin
+title: Jim Dobbin
 memberships:
 - id: lab
   name: Labour Party

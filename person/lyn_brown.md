@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lyn_brown
-name: Lyn Brown
+title: Lyn Brown
 memberships:
 - id: lab
   name: Labour Party

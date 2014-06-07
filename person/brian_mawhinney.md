@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_mawhinney
-name: Brian Mawhinney
+title: Brian Mawhinney
 memberships:
 - id: con
   name: Conservative Party

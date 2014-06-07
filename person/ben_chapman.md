@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ben_chapman
-name: Ben Chapman
+title: Ben Chapman
 memberships:
 - id: lab
   name: Labour Party

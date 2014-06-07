@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iain_wright
-name: Iain Wright
+title: Iain Wright
 memberships:
 - id: lab
   name: Labour Party

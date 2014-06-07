@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phyllis_starkey
-name: Phyllis Starkey
+title: Phyllis Starkey
 memberships:
 - id: lab
   name: Labour Party

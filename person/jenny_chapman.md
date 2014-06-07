@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jenny_chapman
-name: Jenny Chapman
+title: Jenny Chapman
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_mullin
-name: Chris Mullin
+title: Chris Mullin
 memberships:
 - id: lab
   name: Labour Party

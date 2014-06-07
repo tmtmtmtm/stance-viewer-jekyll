@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: glenda_jackson
-name: Glenda Jackson
+title: Glenda Jackson
 memberships:
 - id: lab
   name: Labour Party

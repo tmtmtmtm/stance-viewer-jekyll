@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_ollerenshaw
-name: Eric Ollerenshaw
+title: Eric Ollerenshaw
 memberships:
 - id: con
   name: Conservative Party

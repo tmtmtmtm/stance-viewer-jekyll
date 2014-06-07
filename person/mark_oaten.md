@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_oaten
-name: Mark Oaten
+title: Mark Oaten
 memberships:
 - id: ldem
   name: Liberal Democrats

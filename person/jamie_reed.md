@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jamie_reed
-name: Jamie Reed
+title: Jamie Reed
 memberships:
 - id: lab
   name: Labour Party

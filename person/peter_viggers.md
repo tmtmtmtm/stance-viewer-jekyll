@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_viggers
-name: Peter Viggers
+title: Peter Viggers
 memberships:
 - id: con
   name: Conservative Party

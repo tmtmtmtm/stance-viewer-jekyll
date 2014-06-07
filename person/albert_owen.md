@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: albert_owen
-name: Albert Owen
+title: Albert Owen
 memberships:
 - id: lab
   name: Labour Party

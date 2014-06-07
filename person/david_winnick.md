@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_winnick
-name: David Winnick
+title: David Winnick
 memberships:
 - id: lab
   name: Labour Party

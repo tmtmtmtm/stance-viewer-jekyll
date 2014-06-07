@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charles_wardle
-name: Charles Wardle
+title: Charles Wardle
 memberships:
 - id: con
   name: Conservative Party

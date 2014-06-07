@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: conor_burns
-name: Conor Burns
+title: Conor Burns
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: archie_hamilton
-name: Archie Hamilton
+title: Archie Hamilton
 memberships:
 - id: con
   name: Conservative Party

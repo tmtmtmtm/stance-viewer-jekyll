@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_prisk
-name: Mark Prisk
+title: Mark Prisk
 memberships:
 - id: con
   name: Conservative Party

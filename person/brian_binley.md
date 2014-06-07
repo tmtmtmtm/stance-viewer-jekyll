@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_binley
-name: Brian Binley
+title: Brian Binley
 memberships:
 - id: con
   name: Conservative Party

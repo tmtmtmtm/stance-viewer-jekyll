@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: barbara_follett
-name: Barbara Follett
+title: Barbara Follett
 memberships:
 - id: lab
   name: Labour Party

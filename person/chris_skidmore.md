@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_skidmore
-name: Chris Skidmore
+title: Chris Skidmore
 memberships:
 - id: con
   name: Conservative Party

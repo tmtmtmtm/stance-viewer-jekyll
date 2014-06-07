@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_twigg
-name: Stephen Twigg
+title: Stephen Twigg
 memberships:
 - id: lab
   name: Labour Party

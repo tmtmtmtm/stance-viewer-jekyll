@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ben_bradshaw
-name: Ben Bradshaw
+title: Ben Bradshaw
 memberships:
 - id: lab
   name: Labour Party

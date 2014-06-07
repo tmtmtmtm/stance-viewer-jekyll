@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chuka_umunna
-name: Chuka Umunna
+title: Chuka Umunna
 memberships:
 - id: lab
   name: Labour Party

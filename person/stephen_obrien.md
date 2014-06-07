@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_obrien
-name: Stephen O'Brien
+title: Stephen O'Brien
 memberships:
 - id: con
   name: Conservative Party

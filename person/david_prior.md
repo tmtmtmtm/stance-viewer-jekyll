@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_prior
-name: David Prior
+title: David Prior
 memberships:
 - id: con
   name: Conservative Party

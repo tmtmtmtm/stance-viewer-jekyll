@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ray_whitney
-name: Ray Whitney
+title: Ray Whitney
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: fiona_odonnell
-name: Fiona O'Donnell
+title: Fiona O'Donnell
 memberships:
 - id: lab
   name: Labour Party

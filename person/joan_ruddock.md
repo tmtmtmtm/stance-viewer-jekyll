@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joan_ruddock
-name: Joan Ruddock
+title: Joan Ruddock
 memberships:
 - id: lab
   name: Labour Party

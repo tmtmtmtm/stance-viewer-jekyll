@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margaret_ewing
-name: Margaret Ewing
+title: Margaret Ewing
 memberships:
 - id: snp
   name: SNP

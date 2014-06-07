@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graham_brady
-name: Graham Brady
+title: Graham Brady
 memberships:
 - id: con
   name: Conservative Party

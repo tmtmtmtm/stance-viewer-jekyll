@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sandra_gidley
-name: Sandra Gidley
+title: Sandra Gidley
 memberships:
 - id: ldem
   name: Liberal Democrats

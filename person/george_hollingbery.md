@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_hollingbery
-name: George Hollingbery
+title: George Hollingbery
 memberships:
 - id: con
   name: Conservative Party

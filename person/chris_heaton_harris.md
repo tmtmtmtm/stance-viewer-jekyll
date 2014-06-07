@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_heaton_harris
-name: Chris Heaton-Harris
+title: Chris Heaton-Harris
 memberships:
 - id: con
   name: Conservative Party

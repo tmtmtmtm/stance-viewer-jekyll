@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anthony_steen
-name: Anthony Steen
+title: Anthony Steen
 memberships:
 - id: con
   name: Conservative Party

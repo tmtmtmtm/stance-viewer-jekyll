@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_russell
-name: Bob Russell
+title: Bob Russell
 memberships:
 - id: ldem
   name: Liberal Democrats

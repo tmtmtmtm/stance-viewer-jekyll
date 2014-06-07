@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_jones
-name: David Jones
+title: David Jones
 memberships:
 - id: con
   name: Conservative Party

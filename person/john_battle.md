@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_battle
-name: John Battle
+title: John Battle
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: linda_gilroy
-name: Linda Gilroy
+title: Linda Gilroy
 memberships:
 - id: lab
   name: Labour Party

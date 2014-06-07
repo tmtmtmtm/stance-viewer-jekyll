@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_doughty
-name: Stephen Doughty
+title: Stephen Doughty
 memberships:
 - id: lab
   name: Labour Party

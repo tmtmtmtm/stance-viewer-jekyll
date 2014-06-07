@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: steve_brine
-name: Steve Brine
+title: Steve Brine
 memberships:
 - id: con
   name: Conservative Party

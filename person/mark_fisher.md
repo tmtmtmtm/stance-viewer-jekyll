@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_fisher
-name: Mark Fisher
+title: Mark Fisher
 memberships:
 - id: lab
   name: Labour Party

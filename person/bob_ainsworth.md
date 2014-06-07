@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_ainsworth
-name: Bob Ainsworth
+title: Bob Ainsworth
 memberships:
 - id: lab
   name: Labour Party

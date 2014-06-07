@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_simmonds
-name: Mark Simmonds
+title: Mark Simmonds
 memberships:
 - id: con
   name: Conservative Party

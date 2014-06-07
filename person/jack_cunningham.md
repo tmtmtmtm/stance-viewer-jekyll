@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jack_cunningham
-name: Jack Cunningham
+title: Jack Cunningham
 memberships:
 - id: lab
   name: Labour Party

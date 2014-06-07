@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_clarke
-name: Eric Clarke
+title: Eric Clarke
 memberships:
 - id: lab
   name: Labour Party

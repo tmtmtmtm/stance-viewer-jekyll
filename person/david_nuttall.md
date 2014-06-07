@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_nuttall
-name: David Nuttall
+title: David Nuttall
 memberships:
 - id: con
   name: Conservative Party

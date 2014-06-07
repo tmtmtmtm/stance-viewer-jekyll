@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_hutton
-name: John Hutton
+title: John Hutton
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jesse_norman
-name: Jesse Norman
+title: Jesse Norman
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: neil_carmichael
-name: Neil Carmichael
+title: Neil Carmichael
 memberships:
 - id: con
   name: Conservative Party

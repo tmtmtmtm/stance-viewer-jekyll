@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: colin_burgon
-name: Colin Burgon
+title: Colin Burgon
 memberships:
 - id: lab
   name: Labour Party

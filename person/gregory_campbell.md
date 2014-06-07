@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gregory_campbell
-name: Gregory Campbell
+title: Gregory Campbell
 memberships:
 - id: dup
   name: DUP

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dan_byles
-name: Dan Byles
+title: Dan Byles
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_colman
-name: Tony Colman
+title: Tony Colman
 memberships:
 - id: lab
   name: Labour Party

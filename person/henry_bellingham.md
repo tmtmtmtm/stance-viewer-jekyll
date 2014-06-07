@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: henry_bellingham
-name: Henry Bellingham
+title: Henry Bellingham
 memberships:
 - id: con
   name: Conservative Party

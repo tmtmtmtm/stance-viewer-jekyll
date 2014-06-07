@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicky_morgan
-name: Nicky Morgan
+title: Nicky Morgan
 memberships:
 - id: con
   name: Conservative Party

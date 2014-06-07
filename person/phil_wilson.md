@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phil_wilson
-name: Phil Wilson
+title: Phil Wilson
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_maclennan
-name: Robert Maclennan
+title: Robert Maclennan
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tracey_crouch
-name: Tracey Crouch
+title: Tracey Crouch
 memberships:
 - id: con
   name: Conservative Party

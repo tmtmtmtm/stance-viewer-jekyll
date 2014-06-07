@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_wilkinson
-name: John Wilkinson
+title: John Wilkinson
 memberships:
 - id: con
   name: Conservative Party

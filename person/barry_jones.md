@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: barry_jones
-name: Barry Jones
+title: Barry Jones
 memberships:
 - id: lab
   name: Labour Party

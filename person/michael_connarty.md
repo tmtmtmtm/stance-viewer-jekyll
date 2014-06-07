@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_connarty
-name: Michael Connarty
+title: Michael Connarty
 memberships:
 - id: lab
   name: Labour Party

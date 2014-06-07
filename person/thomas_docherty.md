@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: thomas_docherty
-name: Thomas Docherty
+title: Thomas Docherty
 memberships:
 - id: lab
   name: Labour Party

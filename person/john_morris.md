@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_morris
-name: John Morris
+title: John Morris
 memberships:
 - id: lab
   name: Labour Party

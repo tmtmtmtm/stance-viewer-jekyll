@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rosemary_mckenna
-name: Rosemary McKenna
+title: Rosemary McKenna
 memberships:
 - id: lab
   name: Labour Party

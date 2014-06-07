@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geoffrey_robinson
-name: Geoffrey Robinson
+title: Geoffrey Robinson
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_linton
-name: Martin Linton
+title: Martin Linton
 memberships:
 - id: lab
   name: Labour Party

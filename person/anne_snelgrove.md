@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_snelgrove
-name: Anne Snelgrove
+title: Anne Snelgrove
 memberships:
 - id: lab
   name: Labour Party

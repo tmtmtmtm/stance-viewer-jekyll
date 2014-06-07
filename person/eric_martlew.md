@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eric_martlew
-name: Eric Martlew
+title: Eric Martlew
 memberships:
 - id: lab
   name: Labour Party

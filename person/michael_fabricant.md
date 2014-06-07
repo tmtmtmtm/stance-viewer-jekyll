@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_fabricant
-name: Michael Fabricant
+title: Michael Fabricant
 memberships:
 - id: con
   name: Conservative Party

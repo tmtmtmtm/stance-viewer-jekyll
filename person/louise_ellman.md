@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: louise_ellman
-name: Louise Ellman
+title: Louise Ellman
 memberships:
 - id: lab
   name: Labour Party

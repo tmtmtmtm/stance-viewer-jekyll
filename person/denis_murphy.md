@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: denis_murphy
-name: Denis Murphy
+title: Denis Murphy
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: karen_lumley
-name: Karen Lumley
+title: Karen Lumley
 memberships:
 - id: con
   name: Conservative Party

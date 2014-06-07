@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: justin_tomlinson
-name: Justin Tomlinson
+title: Justin Tomlinson
 memberships:
 - id: con
   name: Conservative Party

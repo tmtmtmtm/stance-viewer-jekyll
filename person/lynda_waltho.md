@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lynda_waltho
-name: Lynda Waltho
+title: Lynda Waltho
 memberships:
 - id: lab
   name: Labour Party

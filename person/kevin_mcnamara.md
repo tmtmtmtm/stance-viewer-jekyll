@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kevin_mcnamara
-name: Kevin McNamara
+title: Kevin McNamara
 memberships:
 - id: lab
   name: Labour Party

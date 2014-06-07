@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: matthew_taylor
-name: Matthew Taylor
+title: Matthew Taylor
 memberships:
 - id: ldem
   name: Liberal Democrats

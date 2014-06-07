@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: william_ross
-name: William Ross
+title: William Ross
 memberships:
 - id: uup
   name: UUP

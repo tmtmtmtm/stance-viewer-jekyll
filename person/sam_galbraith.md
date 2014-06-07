@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sam_galbraith
-name: Sam Galbraith
+title: Sam Galbraith
 memberships:
 - id: lab
   name: Labour Party

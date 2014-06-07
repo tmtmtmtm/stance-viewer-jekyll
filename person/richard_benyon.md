@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_benyon
-name: Richard Benyon
+title: Richard Benyon
 memberships:
 - id: con
   name: Conservative Party

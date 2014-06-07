@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joe_ashton
-name: Joe Ashton
+title: Joe Ashton
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_h_donohoe
-name: Brian H Donohoe
+title: Brian H Donohoe
 memberships:
 - id: lab
   name: Labour Party

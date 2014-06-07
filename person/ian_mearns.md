@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_mearns
-name: Ian Mearns
+title: Ian Mearns
 memberships:
 - id: lab
   name: Labour Party

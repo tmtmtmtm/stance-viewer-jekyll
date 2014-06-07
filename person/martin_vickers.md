@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_vickers
-name: Martin Vickers
+title: Martin Vickers
 memberships:
 - id: con
   name: Conservative Party

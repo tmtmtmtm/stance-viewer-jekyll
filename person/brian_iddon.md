@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_iddon
-name: Brian Iddon
+title: Brian Iddon
 memberships:
 - id: lab
   name: Labour Party

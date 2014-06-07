@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ieuan_wyn_jones
-name: Ieuan Wyn Jones
+title: Ieuan Wyn Jones
 memberships:
 - id: pc
   name: Plaid Cymru

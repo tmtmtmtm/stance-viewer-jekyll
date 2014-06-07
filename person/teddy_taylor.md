@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: teddy_taylor
-name: Teddy Taylor
+title: Teddy Taylor
 memberships:
 - id: con
   name: Conservative Party

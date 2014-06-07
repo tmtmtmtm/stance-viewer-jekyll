@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_olner
-name: Bill Olner
+title: Bill Olner
 memberships:
 - id: lab
   name: Labour Party

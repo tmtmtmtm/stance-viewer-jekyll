@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: penny_mordaunt
-name: Penny Mordaunt
+title: Penny Mordaunt
 memberships:
 - id: con
   name: Conservative Party

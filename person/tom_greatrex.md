@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_greatrex
-name: Tom Greatrex
+title: Tom Greatrex
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_love
-name: Andrew Love
+title: Andrew Love
 memberships:
 - id: lab
   name: Labour Party

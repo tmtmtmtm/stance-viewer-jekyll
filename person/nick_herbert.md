@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_herbert
-name: Nick Herbert
+title: Nick Herbert
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_daisley
-name: Paul Daisley
+title: Paul Daisley
 memberships:
 - id: lab
   name: Labour Party

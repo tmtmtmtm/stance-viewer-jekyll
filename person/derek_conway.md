@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: derek_conway
-name: Derek Conway
+title: Derek Conway
 memberships:
 - id: ind
   name: Independent

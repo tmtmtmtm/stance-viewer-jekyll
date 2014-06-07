@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_turner
-name: George Turner
+title: George Turner
 memberships:
 - id: lab
   name: Labour Party

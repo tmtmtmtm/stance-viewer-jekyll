@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_brokenshire
-name: James Brokenshire
+title: James Brokenshire
 memberships:
 - id: con
   name: Conservative Party

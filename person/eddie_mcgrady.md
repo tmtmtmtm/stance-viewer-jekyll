@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: eddie_mcgrady
-name: Eddie McGrady
+title: Eddie McGrady
 memberships:
 - id: sdlp
   name: SDLP

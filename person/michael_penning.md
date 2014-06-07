@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_penning
-name: Michael Penning
+title: Michael Penning
 memberships:
 - id: con
   name: Conservative Party

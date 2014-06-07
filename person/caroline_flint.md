@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: caroline_flint
-name: Caroline Flint
+title: Caroline Flint
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_cox
-name: Tom Cox
+title: Tom Cox
 memberships:
 - id: lab
   name: Labour Party

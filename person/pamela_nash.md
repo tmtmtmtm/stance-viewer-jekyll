@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: pamela_nash
-name: Pamela Nash
+title: Pamela Nash
 memberships:
 - id: lab
   name: Labour Party

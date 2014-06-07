@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: melanie_johnson
-name: Melanie Johnson
+title: Melanie Johnson
 memberships:
 - id: lab
   name: Labour Party

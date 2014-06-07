@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_barrett
-name: John Barrett
+title: John Barrett
 memberships:
 - id: ldem
   name: Liberal Democrats

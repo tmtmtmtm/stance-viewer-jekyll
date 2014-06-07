@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_pawsey
-name: Mark Pawsey
+title: Mark Pawsey
 memberships:
 - id: con
   name: Conservative Party

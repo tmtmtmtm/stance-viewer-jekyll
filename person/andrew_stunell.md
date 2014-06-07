@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_stunell
-name: Andrew Stunell
+title: Andrew Stunell
 memberships:
 - id: ldem
   name: Liberal Democrats

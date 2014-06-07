@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_clark
-name: David Clark
+title: David Clark
 memberships:
 - id: lab
   name: Labour Party

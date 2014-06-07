@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charles_walker
-name: Charles Walker
+title: Charles Walker
 memberships:
 - id: con
   name: Conservative Party

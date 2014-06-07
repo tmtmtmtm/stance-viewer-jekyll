@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_lepper
-name: David Lepper
+title: David Lepper
 memberships:
 - id: lab
   name: Labour Party

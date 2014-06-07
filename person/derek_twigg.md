@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: derek_twigg
-name: Derek Twigg
+title: Derek Twigg
 memberships:
 - id: lab
   name: Labour Party

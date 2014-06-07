@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_ainger
-name: Nick Ainger
+title: Nick Ainger
 memberships:
 - id: lab
   name: Labour Party

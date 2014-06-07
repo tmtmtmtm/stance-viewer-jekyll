@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sian_james
-name: Siân James
+title: Siân James
 memberships:
 - id: lab
   name: Labour Party

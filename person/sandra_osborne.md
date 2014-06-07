@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sandra_osborne
-name: Sandra Osborne
+title: Sandra Osborne
 memberships:
 - id: lab
   name: Labour Party

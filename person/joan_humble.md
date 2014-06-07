@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: joan_humble
-name: Joan Humble
+title: Joan Humble
 memberships:
 - id: lab
   name: Labour Party

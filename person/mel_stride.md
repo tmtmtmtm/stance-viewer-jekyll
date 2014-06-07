@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mel_stride
-name: Mel Stride
+title: Mel Stride
 memberships:
 - id: con
   name: Conservative Party

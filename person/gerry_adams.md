@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gerry_adams
-name: Gerry Adams
+title: Gerry Adams
 memberships:
 - id: sf
   name: Sinn Féin

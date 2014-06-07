@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_trend
-name: Michael Trend
+title: Michael Trend
 memberships:
 - id: con
   name: Conservative Party

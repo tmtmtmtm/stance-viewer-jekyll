@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: frank_roy
-name: Frank Roy
+title: Frank Roy
 memberships:
 - id: lab
   name: Labour Party

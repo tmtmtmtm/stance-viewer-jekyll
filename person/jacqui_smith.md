@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jacqui_smith
-name: Jacqui Smith
+title: Jacqui Smith
 memberships:
 - id: lab
   name: Labour Party

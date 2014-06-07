@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: francis_maude
-name: Francis Maude
+title: Francis Maude
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_stevenson
-name: George Stevenson
+title: George Stevenson
 memberships:
 - id: lab
   name: Labour Party

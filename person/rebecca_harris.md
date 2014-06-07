@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rebecca_harris
-name: Rebecca Harris
+title: Rebecca Harris
 memberships:
 - id: con
   name: Conservative Party

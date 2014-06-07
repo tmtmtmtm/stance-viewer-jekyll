@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_benn
-name: Tony Benn
+title: Tony Benn
 memberships:
 - id: lab
   name: Labour Party

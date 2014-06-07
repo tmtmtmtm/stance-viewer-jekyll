@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charlotte_leslie
-name: Charlotte Leslie
+title: Charlotte Leslie
 memberships:
 - id: con
   name: Conservative Party

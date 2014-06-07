@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: pat_doherty
-name: Pat Doherty
+title: Pat Doherty
 memberships:
 - id: sf
   name: Sinn Féin

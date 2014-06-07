@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: virginia_bottomley
-name: Virginia Bottomley
+title: Virginia Bottomley
 memberships:
 - id: con
   name: Conservative Party

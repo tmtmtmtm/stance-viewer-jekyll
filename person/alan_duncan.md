@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_duncan
-name: Alan Duncan
+title: Alan Duncan
 memberships:
 - id: con
   name: Conservative Party

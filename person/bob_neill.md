@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_neill
-name: Bob Neill
+title: Bob Neill
 memberships:
 - id: con
   name: Conservative Party

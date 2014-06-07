@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hywel_francis
-name: Hywel Francis
+title: Hywel Francis
 memberships:
 - id: lab
   name: Labour Party

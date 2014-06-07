@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: crispin_blunt
-name: Crispin Blunt
+title: Crispin Blunt
 memberships:
 - id: con
   name: Conservative Party

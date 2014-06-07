@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_lammy
-name: David Lammy
+title: David Lammy
 memberships:
 - id: lab
   name: Labour Party

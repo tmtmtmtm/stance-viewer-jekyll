@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phil_willis
-name: Phil Willis
+title: Phil Willis
 memberships:
 - id: ldem
   name: Liberal Democrats

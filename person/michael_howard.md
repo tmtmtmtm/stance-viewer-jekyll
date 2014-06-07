@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_howard
-name: Michael Howard
+title: Michael Howard
 memberships:
 - id: con
   name: Conservative Party

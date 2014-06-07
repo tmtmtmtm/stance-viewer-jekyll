@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_stephenson
-name: Andrew Stephenson
+title: Andrew Stephenson
 memberships:
 - id: con
   name: Conservative Party

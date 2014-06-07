@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rosie_winterton
-name: Rosie Winterton
+title: Rosie Winterton
 memberships:
 - id: lab
   name: Labour Party

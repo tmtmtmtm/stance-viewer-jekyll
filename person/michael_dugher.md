@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_dugher
-name: Michael Dugher
+title: Michael Dugher
 memberships:
 - id: lab
   name: Labour Party

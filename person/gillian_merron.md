@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gillian_merron
-name: Gillian Merron
+title: Gillian Merron
 memberships:
 - id: lab
   name: Labour Party

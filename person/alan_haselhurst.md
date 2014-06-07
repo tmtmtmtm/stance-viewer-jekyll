@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_haselhurst
-name: Alan Haselhurst
+title: Alan Haselhurst
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sion_simon
-name: Siôn Simon
+title: Siôn Simon
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: huw_irranca_davies
-name: Huw Irranca-Davies
+title: Huw Irranca-Davies
 memberships:
 - id: lab
   name: Labour Party

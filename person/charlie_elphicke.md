@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: charlie_elphicke
-name: Charlie Elphicke
+title: Charlie Elphicke
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_swales
-name: Ian Swales
+title: Ian Swales
 memberships:
 - id: ldem
   name: Liberal Democrats

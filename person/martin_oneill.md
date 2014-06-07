@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_oneill
-name: Martin O'Neill
+title: Martin O'Neill
 memberships:
 - id: lab
   name: Labour Party

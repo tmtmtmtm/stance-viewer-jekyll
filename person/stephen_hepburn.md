@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_hepburn
-name: Stephen Hepburn
+title: Stephen Hepburn
 memberships:
 - id: lab
   name: Labour Party

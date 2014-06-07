@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dan_rogerson
-name: Dan Rogerson
+title: Dan Rogerson
 memberships:
 - id: ldem
   name: Liberal Democrats

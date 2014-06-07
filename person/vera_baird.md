@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: vera_baird
-name: Vera Baird
+title: Vera Baird
 memberships:
 - id: lab
   name: Labour Party

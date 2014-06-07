@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_hunter
-name: Andrew Hunter
+title: Andrew Hunter
 memberships:
 - id: con
   name: Conservative Party

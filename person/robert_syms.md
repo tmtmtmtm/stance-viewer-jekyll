@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_syms
-name: Robert Syms
+title: Robert Syms
 memberships:
 - id: con
   name: Conservative Party

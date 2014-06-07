@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_mcnulty
-name: Tony McNulty
+title: Tony McNulty
 memberships:
 - id: lab
   name: Labour Party

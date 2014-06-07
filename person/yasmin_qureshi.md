@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: yasmin_qureshi
-name: Yasmin Qureshi
+title: Yasmin Qureshi
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lawrence_cunliffe
-name: Lawrence Cunliffe
+title: Lawrence Cunliffe
 memberships:
 - id: lab
   name: Labour Party

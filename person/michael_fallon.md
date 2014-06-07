@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_fallon
-name: Michael Fallon
+title: Michael Fallon
 memberships:
 - id: con
   name: Conservative Party

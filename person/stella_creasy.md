@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stella_creasy
-name: Stella Creasy
+title: Stella Creasy
 memberships:
 - id: lab
   name: Labour Party

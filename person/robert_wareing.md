@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_wareing
-name: Robert Wareing
+title: Robert Wareing
 memberships:
 - id: ind
   name: Independent

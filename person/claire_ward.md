@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: claire_ward
-name: Claire Ward
+title: Claire Ward
 memberships:
 - id: lab
   name: Labour Party

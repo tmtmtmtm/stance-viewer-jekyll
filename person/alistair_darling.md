@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alistair_darling
-name: Alistair Darling
+title: Alistair Darling
 memberships:
 - id: lab
   name: Labour Party

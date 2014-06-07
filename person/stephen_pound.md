@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_pound
-name: Stephen Pound
+title: Stephen Pound
 memberships:
 - id: lab
   name: Labour Party

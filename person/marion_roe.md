@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: marion_roe
-name: Marion Roe
+title: Marion Roe
 memberships:
 - id: con
   name: Conservative Party

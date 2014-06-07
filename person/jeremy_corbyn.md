@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeremy_corbyn
-name: Jeremy Corbyn
+title: Jeremy Corbyn
 memberships:
 - id: lab
   name: Labour Party

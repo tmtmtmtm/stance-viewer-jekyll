@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_murphy
-name: Paul Murphy
+title: Paul Murphy
 memberships:
 - id: lab
   name: Labour Party

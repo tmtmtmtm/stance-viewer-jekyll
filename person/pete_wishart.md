@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: pete_wishart
-name: Pete Wishart
+title: Pete Wishart
 memberships:
 - id: snp
   name: SNP

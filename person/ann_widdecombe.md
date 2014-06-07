@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_widdecombe
-name: Ann Widdecombe
+title: Ann Widdecombe
 memberships:
 - id: con
   name: Conservative Party

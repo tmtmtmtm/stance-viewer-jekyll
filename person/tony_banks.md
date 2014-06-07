@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_banks
-name: Tony Banks
+title: Tony Banks
 memberships:
 - id: lab
   name: Labour Party

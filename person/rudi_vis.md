@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rudi_vis
-name: Rudi Vis
+title: Rudi Vis
 memberships:
 - id: lab
   name: Labour Party

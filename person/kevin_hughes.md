@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kevin_hughes
-name: Kevin Hughes
+title: Kevin Hughes
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_maskey
-name: Paul Maskey
+title: Paul Maskey
 memberships:
 - id: sf
   name: Sinn Féin

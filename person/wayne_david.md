@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: wayne_david
-name: Wayne David
+title: Wayne David
 memberships:
 - id: lab
   name: Labour Party

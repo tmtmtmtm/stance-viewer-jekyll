@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gwyneth_dunwoody
-name: Gwyneth Dunwoody
+title: Gwyneth Dunwoody
 memberships:
 - id: lab
   name: Labour Party

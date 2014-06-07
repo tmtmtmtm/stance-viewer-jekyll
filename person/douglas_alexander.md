@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: douglas_alexander
-name: Douglas Alexander
+title: Douglas Alexander
 memberships:
 - id: lab
   name: Labour Party

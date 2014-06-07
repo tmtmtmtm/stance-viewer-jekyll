@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: grant_shapps
-name: Grant Shapps
+title: Grant Shapps
 memberships:
 - id: con
   name: Conservative Party

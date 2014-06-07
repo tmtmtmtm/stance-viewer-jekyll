@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_blunkett
-name: David Blunkett
+title: David Blunkett
 memberships:
 - id: lab
   name: Labour Party

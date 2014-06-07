@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andy_slaughter
-name: Andy Slaughter
+title: Andy Slaughter
 memberships:
 - id: lab
   name: Labour Party

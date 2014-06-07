@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_r_shaw
-name: Jonathan R Shaw
+title: Jonathan R Shaw
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: william_bain
-name: William Bain
+title: William Bain
 memberships:
 - id: lab
   name: Labour Party

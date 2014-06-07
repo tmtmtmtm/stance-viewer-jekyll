@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: daniel_kawczynski
-name: Daniel Kawczynski
+title: Daniel Kawczynski
 memberships:
 - id: con
   name: Conservative Party

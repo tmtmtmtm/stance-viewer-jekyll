@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graeme_morrice
-name: Graeme Morrice
+title: Graeme Morrice
 memberships:
 - id: lab
   name: Labour Party

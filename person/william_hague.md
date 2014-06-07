@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: william_hague
-name: William Hague
+title: William Hague
 memberships:
 - id: con
   name: Conservative Party

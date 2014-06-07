@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phil_hope
-name: Phil Hope
+title: Phil Hope
 memberships:
 - id: lab
   name: Labour Party

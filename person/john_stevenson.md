@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_stevenson
-name: John Stevenson
+title: John Stevenson
 memberships:
 - id: con
   name: Conservative Party

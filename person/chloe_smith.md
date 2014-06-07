@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chloe_smith
-name: Chloe Smith
+title: Chloe Smith
 memberships:
 - id: con
   name: Conservative Party

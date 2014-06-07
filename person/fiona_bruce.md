@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: fiona_bruce
-name: Fiona Bruce
+title: Fiona Bruce
 memberships:
 - id: con
   name: Conservative Party

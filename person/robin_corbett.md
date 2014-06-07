@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robin_corbett
-name: Robin Corbett
+title: Robin Corbett
 memberships:
 - id: lab
   name: Labour Party

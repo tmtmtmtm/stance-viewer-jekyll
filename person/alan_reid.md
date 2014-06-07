@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_reid
-name: Alan Reid
+title: Alan Reid
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_evennett
-name: David Evennett
+title: David Evennett
 memberships:
 - id: con
   name: Conservative Party

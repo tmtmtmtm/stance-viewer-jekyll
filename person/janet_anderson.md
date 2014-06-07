@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: janet_anderson
-name: Janet Anderson
+title: Janet Anderson
 memberships:
 - id: lab
   name: Labour Party

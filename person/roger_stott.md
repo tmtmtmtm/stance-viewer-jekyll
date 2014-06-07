@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roger_stott
-name: Roger Stott
+title: Roger Stott
 memberships:
 - id: lab
   name: Labour Party

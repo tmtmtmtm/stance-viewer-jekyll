@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicholas_clegg
-name: Nicholas Clegg
+title: Nicholas Clegg
 memberships:
 - id: ldem
   name: Liberal Democrats

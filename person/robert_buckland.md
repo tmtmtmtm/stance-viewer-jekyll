@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_buckland
-name: Robert Buckland
+title: Robert Buckland
 memberships:
 - id: con
   name: Conservative Party

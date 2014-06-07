@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_laws
-name: David Laws
+title: David Laws
 memberships:
 - id: ldem
   name: Liberal Democrats

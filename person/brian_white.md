@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_white
-name: Brian White
+title: Brian White
 memberships:
 - id: lab
   name: Labour Party

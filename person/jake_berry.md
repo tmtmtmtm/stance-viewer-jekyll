@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jake_berry
-name: Jake Berry
+title: Jake Berry
 memberships:
 - id: con
   name: Conservative Party

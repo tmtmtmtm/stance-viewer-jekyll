@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_evans
-name: Chris Evans
+title: Chris Evans
 memberships:
 - id: lab
   name: Labour Party

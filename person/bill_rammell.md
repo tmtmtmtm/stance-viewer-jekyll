@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_rammell
-name: Bill Rammell
+title: Bill Rammell
 memberships:
 - id: lab
   name: Labour Party

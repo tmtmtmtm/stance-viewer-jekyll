@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_thomas
-name: Simon Thomas
+title: Simon Thomas
 memberships:
 - id: pc
   name: Plaid Cymru

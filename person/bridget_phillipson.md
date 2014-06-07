@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bridget_phillipson
-name: Bridget Phillipson
+title: Bridget Phillipson
 memberships:
 - id: lab
   name: Labour Party

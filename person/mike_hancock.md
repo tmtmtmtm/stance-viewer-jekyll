@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_hancock
-name: Mike Hancock
+title: Mike Hancock
 memberships:
 - id: ldem
   name: Liberal Democrats

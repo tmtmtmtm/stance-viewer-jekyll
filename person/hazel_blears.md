@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hazel_blears
-name: Hazel Blears
+title: Hazel Blears
 memberships:
 - id: lab
   name: Labour Party

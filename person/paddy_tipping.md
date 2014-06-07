@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paddy_tipping
-name: Paddy Tipping
+title: Paddy Tipping
 memberships:
 - id: lab
   name: Labour Party

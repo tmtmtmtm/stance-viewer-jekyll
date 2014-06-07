@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_cunningham
-name: Tony Cunningham
+title: Tony Cunningham
 memberships:
 - id: lab
   name: Labour Party

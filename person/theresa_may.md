@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: theresa_may
-name: Theresa May
+title: Theresa May
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geraint_davies
-name: Geraint Davies
+title: Geraint Davies
 memberships:
 - id: lab
   name: Labour Party

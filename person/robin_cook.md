@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robin_cook
-name: Robin Cook
+title: Robin Cook
 memberships:
 - id: lab
   name: Labour Party

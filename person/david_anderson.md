@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_anderson
-name: David Anderson
+title: David Anderson
 memberships:
 - id: lab
   name: Labour Party

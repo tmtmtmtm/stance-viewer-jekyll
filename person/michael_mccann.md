@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_mccann
-name: Michael McCann
+title: Michael McCann
 memberships:
 - id: lab
   name: Labour Party

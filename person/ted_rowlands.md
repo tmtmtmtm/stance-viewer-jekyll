@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ted_rowlands
-name: Ted Rowlands
+title: Ted Rowlands
 memberships:
 - id: lab
   name: Labour Party

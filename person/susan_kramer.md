@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: susan_kramer
-name: Susan Kramer
+title: Susan Kramer
 memberships:
 - id: ldem
   name: Liberal Democrats

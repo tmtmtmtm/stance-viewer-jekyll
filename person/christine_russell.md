@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christine_russell
-name: Christine Russell
+title: Christine Russell
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: valerie_vaz
-name: Valerie Vaz
+title: Valerie Vaz
 memberships:
 - id: lab
   name: Labour Party

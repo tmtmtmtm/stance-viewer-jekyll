@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: colin_challen
-name: Colin Challen
+title: Colin Challen
 memberships:
 - id: lab
   name: Labour Party

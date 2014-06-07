@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_hain
-name: Peter Hain
+title: Peter Hain
 memberships:
 - id: lab
   name: Labour Party

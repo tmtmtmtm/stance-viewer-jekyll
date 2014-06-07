@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_truswell
-name: Paul Truswell
+title: Paul Truswell
 memberships:
 - id: lab
   name: Labour Party

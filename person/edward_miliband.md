@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_miliband
-name: Edward Miliband
+title: Edward Miliband
 memberships:
 - id: lab
   name: Labour Party

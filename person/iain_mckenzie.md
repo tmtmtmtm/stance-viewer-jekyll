@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: iain_mckenzie
-name: Iain McKenzie
+title: Iain McKenzie
 memberships:
 - id: lab
   name: Labour Party

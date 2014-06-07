@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: roseanna_cunningham
-name: Roseanna Cunningham
+title: Roseanna Cunningham
 memberships:
 - id: snp
   name: SNP

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_menzies
-name: Mark Menzies
+title: Mark Menzies
 memberships:
 - id: con
   name: Conservative Party

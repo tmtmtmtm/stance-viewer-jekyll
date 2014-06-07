@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lucy_powell
-name: Lucy Powell
+title: Lucy Powell
 memberships:
 - id: lab
   name: Labour Party

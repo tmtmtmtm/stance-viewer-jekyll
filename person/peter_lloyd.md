@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_lloyd
-name: Peter Lloyd
+title: Peter Lloyd
 memberships:
 - id: con
   name: Conservative Party

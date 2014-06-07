@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: owen_paterson
-name: Owen Paterson
+title: Owen Paterson
 memberships:
 - id: con
   name: Conservative Party

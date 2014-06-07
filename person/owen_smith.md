@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: owen_smith
-name: Owen Smith
+title: Owen Smith
 memberships:
 - id: lab
   name: Labour Party

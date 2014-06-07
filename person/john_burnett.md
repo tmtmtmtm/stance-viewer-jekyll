@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_burnett
-name: John Burnett
+title: John Burnett
 memberships:
 - id: ldem
   name: Liberal Democrats

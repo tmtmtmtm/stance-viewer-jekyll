@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bob_blizzard
-name: Bob Blizzard
+title: Bob Blizzard
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rachel_reeves
-name: Rachel Reeves
+title: Rachel Reeves
 memberships:
 - id: lab
   name: Labour Party

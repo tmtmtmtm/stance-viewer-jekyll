@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: vincent_cable
-name: Vincent Cable
+title: Vincent Cable
 memberships:
 - id: ldem
   name: Liberal Democrats

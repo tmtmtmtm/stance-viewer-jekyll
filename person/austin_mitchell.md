@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: austin_mitchell
-name: Austin Mitchell
+title: Austin Mitchell
 memberships:
 - id: lab
   name: Labour Party

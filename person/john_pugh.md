@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_pugh
-name: John Pugh
+title: John Pugh
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: diana_johnson
-name: Diana Johnson
+title: Diana Johnson
 memberships:
 - id: lab
   name: Labour Party

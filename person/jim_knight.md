@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_knight
-name: Jim Knight
+title: Jim Knight
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_byers
-name: Stephen Byers
+title: Stephen Byers
 memberships:
 - id: lab
   name: Labour Party

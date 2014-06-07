@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julie_morgan
-name: Julie Morgan
+title: Julie Morgan
 memberships:
 - id: lab
   name: Labour Party

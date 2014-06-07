@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: katy_clark
-name: Katy Clark
+title: Katy Clark
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: patricia_hewitt
-name: Patricia Hewitt
+title: Patricia Hewitt
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ann_coffey
-name: Ann Coffey
+title: Ann Coffey
 memberships:
 - id: lab
   name: Labour Party

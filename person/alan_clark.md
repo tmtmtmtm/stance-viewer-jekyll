@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_clark
-name: Alan Clark
+title: Alan Clark
 memberships:
 - id: con
   name: Conservative Party

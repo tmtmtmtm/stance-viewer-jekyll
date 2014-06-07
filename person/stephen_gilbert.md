@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_gilbert
-name: Stephen Gilbert
+title: Stephen Gilbert
 memberships:
 - id: ldem
   name: Liberal Democrats

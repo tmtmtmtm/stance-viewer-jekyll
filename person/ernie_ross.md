@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ernie_ross
-name: Ernie Ross
+title: Ernie Ross
 memberships:
 - id: lab
   name: Labour Party

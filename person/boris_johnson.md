@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: boris_johnson
-name: Boris Johnson
+title: Boris Johnson
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lindsay_hoyle
-name: Lindsay Hoyle
+title: Lindsay Hoyle
 memberships:
 - id: lab
   name: Labour Party

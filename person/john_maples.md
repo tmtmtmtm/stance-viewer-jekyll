@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_maples
-name: John Maples
+title: John Maples
 memberships:
 - id: con
   name: Conservative Party

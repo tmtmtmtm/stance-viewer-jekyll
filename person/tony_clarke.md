@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_clarke
-name: Tony Clarke
+title: Tony Clarke
 memberships:
 - id: lab
   name: Labour Party

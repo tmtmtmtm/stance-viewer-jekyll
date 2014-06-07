@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_morris
-name: David Morris
+title: David Morris
 memberships:
 - id: con
   name: Conservative Party

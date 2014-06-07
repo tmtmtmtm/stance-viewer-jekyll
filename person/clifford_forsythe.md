@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: clifford_forsythe
-name: Clifford Forsythe
+title: Clifford Forsythe
 memberships:
 - id: uup
   name: UUP

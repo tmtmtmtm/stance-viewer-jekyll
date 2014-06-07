@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: terry_lewis
-name: Terry Lewis
+title: Terry Lewis
 memberships:
 - id: lab
   name: Labour Party

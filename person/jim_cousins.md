@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_cousins
-name: Jim Cousins
+title: Jim Cousins
 memberships:
 - id: lab
   name: Labour Party

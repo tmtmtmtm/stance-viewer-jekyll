@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: claire_curtis_thomas
-name: Claire Curtis-Thomas
+title: Claire Curtis-Thomas
 memberships:
 - id: lab
   name: Labour Party

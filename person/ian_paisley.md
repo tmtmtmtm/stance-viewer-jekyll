@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_paisley
-name: Ian Paisley
+title: Ian Paisley
 memberships:
 - id: dup
   name: DUP

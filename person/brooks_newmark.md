@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brooks_newmark
-name: Brooks Newmark
+title: Brooks Newmark
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_wharton
-name: James Wharton
+title: James Wharton
 memberships:
 - id: con
   name: Conservative Party

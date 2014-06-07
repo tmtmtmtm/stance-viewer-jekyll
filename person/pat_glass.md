@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: pat_glass
-name: Pat Glass
+title: Pat Glass
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lilian_greenwood
-name: Lilian Greenwood
+title: Lilian Greenwood
 memberships:
 - id: lab
   name: Labour Party

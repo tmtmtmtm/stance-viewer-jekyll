@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: debbie_abrahams
-name: Debbie Abrahams
+title: Debbie Abrahams
 memberships:
 - id: lab
   name: Labour Party

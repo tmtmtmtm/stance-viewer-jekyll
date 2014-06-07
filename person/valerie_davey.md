@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: valerie_davey
-name: Valerie Davey
+title: Valerie Davey
 memberships:
 - id: lab
   name: Labour Party

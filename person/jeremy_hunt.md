@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeremy_hunt
-name: Jeremy Hunt
+title: Jeremy Hunt
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_reckless
-name: Mark Reckless
+title: Mark Reckless
 memberships:
 - id: con
   name: Conservative Party

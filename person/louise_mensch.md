@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: louise_mensch
-name: Louise Mensch
+title: Louise Mensch
 memberships:
 - id: con
   name: Conservative Party

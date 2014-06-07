@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adam_price
-name: Adam Price
+title: Adam Price
 memberships:
 - id: pc
   name: Plaid Cymru

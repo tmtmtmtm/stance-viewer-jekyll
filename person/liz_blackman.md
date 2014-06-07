@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: liz_blackman
-name: Liz Blackman
+title: Liz Blackman
 memberships:
 - id: lab
   name: Labour Party

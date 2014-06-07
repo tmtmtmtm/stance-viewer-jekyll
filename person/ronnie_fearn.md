@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ronnie_fearn
-name: Ronnie Fearn
+title: Ronnie Fearn
 memberships:
 - id: ldem
   name: Liberal Democrats

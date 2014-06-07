@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_milton
-name: Anne Milton
+title: Anne Milton
 memberships:
 - id: con
   name: Conservative Party

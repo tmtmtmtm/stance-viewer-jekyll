@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_duncan
-name: Peter Duncan
+title: Peter Duncan
 memberships:
 - id: con
   name: Conservative Party

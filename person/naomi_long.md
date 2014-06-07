@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: naomi_long
-name: Naomi Long
+title: Naomi Long
 memberships:
 - id: alliance
   name: Alliance

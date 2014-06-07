@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: harriet_harman
-name: Harriet Harman
+title: Harriet Harman
 memberships:
 - id: lab
   name: Labour Party

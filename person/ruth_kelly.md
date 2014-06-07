@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ruth_kelly
-name: Ruth Kelly
+title: Ruth Kelly
 memberships:
 - id: lab
   name: Labour Party

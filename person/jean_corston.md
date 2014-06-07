@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jean_corston
-name: Jean Corston
+title: Jean Corston
 memberships:
 - id: lab
   name: Labour Party

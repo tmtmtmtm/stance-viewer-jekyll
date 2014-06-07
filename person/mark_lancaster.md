@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_lancaster
-name: Mark Lancaster
+title: Mark Lancaster
 memberships:
 - id: con
   name: Conservative Party

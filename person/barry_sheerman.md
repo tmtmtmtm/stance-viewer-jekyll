@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: barry_sheerman
-name: Barry Sheerman
+title: Barry Sheerman
 memberships:
 - id: lab
   name: Labour Party

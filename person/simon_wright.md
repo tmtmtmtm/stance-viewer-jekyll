@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: simon_wright
-name: Simon Wright
+title: Simon Wright
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: christopher_huhne
-name: Christopher Huhne
+title: Christopher Huhne
 memberships:
 - id: ldem
   name: Liberal Democrats

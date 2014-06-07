@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: clive_betts
-name: Clive Betts
+title: Clive Betts
 memberships:
 - id: lab
   name: Labour Party

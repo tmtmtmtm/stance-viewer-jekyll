@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: margot_james
-name: Margot James
+title: Margot James
 memberships:
 - id: con
   name: Conservative Party

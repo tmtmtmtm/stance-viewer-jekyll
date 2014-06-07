@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_todd
-name: Mark Todd
+title: Mark Todd
 memberships:
 - id: lab
   name: Labour Party

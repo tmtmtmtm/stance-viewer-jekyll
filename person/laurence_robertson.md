@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: laurence_robertson
-name: Laurence Robertson
+title: Laurence Robertson
 memberships:
 - id: con
   name: Conservative Party

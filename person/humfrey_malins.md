@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: humfrey_malins
-name: Humfrey Malins
+title: Humfrey Malins
 memberships:
 - id: con
   name: Conservative Party

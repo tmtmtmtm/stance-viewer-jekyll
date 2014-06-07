@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anas_sarwar
-name: Anas Sarwar
+title: Anas Sarwar
 memberships:
 - id: lab
   name: Labour Party

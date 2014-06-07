@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tessa_munt
-name: Tessa Munt
+title: Tessa Munt
 memberships:
 - id: ldem
   name: Liberal Democrats

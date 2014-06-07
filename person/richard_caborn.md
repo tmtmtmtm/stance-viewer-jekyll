@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_caborn
-name: Richard Caborn
+title: Richard Caborn
 memberships:
 - id: lab
   name: Labour Party

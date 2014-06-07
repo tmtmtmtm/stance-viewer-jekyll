@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_howarth
-name: George Howarth
+title: George Howarth
 memberships:
 - id: lab
   name: Labour Party

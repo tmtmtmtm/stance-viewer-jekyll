@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sam_gyimah
-name: Sam Gyimah
+title: Sam Gyimah
 memberships:
 - id: con
   name: Conservative Party

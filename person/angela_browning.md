@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: angela_browning
-name: Angela Browning
+title: Angela Browning
 memberships:
 - id: con
   name: Conservative Party

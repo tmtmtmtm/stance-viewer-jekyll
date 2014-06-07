@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_levitt
-name: Tom Levitt
+title: Tom Levitt
 memberships:
 - id: lab
   name: Labour Party

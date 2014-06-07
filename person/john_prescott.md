@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_prescott
-name: John Prescott
+title: John Prescott
 memberships:
 - id: lab
   name: Labour Party

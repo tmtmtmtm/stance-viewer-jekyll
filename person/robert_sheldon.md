@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_sheldon
-name: Robert Sheldon
+title: Robert Sheldon
 memberships:
 - id: lab
   name: Labour Party

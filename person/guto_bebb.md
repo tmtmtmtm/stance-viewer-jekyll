@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: guto_bebb
-name: Guto Bebb
+title: Guto Bebb
 memberships:
 - id: con
   name: Conservative Party

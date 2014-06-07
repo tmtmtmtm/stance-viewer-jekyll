@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_gwynne
-name: Andrew Gwynne
+title: Andrew Gwynne
 memberships:
 - id: lab
   name: Labour Party

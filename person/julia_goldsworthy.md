@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julia_goldsworthy
-name: Julia Goldsworthy
+title: Julia Goldsworthy
 memberships:
 - id: ldem
   name: Liberal Democrats

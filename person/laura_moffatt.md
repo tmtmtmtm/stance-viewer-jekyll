@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: laura_moffatt
-name: Laura Moffatt
+title: Laura Moffatt
 memberships:
 - id: lab
   name: Labour Party

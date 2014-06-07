@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_lord
-name: Jonathan Lord
+title: Jonathan Lord
 memberships:
 - id: con
   name: Conservative Party

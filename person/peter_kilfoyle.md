@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_kilfoyle
-name: Peter Kilfoyle
+title: Peter Kilfoyle
 memberships:
 - id: lab
   name: Labour Party

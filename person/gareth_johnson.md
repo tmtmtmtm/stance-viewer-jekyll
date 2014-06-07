@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gareth_johnson
-name: Gareth Johnson
+title: Gareth Johnson
 memberships:
 - id: con
   name: Conservative Party

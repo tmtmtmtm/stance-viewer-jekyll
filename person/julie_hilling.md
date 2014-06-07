@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julie_hilling
-name: Julie Hilling
+title: Julie Hilling
 memberships:
 - id: lab
   name: Labour Party

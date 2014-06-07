@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lorna_fitzsimons
-name: Lorna Fitzsimons
+title: Lorna Fitzsimons
 memberships:
 - id: lab
   name: Labour Party

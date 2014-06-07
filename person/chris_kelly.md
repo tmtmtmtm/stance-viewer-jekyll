@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_kelly
-name: Chris Kelly
+title: Chris Kelly
 memberships:
 - id: con
   name: Conservative Party

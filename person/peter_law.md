@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_law
-name: Peter Law
+title: Peter Law
 memberships:
 - id: ind
   name: Independent

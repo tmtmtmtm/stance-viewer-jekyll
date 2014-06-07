@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: damian_green
-name: Damian Green
+title: Damian Green
 memberships:
 - id: con
   name: Conservative Party

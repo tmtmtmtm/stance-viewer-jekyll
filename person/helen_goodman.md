@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: helen_goodman
-name: Helen Goodman
+title: Helen Goodman
 memberships:
 - id: lab
   name: Labour Party

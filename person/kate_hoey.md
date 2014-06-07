@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kate_hoey
-name: Kate Hoey
+title: Kate Hoey
 memberships:
 - id: lab
   name: Labour Party

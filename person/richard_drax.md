@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_drax
-name: Richard Drax
+title: Richard Drax
 memberships:
 - id: con
   name: Conservative Party

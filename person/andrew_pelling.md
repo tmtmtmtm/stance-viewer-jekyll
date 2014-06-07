@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_pelling
-name: Andrew Pelling
+title: Andrew Pelling
 memberships:
 - id: ind
   name: Independent

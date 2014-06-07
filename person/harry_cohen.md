@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: harry_cohen
-name: Harry Cohen
+title: Harry Cohen
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_gibb
-name: Nick Gibb
+title: Nick Gibb
 memberships:
 - id: con
   name: Conservative Party

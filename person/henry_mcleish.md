@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: henry_mcleish
-name: Henry McLeish
+title: Henry McLeish
 memberships:
 - id: lab
   name: Labour Party

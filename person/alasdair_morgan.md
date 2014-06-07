@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alasdair_morgan
-name: Alasdair Morgan
+title: Alasdair Morgan
 memberships:
 - id: snp
   name: SNP

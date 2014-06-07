@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tristram_hunt
-name: Tristram Hunt
+title: Tristram Hunt
 memberships:
 - id: lab
   name: Labour Party

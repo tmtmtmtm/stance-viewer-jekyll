@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: philip_dunne
-name: Philip Dunne
+title: Philip Dunne
 memberships:
 - id: con
   name: Conservative Party

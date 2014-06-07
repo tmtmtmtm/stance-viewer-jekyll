@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: matthew_green
-name: Matthew Green
+title: Matthew Green
 memberships:
 - id: ldem
   name: Liberal Democrats

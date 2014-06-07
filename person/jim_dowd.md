@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_dowd
-name: Jim Dowd
+title: Jim Dowd
 memberships:
 - id: lab
   name: Labour Party

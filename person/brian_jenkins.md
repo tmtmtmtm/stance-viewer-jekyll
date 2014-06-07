@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brian_jenkins
-name: Brian Jenkins
+title: Brian Jenkins
 memberships:
 - id: lab
   name: Labour Party

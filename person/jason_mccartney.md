@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jason_mccartney
-name: Jason McCartney
+title: Jason McCartney
 memberships:
 - id: con
   name: Conservative Party

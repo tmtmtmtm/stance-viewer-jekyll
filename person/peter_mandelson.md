@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_mandelson
-name: Peter Mandelson
+title: Peter Mandelson
 memberships:
 - id: lab
   name: Labour Party

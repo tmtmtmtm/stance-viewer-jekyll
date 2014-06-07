@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_george
-name: Andrew George
+title: Andrew George
 memberships:
 - id: ldem
   name: Liberal Democrats

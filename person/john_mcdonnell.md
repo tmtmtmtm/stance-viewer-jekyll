@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_mcdonnell
-name: John McDonnell
+title: John McDonnell
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_woodcock
-name: John Woodcock
+title: John Woodcock
 memberships:
 - id: lab
   name: Labour Party

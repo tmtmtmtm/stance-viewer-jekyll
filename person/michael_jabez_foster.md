@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_jabez_foster
-name: Michael Jabez Foster
+title: Michael Jabez Foster
 memberships:
 - id: lab
   name: Labour Party

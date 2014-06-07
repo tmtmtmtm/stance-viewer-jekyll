@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julian_sturdy
-name: Julian Sturdy
+title: Julian Sturdy
 memberships:
 - id: con
   name: Conservative Party

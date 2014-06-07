@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_curry
-name: David Curry
+title: David Curry
 memberships:
 - id: con
   name: Conservative Party

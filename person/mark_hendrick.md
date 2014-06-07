@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_hendrick
-name: Mark Hendrick
+title: Mark Hendrick
 memberships:
 - id: lab
   name: Labour Party

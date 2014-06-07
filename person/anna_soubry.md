@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anna_soubry
-name: Anna Soubry
+title: Anna Soubry
 memberships:
 - id: con
   name: Conservative Party

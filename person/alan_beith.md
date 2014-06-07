@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_beith
-name: Alan Beith
+title: Alan Beith
 memberships:
 - id: ldem
   name: Liberal Democrats

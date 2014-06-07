@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_swinney
-name: John Swinney
+title: John Swinney
 memberships:
 - id: snp
   name: SNP

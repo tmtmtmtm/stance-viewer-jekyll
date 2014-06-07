@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kate_green
-name: Kate Green
+title: Kate Green
 memberships:
 - id: lab
   name: Labour Party

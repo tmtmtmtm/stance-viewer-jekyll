@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_day
-name: Stephen Day
+title: Stephen Day
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_greenway
-name: John Greenway
+title: John Greenway
 memberships:
 - id: con
   name: Conservative Party

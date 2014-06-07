@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_marie_morris
-name: Anne-Marie Morris
+title: Anne-Marie Morris
 memberships:
 - id: con
   name: Conservative Party

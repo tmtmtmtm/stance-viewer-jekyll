@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_begg
-name: Anne Begg
+title: Anne Begg
 memberships:
 - id: lab
   name: Labour Party

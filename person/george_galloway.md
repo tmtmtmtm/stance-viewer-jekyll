@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_galloway
-name: George Galloway
+title: George Galloway
 memberships:
 - id: res
   name: Respect Party

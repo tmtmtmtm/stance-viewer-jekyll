@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_gummer
-name: John Gummer
+title: John Gummer
 memberships:
 - id: con
   name: Conservative Party

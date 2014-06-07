@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mike_gapes
-name: Mike Gapes
+title: Mike Gapes
 memberships:
 - id: lab
   name: Labour Party

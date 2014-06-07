@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alison_mcgovern
-name: Alison McGovern
+title: Alison McGovern
 memberships:
 - id: lab
   name: Labour Party

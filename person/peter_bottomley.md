@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_bottomley
-name: Peter Bottomley
+title: Peter Bottomley
 memberships:
 - id: con
   name: Conservative Party

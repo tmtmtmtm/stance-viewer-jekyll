@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ray_michie
-name: Ray Michie
+title: Ray Michie
 memberships:
 - id: ldem
   name: Liberal Democrats

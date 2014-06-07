@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: irene_adams
-name: Irene Adams
+title: Irene Adams
 memberships:
 - id: lab
   name: Labour Party

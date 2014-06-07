@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: debra_shipley
-name: Debra Shipley
+title: Debra Shipley
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_mccafferty
-name: Chris McCafferty
+title: Chris McCafferty
 memberships:
 - id: lab
   name: Labour Party

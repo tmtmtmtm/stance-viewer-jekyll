@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_fuller
-name: Richard Fuller
+title: Richard Fuller
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_smith
-name: Nick Smith
+title: Nick Smith
 memberships:
 - id: lab
   name: Labour Party

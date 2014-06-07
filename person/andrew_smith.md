@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_smith
-name: Andrew Smith
+title: Andrew Smith
 memberships:
 - id: lab
   name: Labour Party

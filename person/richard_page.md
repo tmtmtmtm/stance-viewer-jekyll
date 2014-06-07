@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: richard_page
-name: Richard Page
+title: Richard Page
 memberships:
 - id: con
   name: Conservative Party

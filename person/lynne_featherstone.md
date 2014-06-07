@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lynne_featherstone
-name: Lynne Featherstone
+title: Lynne Featherstone
 memberships:
 - id: ldem
   name: Liberal Democrats

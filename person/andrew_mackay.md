@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_mackay
-name: Andrew MacKay
+title: Andrew MacKay
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sajid_javid
-name: Sajid Javid
+title: Sajid Javid
 memberships:
 - id: con
   name: Conservative Party

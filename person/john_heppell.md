@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_heppell
-name: John Heppell
+title: John Heppell
 memberships:
 - id: lab
   name: Labour Party

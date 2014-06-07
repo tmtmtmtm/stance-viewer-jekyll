@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hugo_swire
-name: Hugo Swire
+title: Hugo Swire
 memberships:
 - id: con
   name: Conservative Party

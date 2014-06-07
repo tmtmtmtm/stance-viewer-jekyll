@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gisela_stuart
-name: Gisela Stuart
+title: Gisela Stuart
 memberships:
 - id: lab
   name: Labour Party

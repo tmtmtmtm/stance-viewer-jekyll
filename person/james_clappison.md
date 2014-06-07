@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_clappison
-name: James Clappison
+title: James Clappison
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_mann
-name: John Mann
+title: John Mann
 memberships:
 - id: lab
   name: Labour Party

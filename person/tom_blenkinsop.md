@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_blenkinsop
-name: Tom Blenkinsop
+title: Tom Blenkinsop
 memberships:
 - id: lab
   name: Labour Party

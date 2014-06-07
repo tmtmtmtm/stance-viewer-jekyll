@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_beard
-name: Nigel Beard
+title: Nigel Beard
 memberships:
 - id: lab
   name: Labour Party

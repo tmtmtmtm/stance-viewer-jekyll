@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: martin_mcguinness
-name: Martin McGuinness
+title: Martin McGuinness
 memberships:
 - id: sf
   name: Sinn Féin

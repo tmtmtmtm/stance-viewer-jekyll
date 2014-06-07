@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: harry_barnes
-name: Harry Barnes
+title: Harry Barnes
 memberships:
 - id: lab
   name: Labour Party

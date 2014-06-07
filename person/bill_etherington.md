@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: bill_etherington
-name: Bill Etherington
+title: Bill Etherington
 memberships:
 - id: lab
   name: Labour Party

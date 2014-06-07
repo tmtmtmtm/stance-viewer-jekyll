@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_glen
-name: John Glen
+title: John Glen
 memberships:
 - id: con
   name: Conservative Party

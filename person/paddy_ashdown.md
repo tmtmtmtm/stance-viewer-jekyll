@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paddy_ashdown
-name: Paddy Ashdown
+title: Paddy Ashdown
 memberships:
 - id: ldem
   name: Liberal Democrats

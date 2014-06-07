@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: anne_picking
-name: Anne Picking
+title: Anne Picking
 memberships:
 - id: lab
   name: Labour Party

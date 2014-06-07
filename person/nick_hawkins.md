@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_hawkins
-name: Nick Hawkins
+title: Nick Hawkins
 memberships:
 - id: con
   name: Conservative Party

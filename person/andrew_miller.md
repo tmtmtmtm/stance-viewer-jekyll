@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_miller
-name: Andrew Miller
+title: Andrew Miller
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: frank_dobson
-name: Frank Dobson
+title: Frank Dobson
 memberships:
 - id: lab
   name: Labour Party

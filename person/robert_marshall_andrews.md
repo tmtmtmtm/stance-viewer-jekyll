@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_marshall_andrews
-name: Robert Marshall-Andrews
+title: Robert Marshall-Andrews
 memberships:
 - id: lab
   name: Labour Party

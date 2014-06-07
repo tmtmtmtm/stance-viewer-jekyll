@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hilary_benn
-name: Hilary Benn
+title: Hilary Benn
 memberships:
 - id: lab
   name: Labour Party

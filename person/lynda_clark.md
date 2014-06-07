@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lynda_clark
-name: Lynda Clark
+title: Lynda Clark
 memberships:
 - id: lab
   name: Labour Party

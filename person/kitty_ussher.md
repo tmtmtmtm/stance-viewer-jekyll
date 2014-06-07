@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kitty_ussher
-name: Kitty Ussher
+title: Kitty Ussher
 memberships:
 - id: lab
   name: Labour Party

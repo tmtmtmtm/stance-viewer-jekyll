@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sheila_gilmore
-name: Sheila Gilmore
+title: Sheila Gilmore
 memberships:
 - id: lab
   name: Labour Party

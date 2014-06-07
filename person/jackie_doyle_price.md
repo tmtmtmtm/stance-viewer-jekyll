@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jackie_doyle_price
-name: Jackie Doyle-Price
+title: Jackie Doyle-Price
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: annette_brooke
-name: Annette Brooke
+title: Annette Brooke
 memberships:
 - id: ldem
   name: Liberal Democrats

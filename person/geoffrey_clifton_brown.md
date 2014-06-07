@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: geoffrey_clifton_brown
-name: Geoffrey Clifton-Brown
+title: Geoffrey Clifton-Brown
 memberships:
 - id: con
   name: Conservative Party

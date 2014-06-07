@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: colin_breed
-name: Colin Breed
+title: Colin Breed
 memberships:
 - id: ldem
   name: Liberal Democrats

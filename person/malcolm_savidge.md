@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: malcolm_savidge
-name: Malcolm Savidge
+title: Malcolm Savidge
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: cecil_walker
-name: Cecil Walker
+title: Cecil Walker
 memberships:
 - id: uup
   name: UUP

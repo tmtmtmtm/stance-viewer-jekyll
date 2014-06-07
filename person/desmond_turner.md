@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: desmond_turner
-name: Desmond Turner
+title: Desmond Turner
 memberships:
 - id: lab
   name: Labour Party

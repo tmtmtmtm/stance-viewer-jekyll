@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_durkan
-name: Mark Durkan
+title: Mark Durkan
 memberships:
 - id: sdlp
   name: SDLP

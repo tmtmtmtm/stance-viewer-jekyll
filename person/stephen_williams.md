@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_williams
-name: Stephen Williams
+title: Stephen Williams
 memberships:
 - id: ldem
   name: Liberal Democrats

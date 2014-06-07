@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: justine_greening
-name: Justine Greening
+title: Justine Greening
 memberships:
 - id: con
   name: Conservative Party

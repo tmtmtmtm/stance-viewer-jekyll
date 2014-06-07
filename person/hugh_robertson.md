@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hugh_robertson
-name: Hugh Robertson
+title: Hugh Robertson
 memberships:
 - id: con
   name: Conservative Party

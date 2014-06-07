@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_bone
-name: Peter Bone
+title: Peter Bone
 memberships:
 - id: con
   name: Conservative Party

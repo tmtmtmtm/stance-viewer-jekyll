@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_duddridge
-name: James Duddridge
+title: James Duddridge
 memberships:
 - id: con
   name: Conservative Party

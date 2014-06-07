@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_madel
-name: David Madel
+title: David Madel
 memberships:
 - id: con
   name: Conservative Party

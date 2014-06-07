@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jessica_morden
-name: Jessica Morden
+title: Jessica Morden
 memberships:
 - id: lab
   name: Labour Party

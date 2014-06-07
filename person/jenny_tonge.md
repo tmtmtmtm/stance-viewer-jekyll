@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jenny_tonge
-name: Jenny Tonge
+title: Jenny Tonge
 memberships:
 - id: ldem
   name: Liberal Democrats

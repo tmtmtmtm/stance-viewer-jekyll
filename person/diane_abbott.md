@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: diane_abbott
-name: Diane Abbott
+title: Diane Abbott
 memberships:
 - id: lab
   name: Labour Party

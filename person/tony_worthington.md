@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_worthington
-name: Tony Worthington
+title: Tony Worthington
 memberships:
 - id: lab
   name: Labour Party

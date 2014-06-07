@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_horam
-name: John Horam
+title: John Horam
 memberships:
 - id: con
   name: Conservative Party

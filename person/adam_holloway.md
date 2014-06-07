@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adam_holloway
-name: Adam Holloway
+title: Adam Holloway
 memberships:
 - id: con
   name: Conservative Party

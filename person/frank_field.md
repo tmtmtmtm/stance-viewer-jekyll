@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: frank_field
-name: Frank Field
+title: Frank Field
 memberships:
 - id: lab
   name: Labour Party

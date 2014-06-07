@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ivan_henderson
-name: Ivan Henderson
+title: Ivan Henderson
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ron_davies
-name: Ron Davies
+title: Ron Davies
 memberships:
 - id: lab
   name: Labour Party

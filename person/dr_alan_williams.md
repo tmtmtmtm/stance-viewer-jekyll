@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dr_alan_williams
-name: Dr Alan Williams
+title: Dr Alan Williams
 memberships:
 - id: lab
   name: Labour Party

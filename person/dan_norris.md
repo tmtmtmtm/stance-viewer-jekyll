@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dan_norris
-name: Dan Norris
+title: Dan Norris
 memberships:
 - id: lab
   name: Labour Party

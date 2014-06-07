@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: lorraine_fullbrook
-name: Lorraine Fullbrook
+title: Lorraine Fullbrook
 memberships:
 - id: con
   name: Conservative Party

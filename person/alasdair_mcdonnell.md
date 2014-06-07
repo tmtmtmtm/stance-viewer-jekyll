@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alasdair_mcdonnell
-name: Alasdair McDonnell
+title: Alasdair McDonnell
 memberships:
 - id: sdlp
   name: SDLP

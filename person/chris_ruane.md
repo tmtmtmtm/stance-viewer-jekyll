@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_ruane
-name: Chris Ruane
+title: Chris Ruane
 memberships:
 - id: lab
   name: Labour Party

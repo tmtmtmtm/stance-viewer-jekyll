@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: rob_marris
-name: Rob Marris
+title: Rob Marris
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: denis_macshane
-name: Denis MacShane
+title: Denis MacShane
 memberships:
 - id: lab
   name: Labour Party

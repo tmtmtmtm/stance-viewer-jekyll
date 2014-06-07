@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_mccabe
-name: Stephen McCabe
+title: Stephen McCabe
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_smith
-name: Chris Smith
+title: Chris Smith
 memberships:
 - id: lab
   name: Labour Party

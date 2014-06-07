@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: piara_s_khabra
-name: Piara S Khabra
+title: Piara S Khabra
 memberships:
 - id: lab
   name: Labour Party

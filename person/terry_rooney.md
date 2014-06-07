@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: terry_rooney
-name: Terry Rooney
+title: Terry Rooney
 memberships:
 - id: lab
   name: Labour Party

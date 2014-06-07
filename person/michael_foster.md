@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_foster
-name: Michael Foster
+title: Michael Foster
 memberships:
 - id: lab
   name: Labour Party

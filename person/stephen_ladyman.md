@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_ladyman
-name: Stephen Ladyman
+title: Stephen Ladyman
 memberships:
 - id: lab
   name: Labour Party

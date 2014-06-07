@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: vernon_coaker
-name: Vernon Coaker
+title: Vernon Coaker
 memberships:
 - id: lab
   name: Labour Party

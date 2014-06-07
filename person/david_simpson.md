@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_simpson
-name: David Simpson
+title: David Simpson
 memberships:
 - id: dup
   name: DUP

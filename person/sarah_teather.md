@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sarah_teather
-name: Sarah Teather
+title: Sarah Teather
 memberships:
 - id: ldem
   name: Liberal Democrats

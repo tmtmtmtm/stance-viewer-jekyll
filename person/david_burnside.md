@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_burnside
-name: David Burnside
+title: David Burnside
 memberships:
 - id: uup
   name: UUP

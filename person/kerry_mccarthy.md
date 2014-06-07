@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: kerry_mccarthy
-name: Kerry McCarthy
+title: Kerry McCarthy
 memberships:
 - id: lab
   name: Labour Party

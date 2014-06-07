@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: calum_macdonald
-name: Calum MacDonald
+title: Calum MacDonald
 memberships:
 - id: lab
   name: Labour Party

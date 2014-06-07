@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_home_robertson
-name: John Home Robertson
+title: John Home Robertson
 memberships:
 - id: lab
   name: Labour Party

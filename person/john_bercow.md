@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_bercow
-name: John Bercow
+title: John Bercow
 memberships:
 - id: con
   name: Conservative Party

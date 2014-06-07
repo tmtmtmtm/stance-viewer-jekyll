@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jeremy_lefroy
-name: Jeremy Lefroy
+title: Jeremy Lefroy
 memberships:
 - id: con
   name: Conservative Party

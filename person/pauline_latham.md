@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: pauline_latham
-name: Pauline Latham
+title: Pauline Latham
 memberships:
 - id: con
   name: Conservative Party

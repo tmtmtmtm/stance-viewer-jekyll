@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: siobhain_mcdonagh
-name: Siobhain McDonagh
+title: Siobhain McDonagh
 memberships:
 - id: lab
   name: Labour Party

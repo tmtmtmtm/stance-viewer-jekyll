@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_drew
-name: David Drew
+title: David Drew
 memberships:
 - id: lab
   name: Labour Party

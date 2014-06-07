@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_gray
-name: James Gray
+title: James Gray
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: adam_ingram
-name: Adam Ingram
+title: Adam Ingram
 memberships:
 - id: lab
   name: Labour Party

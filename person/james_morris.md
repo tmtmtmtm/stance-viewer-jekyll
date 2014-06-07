@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: james_morris
-name: James Morris
+title: James Morris
 memberships:
 - id: con
   name: Conservative Party

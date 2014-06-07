@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_lansley
-name: Andrew Lansley
+title: Andrew Lansley
 memberships:
 - id: con
   name: Conservative Party

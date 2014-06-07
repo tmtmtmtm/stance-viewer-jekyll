@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: sammy_wilson
-name: Sammy Wilson
+title: Sammy Wilson
 memberships:
 - id: dup
   name: DUP

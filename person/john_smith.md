@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_smith
-name: John Smith
+title: John Smith
 memberships:
 - id: lab
   name: Labour Party

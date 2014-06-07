@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_griffiths
-name: Andrew Griffiths
+title: Andrew Griffiths
 memberships:
 - id: con
   name: Conservative Party

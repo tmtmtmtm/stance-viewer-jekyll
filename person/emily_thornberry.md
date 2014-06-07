@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: emily_thornberry
-name: Emily Thornberry
+title: Emily Thornberry
 memberships:
 - id: lab
   name: Labour Party

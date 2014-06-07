@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_jack
-name: Michael Jack
+title: Michael Jack
 memberships:
 - id: con
   name: Conservative Party

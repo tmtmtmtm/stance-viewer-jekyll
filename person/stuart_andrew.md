@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stuart_andrew
-name: Stuart Andrew
+title: Stuart Andrew
 memberships:
 - id: con
   name: Conservative Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_harvey
-name: Nick Harvey
+title: Nick Harvey
 memberships:
 - id: ldem
   name: Liberal Democrats

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: edward_heath
-name: Edward Heath
+title: Edward Heath
 memberships:
 - id: con
   name: Conservative Party

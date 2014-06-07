@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: amber_rudd
-name: Amber Rudd
+title: Amber Rudd
 memberships:
 - id: con
   name: Conservative Party

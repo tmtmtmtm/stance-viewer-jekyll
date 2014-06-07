@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_gove
-name: Michael Gove
+title: Michael Gove
 memberships:
 - id: con
   name: Conservative Party

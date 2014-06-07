@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: brandon_lewis
-name: Brandon Lewis
+title: Brandon Lewis
 memberships:
 - id: con
   name: Conservative Party

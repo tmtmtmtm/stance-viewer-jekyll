@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_marshall
-name: David Marshall
+title: David Marshall
 memberships:
 - id: lab
   name: Labour Party

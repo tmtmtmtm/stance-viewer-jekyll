@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_mole
-name: Chris Mole
+title: Chris Mole
 memberships:
 - id: lab
   name: Labour Party

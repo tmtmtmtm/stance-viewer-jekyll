@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nicholas_lyell
-name: Nicholas Lyell
+title: Nicholas Lyell
 memberships:
 - id: con
   name: Conservative Party

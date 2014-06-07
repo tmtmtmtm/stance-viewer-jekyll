@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: norman_fowler
-name: Norman Fowler
+title: Norman Fowler
 memberships:
 - id: con
   name: Conservative Party

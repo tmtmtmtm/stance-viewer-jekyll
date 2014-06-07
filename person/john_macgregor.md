@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_macgregor
-name: John MacGregor
+title: John MacGregor
 memberships:
 - id: con
   name: Conservative Party

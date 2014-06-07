@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ivan_lewis
-name: Ivan Lewis
+title: Ivan Lewis
 memberships:
 - id: lab
   name: Labour Party

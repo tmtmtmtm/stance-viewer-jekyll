@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ian_mccartney
-name: Ian McCartney
+title: Ian McCartney
 memberships:
 - id: lab
   name: Labour Party

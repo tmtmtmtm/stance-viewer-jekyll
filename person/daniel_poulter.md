@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: daniel_poulter
-name: Daniel Poulter
+title: Daniel Poulter
 memberships:
 - id: con
   name: Conservative Party

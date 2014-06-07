@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jane_kennedy
-name: Jane Kennedy
+title: Jane Kennedy
 memberships:
 - id: lab
   name: Labour Party

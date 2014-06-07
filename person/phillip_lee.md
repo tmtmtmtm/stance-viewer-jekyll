@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phillip_lee
-name: Phillip Lee
+title: Phillip Lee
 memberships:
 - id: con
   name: Conservative Party

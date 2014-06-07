@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_meacher
-name: Michael Meacher
+title: Michael Meacher
 memberships:
 - id: lab
   name: Labour Party

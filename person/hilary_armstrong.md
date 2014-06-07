@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: hilary_armstrong
-name: Hilary Armstrong
+title: Hilary Armstrong
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dawn_butler
-name: Dawn Butler
+title: Dawn Butler
 memberships:
 - id: lab
   name: Labour Party

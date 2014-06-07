@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: phil_woolas
-name: Phil Woolas
+title: Phil Woolas
 memberships:
 - id: lab
   name: Labour Party

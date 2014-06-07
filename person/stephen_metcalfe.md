@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_metcalfe
-name: Stephen Metcalfe
+title: Stephen Metcalfe
 memberships:
 - id: con
   name: Conservative Party

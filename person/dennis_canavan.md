@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dennis_canavan
-name: Dennis Canavan
+title: Dennis Canavan
 memberships:
 - id: ind
   name: Independent

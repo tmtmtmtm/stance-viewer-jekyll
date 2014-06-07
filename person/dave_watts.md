@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: dave_watts
-name: Dave Watts
+title: Dave Watts
 memberships:
 - id: lab
   name: Labour Party

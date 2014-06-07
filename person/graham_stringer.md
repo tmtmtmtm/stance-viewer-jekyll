@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: graham_stringer
-name: Graham Stringer
+title: Graham Stringer
 memberships:
 - id: lab
   name: Labour Party

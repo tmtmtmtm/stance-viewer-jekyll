@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_boateng
-name: Paul Boateng
+title: Paul Boateng
 memberships:
 - id: lab
   name: Labour Party

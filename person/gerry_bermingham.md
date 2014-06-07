@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gerry_bermingham
-name: Gerry Bermingham
+title: Gerry Bermingham
 memberships:
 - id: lab
   name: Labour Party

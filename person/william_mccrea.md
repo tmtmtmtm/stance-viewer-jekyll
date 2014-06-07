@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: william_mccrea
-name: William McCrea
+title: William McCrea
 memberships:
 - id: dup
   name: DUP

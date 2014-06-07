@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_bryant
-name: Chris Bryant
+title: Chris Bryant
 memberships:
 - id: lab
   name: Labour Party

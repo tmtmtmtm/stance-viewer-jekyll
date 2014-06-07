@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_phillips
-name: Stephen Phillips
+title: Stephen Phillips
 memberships:
 - id: con
   name: Conservative Party

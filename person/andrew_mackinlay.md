@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_mackinlay
-name: Andrew MacKinlay
+title: Andrew MacKinlay
 memberships:
 - id: lab
   name: Labour Party

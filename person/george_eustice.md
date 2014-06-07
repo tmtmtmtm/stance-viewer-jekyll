@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: george_eustice
-name: George Eustice
+title: George Eustice
 memberships:
 - id: con
   name: Conservative Party

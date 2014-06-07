@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_bradley
-name: Peter Bradley
+title: Peter Bradley
 memberships:
 - id: lab
   name: Labour Party

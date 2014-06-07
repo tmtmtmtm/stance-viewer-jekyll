@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: robert_jackson
-name: Robert Jackson
+title: Robert Jackson
 memberships:
 - id: con
   name: Conservative Party

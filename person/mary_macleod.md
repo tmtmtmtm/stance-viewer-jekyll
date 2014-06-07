@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mary_macleod
-name: Mary Macleod
+title: Mary Macleod
 memberships:
 - id: con
   name: Conservative Party

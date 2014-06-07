@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_heath
-name: David Heath
+title: David Heath
 memberships:
 - id: ldem
   name: Liberal Democrats

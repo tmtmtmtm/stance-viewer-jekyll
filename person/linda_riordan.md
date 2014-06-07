@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: linda_riordan
-name: Linda Riordan
+title: Linda Riordan
 memberships:
 - id: lab
   name: Labour Party

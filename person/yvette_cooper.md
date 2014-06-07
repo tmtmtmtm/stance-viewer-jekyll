@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: yvette_cooper
-name: Yvette Cooper
+title: Yvette Cooper
 memberships:
 - id: lab
   name: Labour Party

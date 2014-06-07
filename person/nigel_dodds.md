@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nigel_dodds
-name: Nigel Dodds
+title: Nigel Dodds
 memberships:
 - id: dup
   name: DUP

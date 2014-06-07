@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_townend
-name: John Townend
+title: John Townend
 memberships:
 - id: con
   name: Conservative Party

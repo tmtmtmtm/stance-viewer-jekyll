@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_simpson
-name: Alan Simpson
+title: Alan Simpson
 memberships:
 - id: lab
   name: Labour Party

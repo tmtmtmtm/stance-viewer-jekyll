@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: caroline_dinenage
-name: Caroline Dinenage
+title: Caroline Dinenage
 memberships:
 - id: con
   name: Conservative Party

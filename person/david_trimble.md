@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_trimble
-name: David Trimble
+title: David Trimble
 memberships:
 - id: uup
   name: UUP

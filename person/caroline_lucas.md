@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: caroline_lucas
-name: Caroline Lucas
+title: Caroline Lucas
 memberships:
 - id: green
   name: Green

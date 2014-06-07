@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_borrow
-name: David Borrow
+title: David Borrow
 memberships:
 - id: lab
   name: Labour Party

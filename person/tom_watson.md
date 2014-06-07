@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_watson
-name: Tom Watson
+title: Tom Watson
 memberships:
 - id: lab
   name: Labour Party

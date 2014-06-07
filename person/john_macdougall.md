@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: john_macdougall
-name: John MacDougall
+title: John MacDougall
 memberships:
 - id: lab
   name: Labour Party

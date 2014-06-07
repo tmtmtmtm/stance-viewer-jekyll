@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_hanson
-name: David Hanson
+title: David Hanson
 memberships:
 - id: lab
   name: Labour Party

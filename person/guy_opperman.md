@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: guy_opperman
-name: Guy Opperman
+title: Guy Opperman
 memberships:
 - id: con
   name: Conservative Party

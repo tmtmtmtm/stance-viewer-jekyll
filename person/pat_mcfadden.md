@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: pat_mcfadden
-name: Pat McFadden
+title: Pat McFadden
 memberships:
 - id: lab
   name: Labour Party

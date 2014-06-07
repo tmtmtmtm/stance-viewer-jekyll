@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: alan_hurst
-name: Alan Hurst
+title: Alan Hurst
 memberships:
 - id: lab
   name: Labour Party

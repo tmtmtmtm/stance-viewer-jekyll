@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tom_harris
-name: Tom Harris
+title: Tom Harris
 memberships:
 - id: lab
   name: Labour Party

@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: matthew_hancock
-name: Matthew Hancock
+title: Matthew Hancock
 memberships:
 - id: con
   name: Conservative Party

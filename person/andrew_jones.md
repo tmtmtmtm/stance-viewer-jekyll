@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_jones
-name: Andrew Jones
+title: Andrew Jones
 memberships:
 - id: con
   name: Conservative Party

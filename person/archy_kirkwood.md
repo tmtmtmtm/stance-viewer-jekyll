@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: archy_kirkwood
-name: Archy Kirkwood
+title: Archy Kirkwood
 memberships:
 - id: ldem
   name: Liberal Democrats

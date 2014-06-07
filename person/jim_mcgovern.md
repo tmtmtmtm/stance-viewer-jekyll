@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jim_mcgovern
-name: Jim McGovern
+title: Jim McGovern
 memberships:
 - id: lab
   name: Labour Party

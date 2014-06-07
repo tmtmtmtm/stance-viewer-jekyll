@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: beverley_hughes
-name: Beverley Hughes
+title: Beverley Hughes
 memberships:
 - id: lab
   name: Labour Party

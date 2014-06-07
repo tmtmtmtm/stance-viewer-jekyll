@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: david_gauke
-name: David Gauke
+title: David Gauke
 memberships:
 - id: con
   name: Conservative Party

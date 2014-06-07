@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: des_browne
-name: Des Browne
+title: Des Browne
 memberships:
 - id: lab
   name: Labour Party

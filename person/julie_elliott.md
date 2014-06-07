@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: julie_elliott
-name: Julie Elliott
+title: Julie Elliott
 memberships:
 - id: lab
   name: Labour Party

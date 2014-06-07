@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: peter_temple_morris
-name: Peter Temple-Morris
+title: Peter Temple-Morris
 memberships:
 - id: lab
   name: Labour Party

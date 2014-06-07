@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chi_onwurah
-name: Chi Onwurah
+title: Chi Onwurah
 memberships:
 - id: lab
   name: Labour Party

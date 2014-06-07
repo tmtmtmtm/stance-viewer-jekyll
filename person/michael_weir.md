@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: michael_weir
-name: Michael Weir
+title: Michael Weir
 memberships:
 - id: snp
   name: SNP

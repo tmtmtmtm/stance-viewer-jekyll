@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: ashok_kumar
-name: Ashok Kumar
+title: Ashok Kumar
 memberships:
 - id: lab
   name: Labour Party

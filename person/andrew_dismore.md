@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: andrew_dismore
-name: Andrew Dismore
+title: Andrew Dismore
 memberships:
 - id: lab
   name: Labour Party

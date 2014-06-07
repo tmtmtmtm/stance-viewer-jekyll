@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: gregory_barker
-name: Gregory Barker
+title: Gregory Barker
 memberships:
 - id: con
   name: Conservative Party

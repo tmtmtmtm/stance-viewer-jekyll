@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: paul_farrelly
-name: Paul Farrelly
+title: Paul Farrelly
 memberships:
 - id: lab
   name: Labour Party

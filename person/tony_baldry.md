@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: tony_baldry
-name: Tony Baldry
+title: Tony Baldry
 memberships:
 - id: con
   name: Conservative Party

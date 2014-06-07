@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: jonathan_djanogly
-name: Jonathan Djanogly
+title: Jonathan Djanogly
 memberships:
 - id: con
   name: Conservative Party

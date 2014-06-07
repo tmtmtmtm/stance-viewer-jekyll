@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: mark_garnier
-name: Mark Garnier
+title: Mark Garnier
 memberships:
 - id: con
   name: Conservative Party

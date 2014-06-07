@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: stephen_hesford
-name: Stephen Hesford
+title: Stephen Hesford
 memberships:
 - id: lab
   name: Labour Party

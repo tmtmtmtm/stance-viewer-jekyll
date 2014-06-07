@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: chris_williamson
-name: Chris Williamson
+title: Chris Williamson
 memberships:
 - id: lab
   name: Labour Party

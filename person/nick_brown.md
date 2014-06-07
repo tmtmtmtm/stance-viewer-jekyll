@@ -1,7 +1,7 @@
 ---
 layout: mp
 id: nick_brown
-name: Nick Brown
+title: Nick Brown
 memberships:
 - id: lab
   name: Labour Party
