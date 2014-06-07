@@ -9,7 +9,7 @@ allstances = issues.map do |i|
   i['stances'] = Aspect.new(
     bloc:'party.id',
     issue: Issue.new(i['id']),
-  ).scored_blocs.map { |k, v| { party: k, scores: v.merge({ weight: v[:num_votes].zero? ? 0.5 : v[:score] / v[:max] }) } }
+  ).scored_blocs.map { |k, v| { party: k, scores: v } }
   i
 end
 

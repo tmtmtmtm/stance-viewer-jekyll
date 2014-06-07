@@ -52,12 +52,13 @@ class Aspect
   end
 
   def scored_blocs
-    # Sum the nested hash values by reducing the merge
-    @__sb ||= Hash[
-      weighted_blocs.map { |bloc,waggs|
-        [ bloc, waggs.each.inject { |a, b| a.merge(b) { |k, aval, bval| aval + bval } } ]
-      }
-    ]
+    # combined_blocs + weight (must add at end, as can't be summed)
+    sb = __combined_blocs
+    # TODO this only works when vote ranges are 0..max
+    # FIXME for negatives, or other ranges, by calculating min_score too
+    return Hash[ sb.map { |k, v|
+      [k, v.merge({ weight: v[:num_votes].zero? ? 0.5 : v[:score] / v[:max] })]
+    }]
   end
 
   def score(bloc=nil)
@@ -91,6 +92,16 @@ class Aspect
       score: score,
       max: max_score,
     }
+  end
+
+  # { num:1, score:10, max:20 } + {num:2, score:4, max:30} 
+  #   = {num:3, score:14, max:50}
+  def __combined_blocs
+    @__cb ||= Hash[
+      weighted_blocs.map { |bloc,waggs|
+        [ bloc, waggs.each.inject { |a, b| a.merge(b) { |k, aval, bval| aval + bval } } ]
+      }
+    ]
   end
 
 end
