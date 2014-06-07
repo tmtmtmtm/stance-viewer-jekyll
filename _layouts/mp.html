@@ -21,6 +21,7 @@ layout: default
     {% for stance in issue.stances %}
       {% if stance.person == page.id %}
         {% if stance.scores.num_votes > 0 %}<li>{% include stance.html scores=stance.scores %} {{issue.html}}</li>{% endif %}
+        {% break %}
       {% endif %}
     {% endfor %}
   {% endfor %}
