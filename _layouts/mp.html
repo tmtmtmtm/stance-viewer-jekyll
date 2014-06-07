@@ -18,11 +18,7 @@ layout: default
 <h3>Stances:</h3>
 <ul>
   {% for issue in site.data.mpstances %}
-    {% for stance in issue.stances %}
-      {% if stance.person == page.id %}
-        {% if stance.scores.num_votes > 0 %}<li>{% include stance.html scores=stance.scores %} {{issue.html}}</li>{% endif %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
+    {% assign stance = issue.stances[page.id] %}
+    {% if stance.num_votes > 0 %}<li>{% include stance.html scores=stance %} {{issue.html}}</li>{% endif %}
   {% endfor %}
 </ul>

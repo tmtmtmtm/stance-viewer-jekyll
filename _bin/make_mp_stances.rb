@@ -19,7 +19,7 @@ issues.each do |i|
         filter: "party.id:#{p['id']}",
         issue: Issue.new(i['id']),
       ).scored_blocs
-    }.reduce(:merge).map { |k, v| { person: k, scores: v } }
+    }.reduce(:merge)
     
     i['stances'] = stances
     allstances << i
