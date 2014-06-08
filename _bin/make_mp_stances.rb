@@ -1,5 +1,7 @@
 #!/usr/bin/ruby
 
+# Usage: ruby -Ilib _bin/make_mp_stances.rb > _data/mpstances.yaml
+
 require 'json'
 require 'stancer'
 require 'parallel'
@@ -9,11 +11,10 @@ parties = JSON.parse(File.read('_data/parties.yaml'))
 
 allstances = []
 
-issues.each do |i|
+Parallel.each(issues, :in_threads => 10) do |i|
   begin
     stances = parties.map { |p|
       warn "Calculating #{i['text']} (#{i['id']}) for #{p['name']}"
-      # Parallel.each(..., :in_threads => 10) do |i|
       Aspect.new(
         bloc:'voter.id',
         filter: "party.id:#{p['id']}",
