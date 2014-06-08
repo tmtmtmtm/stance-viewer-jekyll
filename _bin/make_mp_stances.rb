@@ -5,11 +5,13 @@
 require 'json'
 require 'stancer'
 require 'parallel'
+require 'colorize'
 
 issues = JSON.parse(File.read('_data/issues.yaml'))
 parties = JSON.parse(File.read('_data/parties.yaml'))
 
 allstances = []
+errors = []
 
 Parallel.each(issues, :in_threads => 10) do |i|
   begin
@@ -25,8 +27,14 @@ Parallel.each(issues, :in_threads => 10) do |i|
     i['stances'] = stances
     allstances << i
   rescue => e
-    warn "PROBLEM with #{i['text']} (#{i['id']}) = #{e}"
+    msg = "PROBLEM with #{i['text']} (#{i['id']}) = #{e}"
+    errors << msg
+    warn "#{msg}.red"
   end
 end
 
 puts JSON.pretty_generate(allstances)
+
+errors.each do |msg| 
+  warn "#{msg}".yellow
+end
