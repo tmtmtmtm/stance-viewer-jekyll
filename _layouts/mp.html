@@ -19,6 +19,6 @@ layout: default
 <ul>
   {% for issue in site.data.mpstances %}
     {% assign stance = issue.stances[page.id] %}
-    {% if stance.num_votes > 0 %}<li>{% include stance.html scores=stance %} {{issue.html}}</li>{% endif %}
+    {% if stance.num_votes > 0 %}<li>{% include stance.html scores=stance %} <a href="/issue/{{issue.id}}.html">{{issue.html}}</a></li>{% endif %}
   {% endfor %}
 </ul>
