@@ -3936,7 +3936,7 @@
   {
     "id": "PW-1084",
     "text": "Proportional Representation Voting System — For ",
-    "html": "a more <a href=\"http://en.wikipedia.org/wiki/Proportional_representation\">proportional system</a> for electing MPs",
+    "html": "a more proportional system for electing MPs",
     "categories": [
       "summary",
       "reform"
@@ -8816,7 +8816,7 @@
   {
     "id": "PW-6687",
     "text": "Academy Schools — for",
-    "html": "<a href=\"http://en.wikipedia.org/wiki/Academy_(English_school)\">academy schools</a>",
+    "html": "academy schools",
     "categories": [
       "education"
     ],
@@ -10628,6 +10628,140 @@
     }
   },
   {
+    "id": "PW-6703",
+    "text": "Human Rights and Equality",
+    "html": "laws to promote equality and human rights",
+    "categories": [
+      "social"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2012-12-04-110",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-04-16-205",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-01-30-199",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-03-10-223",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "con": {
+        "num_votes": 1220,
+        "score": 29291.0,
+        "max": 48800,
+        "weight": 0.6002254098360655
+      },
+      "sdlp": {
+        "num_votes": 12,
+        "score": 178.0,
+        "max": 480,
+        "weight": 0.37083333333333335
+      },
+      "res": {
+        "num_votes": 4,
+        "score": 76.0,
+        "max": 160,
+        "weight": 0.475
+      },
+      "lab": {
+        "num_votes": 1030,
+        "score": 16203.0,
+        "max": 41180,
+        "weight": 0.39346770276833415
+      },
+      "sf": {
+        "num_votes": 20,
+        "score": 380.0,
+        "max": 800,
+        "weight": 0.475
+      },
+      "ldem": {
+        "num_votes": 228,
+        "score": 5799.0,
+        "max": 9120,
+        "weight": 0.6358552631578948
+      },
+      "green": {
+        "num_votes": 4,
+        "score": 60.0,
+        "max": 160,
+        "weight": 0.375
+      },
+      "ind": {
+        "num_votes": 4,
+        "score": 26.0,
+        "max": 160,
+        "weight": 0.1625
+      },
+      "dup": {
+        "num_votes": 32,
+        "score": 507.0,
+        "max": 1280,
+        "weight": 0.39609375
+      },
+      "snp": {
+        "num_votes": 24,
+        "score": 306.0,
+        "max": 960,
+        "weight": 0.31875
+      },
+      "pc": {
+        "num_votes": 12,
+        "score": 196.0,
+        "max": 480,
+        "weight": 0.4083333333333333
+      },
+      "alliance": {
+        "num_votes": 4,
+        "score": 60.0,
+        "max": 160,
+        "weight": 0.375
+      },
+      "speaker": {
+        "num_votes": 4,
+        "score": 76.0,
+        "max": 160,
+        "weight": 0.475
+      }
+    }
+  },
+  {
     "id": "PW-6704",
     "text": "Incentivise Low Carbon Electricity Generation",
     "html": "financial incentives for <b>low carbon</b> emission <b>electricity generation</b> methods",
@@ -10769,6 +10903,981 @@
         "score": 50.0,
         "max": 150,
         "weight": 0.3333333333333333
+      }
+    }
+  },
+  {
+    "id": "PW-6705",
+    "text": "Require Pub Companies to Offer Rent Only Leases",
+    "html": "requiring pub companies to offer pub landlords rent-only leases",
+    "categories": [
+      "misc"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2013-01-09-131",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-01-21-183",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "ind": {
+        "num_votes": 2,
+        "score": 100.0,
+        "max": 100,
+        "weight": 1.0
+      },
+      "snp": {
+        "num_votes": 12,
+        "score": 350.0,
+        "max": 600,
+        "weight": 0.5833333333333334
+      },
+      "sf": {
+        "num_votes": 9,
+        "score": 225.0,
+        "max": 450,
+        "weight": 0.5
+      },
+      "alliance": {
+        "num_votes": 2,
+        "score": 100.0,
+        "max": 100,
+        "weight": 1.0
+      },
+      "pc": {
+        "num_votes": 6,
+        "score": 200.0,
+        "max": 300,
+        "weight": 0.6666666666666666
+      },
+      "con": {
+        "num_votes": 610,
+        "score": 2100.0,
+        "max": 30500,
+        "weight": 0.06885245901639345
+      },
+      "dup": {
+        "num_votes": 16,
+        "score": 475.0,
+        "max": 800,
+        "weight": 0.59375
+      },
+      "green": {
+        "num_votes": 2,
+        "score": 100.0,
+        "max": 100,
+        "weight": 1.0
+      },
+      "res": {
+        "num_votes": 2,
+        "score": 50.0,
+        "max": 100,
+        "weight": 0.5
+      },
+      "speaker": {
+        "num_votes": 2,
+        "score": 50.0,
+        "max": 100,
+        "weight": 0.5
+      },
+      "ldem": {
+        "num_votes": 114,
+        "score": 500.0,
+        "max": 5700,
+        "weight": 0.08771929824561403
+      },
+      "sdlp": {
+        "num_votes": 6,
+        "score": 275.0,
+        "max": 300,
+        "weight": 0.9166666666666666
+      },
+      "lab": {
+        "num_votes": 515,
+        "score": 24625.0,
+        "max": 25750,
+        "weight": 0.9563106796116505
+      }
+    }
+  },
+  {
+    "id": "PW-6706",
+    "text": "Stronger Military Covenant",
+    "html": "strengthening the Military Covenant",
+    "categories": [
+      "foreign"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2010-03-01-89",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-02-16-210",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-06-14-293",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-06-26-27",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "snp": {
+        "num_votes": 25,
+        "score": 918.0,
+        "max": 970,
+        "weight": 0.9463917525773196
+      },
+      "green": {
+        "num_votes": 3,
+        "score": 100.0,
+        "max": 150,
+        "weight": 0.6666666666666666
+      },
+      "pc": {
+        "num_votes": 12,
+        "score": 403.0,
+        "max": 480,
+        "weight": 0.8395833333333333
+      },
+      "sf": {
+        "num_votes": 19,
+        "score": 355.0,
+        "max": 750,
+        "weight": 0.47333333333333333
+      },
+      "ldem": {
+        "num_votes": 234,
+        "score": 1091.0,
+        "max": 9180,
+        "weight": 0.11884531590413944
+      },
+      "uup": {
+        "num_votes": 1,
+        "score": 1.0,
+        "max": 10,
+        "weight": 0.1
+      },
+      "con": {
+        "num_votes": 1111,
+        "score": 5551.0,
+        "max": 47830,
+        "weight": 0.11605686807443027
+      },
+      "res": {
+        "num_votes": 2,
+        "score": 26.0,
+        "max": 60,
+        "weight": 0.43333333333333335
+      },
+      "dup": {
+        "num_votes": 32,
+        "score": 783.0,
+        "max": 1280,
+        "weight": 0.61171875
+      },
+      "sdlp": {
+        "num_votes": 12,
+        "score": 228.0,
+        "max": 480,
+        "weight": 0.475
+      },
+      "ind": {
+        "num_votes": 10,
+        "score": 122.0,
+        "max": 220,
+        "weight": 0.5545454545454546
+      },
+      "alliance": {
+        "num_votes": 3,
+        "score": 125.0,
+        "max": 150,
+        "weight": 0.8333333333333334
+      },
+      "lab": {
+        "num_votes": 1120,
+        "score": 35023.0,
+        "max": 42040,
+        "weight": 0.8330875356803045
+      },
+      "speaker": {
+        "num_votes": 4,
+        "score": 76.0,
+        "max": 160,
+        "weight": 0.475
+      },
+      "deputy speaker": {
+        "num_votes": 3,
+        "score": 3.0,
+        "max": 30,
+        "weight": 0.1
+      }
+    }
+  },
+  {
+    "id": "PW-6707",
+    "text": "Restrict Scope of Legal Aid",
+    "html": "restricting the scope of legal aid",
+    "categories": [
+      "misc"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2011-06-29-310",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-10-31-380",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-10-31-382",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-11-02-387",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-11-02-391",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-04-17-510",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-04-17-513",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-04-17-514",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-12-05-116",
+        "result": "passed",
+        "direction": "minority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-12-05-117",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-01-22-186",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "speaker": {
+        "num_votes": 11,
+        "score": 203.0,
+        "max": 430,
+        "weight": 0.4720930232558139
+      },
+      "snp": {
+        "num_votes": 66,
+        "score": 1218.0,
+        "max": 2580,
+        "weight": 0.4720930232558139
+      },
+      "lab": {
+        "num_votes": 2833,
+        "score": 17403.0,
+        "max": 110730,
+        "weight": 0.1571660796532105
+      },
+      "sdlp": {
+        "num_votes": 33,
+        "score": 528.0,
+        "max": 1290,
+        "weight": 0.40930232558139534
+      },
+      "pc": {
+        "num_votes": 33,
+        "score": 176.0,
+        "max": 1290,
+        "weight": 0.13643410852713178
+      },
+      "alliance": {
+        "num_votes": 11,
+        "score": 61.0,
+        "max": 430,
+        "weight": 0.14186046511627906
+      },
+      "ind": {
+        "num_votes": 11,
+        "score": 151.0,
+        "max": 430,
+        "weight": 0.3511627906976744
+      },
+      "ldem": {
+        "num_votes": 627,
+        "score": 18174.0,
+        "max": 24510,
+        "weight": 0.7414932680538555
+      },
+      "sf": {
+        "num_votes": 55,
+        "score": 1015.0,
+        "max": 2150,
+        "weight": 0.4720930232558139
+      },
+      "res": {
+        "num_votes": 6,
+        "score": 27.0,
+        "max": 220,
+        "weight": 0.12272727272727273
+      },
+      "con": {
+        "num_votes": 3363,
+        "score": 107929.0,
+        "max": 131510,
+        "weight": 0.8206904417914987
+      },
+      "dup": {
+        "num_votes": 88,
+        "score": 1229.0,
+        "max": 3440,
+        "weight": 0.3572674418604651
+      },
+      "green": {
+        "num_votes": 11,
+        "score": 50.0,
+        "max": 430,
+        "weight": 0.11627906976744186
+      }
+    }
+  },
+  {
+    "id": "PW-6708",
+    "text": "Further devolution to Wales",
+    "html": "transferring more powers to the Welsh Assembly",
+    "categories": [
+      "reform"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2011-03-14-222",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-06-21-300",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-01-31-445",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-04-18-218",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-04-18-219",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-05-15-4",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-01-06-165",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-04-09-253",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-04-30-259",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-04-30-260",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "ind": {
+        "num_votes": 10,
+        "score": 226.0,
+        "max": 460,
+        "weight": 0.49130434782608695
+      },
+      "green": {
+        "num_votes": 10,
+        "score": 435.0,
+        "max": 460,
+        "weight": 0.9456521739130435
+      },
+      "snp": {
+        "num_votes": 60,
+        "score": 2374.0,
+        "max": 2760,
+        "weight": 0.8601449275362318
+      },
+      "lab": {
+        "num_votes": 2577,
+        "score": 60208.0,
+        "max": 118530,
+        "weight": 0.507955791782671
+      },
+      "con": {
+        "num_votes": 3053,
+        "score": 22996.0,
+        "max": 140450,
+        "weight": 0.1637308650765397
+      },
+      "pc": {
+        "num_votes": 30,
+        "score": 1305.0,
+        "max": 1380,
+        "weight": 0.9456521739130435
+      },
+      "sdlp": {
+        "num_votes": 30,
+        "score": 803.0,
+        "max": 1380,
+        "weight": 0.5818840579710145
+      },
+      "alliance": {
+        "num_votes": 10,
+        "score": 201.0,
+        "max": 460,
+        "weight": 0.4369565217391304
+      },
+      "dup": {
+        "num_votes": 80,
+        "score": 1928.0,
+        "max": 3680,
+        "weight": 0.5239130434782608
+      },
+      "speaker": {
+        "num_votes": 10,
+        "score": 226.0,
+        "max": 460,
+        "weight": 0.49130434782608695
+      },
+      "res": {
+        "num_votes": 7,
+        "score": 151.0,
+        "max": 310,
+        "weight": 0.4870967741935484
+      },
+      "ldem": {
+        "num_votes": 570,
+        "score": 7560.0,
+        "max": 26220,
+        "weight": 0.28832951945080093
+      },
+      "sf": {
+        "num_votes": 49,
+        "score": 1105.0,
+        "max": 2250,
+        "weight": 0.4911111111111111
+      }
+    }
+  },
+  {
+    "id": "PW-6709",
+    "text": "Further Devolution to Scotland",
+    "html": "transferring more powers to the Scottish Parliament",
+    "categories": [
+      "reform"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2011-01-27-184",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-03-07-215",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-03-07-216",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-03-07-217",
+        "result": "passed",
+        "direction": "minority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-03-07-218",
+        "result": "passed",
+        "direction": "minority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-03-14-224",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-03-15-226",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-06-21-302",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "pc": {
+        "num_votes": 24,
+        "score": 801.0,
+        "max": 960,
+        "weight": 0.834375
+      },
+      "ind": {
+        "num_votes": 8,
+        "score": 177.0,
+        "max": 320,
+        "weight": 0.553125
+      },
+      "sf": {
+        "num_votes": 33,
+        "score": 633.0,
+        "max": 1330,
+        "weight": 0.47593984962406016
+      },
+      "dup": {
+        "num_votes": 64,
+        "score": 1173.0,
+        "max": 2560,
+        "weight": 0.458203125
+      },
+      "alliance": {
+        "num_votes": 8,
+        "score": 86.0,
+        "max": 320,
+        "weight": 0.26875
+      },
+      "speaker": {
+        "num_votes": 8,
+        "score": 152.0,
+        "max": 320,
+        "weight": 0.475
+      },
+      "ldem": {
+        "num_votes": 456,
+        "score": 3631.0,
+        "max": 18240,
+        "weight": 0.19906798245614035
+      },
+      "lab": {
+        "num_votes": 2063,
+        "score": 38173.0,
+        "max": 82510,
+        "weight": 0.4626469518846201
+      },
+      "sdlp": {
+        "num_votes": 24,
+        "score": 556.0,
+        "max": 960,
+        "weight": 0.5791666666666667
+      },
+      "con": {
+        "num_votes": 2448,
+        "score": 19843.0,
+        "max": 97920,
+        "weight": 0.20264501633986928
+      },
+      "green": {
+        "num_votes": 8,
+        "score": 270.0,
+        "max": 320,
+        "weight": 0.84375
+      },
+      "snp": {
+        "num_votes": 48,
+        "score": 1611.0,
+        "max": 1920,
+        "weight": 0.8390625
+      }
+    }
+  },
+  {
+    "id": "PW-6710",
+    "text": "Cull Badgers",
+    "html": "culling badgers to tackle bovine tuberculosis",
+    "categories": [
+      "misc"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2012-10-25-87",
+        "result": "passed",
+        "direction": "minority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-06-05-21",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-06-05-22",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-03-13-232",
+        "result": "passed",
+        "direction": "minority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      }
+    ],
+    "stances": {
+      "ldem": {
+        "num_votes": 228,
+        "score": 6650.0,
+        "max": 11400,
+        "weight": 0.5833333333333334
+      },
+      "green": {
+        "num_votes": 4,
+        "score": 0.0,
+        "max": 200,
+        "weight": 0.0
+      },
+      "sf": {
+        "num_votes": 20,
+        "score": 500.0,
+        "max": 1000,
+        "weight": 0.5
+      },
+      "lab": {
+        "num_votes": 1027,
+        "score": 6200.0,
+        "max": 51350,
+        "weight": 0.12074001947419669
+      },
+      "con": {
+        "num_votes": 1220,
+        "score": 43200.0,
+        "max": 61000,
+        "weight": 0.7081967213114754
+      },
+      "speaker": {
+        "num_votes": 4,
+        "score": 100.0,
+        "max": 200,
+        "weight": 0.5
+      },
+      "pc": {
+        "num_votes": 12,
+        "score": 400.0,
+        "max": 600,
+        "weight": 0.6666666666666666
+      },
+      "snp": {
+        "num_votes": 24,
+        "score": 600.0,
+        "max": 1200,
+        "weight": 0.5
+      },
+      "dup": {
+        "num_votes": 32,
+        "score": 1100.0,
+        "max": 1600,
+        "weight": 0.6875
+      },
+      "res": {
+        "num_votes": 4,
+        "score": 100.0,
+        "max": 200,
+        "weight": 0.5
+      },
+      "ind": {
+        "num_votes": 4,
+        "score": 75.0,
+        "max": 200,
+        "weight": 0.375
+      },
+      "sdlp": {
+        "num_votes": 12,
+        "score": 200.0,
+        "max": 600,
+        "weight": 0.3333333333333333
+      },
+      "alliance": {
+        "num_votes": 4,
+        "score": 100.0,
+        "max": 200,
+        "weight": 0.5
       }
     }
   },
