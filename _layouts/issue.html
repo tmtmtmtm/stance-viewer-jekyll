@@ -12,8 +12,9 @@ layout: default
       {% for stance in issue.stances %}
         {% assign partyid = stance[0] %}
         {% assign sscores = stance[1] %}
-        {% if sscores.num_votes > 0 %}<li>{{ partyid }} {% include stance.html scores=sscores %}</li>{% endif %}
+        {% if sscores.num_votes > 0 %}<li>{% include party_id.html id=partyid %} {% include stance.html scores=sscores %}</li>{% endif %}
       {% endfor %}
+      {% break %}
     {% endif %}
   {% endfor %}
 </ul>

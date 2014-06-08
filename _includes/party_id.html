@@ -1,0 +1,1 @@
+﻿{% for party in site.data.parties %}{% if party.id == include.id %}<a href="/party/{{ party.id }}.html">{{ party.name }}</a>{% break %}{% endif %}{% endfor %}
