@@ -12,6 +12,10 @@ class Issue
     raise "No such issue (#{id})" if @data.nil?
   end
 
+  def aggregate_on (hash)
+    (@__a ||= {})[hash] = Aspect.new( { issue: self }.merge hash)
+  end
+
   def aspects
     @data['aspects']
   end
