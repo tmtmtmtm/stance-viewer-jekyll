@@ -17,9 +17,10 @@ end
 def memberships(mp)
   mp['memberships'].map { |m|
     party = @parties.detect { |p| p['id'] == m['organization_id'] } || next
+    pname = party['id']=='ind' ? "Independent" : party['name']
     {
       "id" => m['organization_id'],
-      "name" => party['name'],
+      "name" => pname,
       "start" => m['start_date'],
       "end" => m['end_date'],
     }
