@@ -1,20 +1,17 @@
 ---
 layout: default
 ---
- 
-<h2>{{ page.title }}</h2>
 
-<h3>Party Stances</h3>
-<ul>
-  {% for issue in site.data.partystances %}
-    {% if issue.id == page.id %}
-      On {{ issue.html }}...
-      {% for stance in issue.stances %}
-        {% assign partyid = stance[0] %}
-        {% assign sscores = stance[1] %}
-        {% if sscores.num_votes > 0 and partyid != "speaker" and partyid != "deputy speaker" %}<li>{% include party_id.html id=partyid %} {% include stance.html scores=sscores %}</li>{% endif %}
-      {% endfor %}
-      {% break %}
-    {% endif %}
-  {% endfor %}
-</ul>
+{% for issue in site.data.partystances %}
+  {% if issue.id == page.id %}
+  <h2>On {{ issue.html }}...</h2>
+  <ul>
+    {% for stance in issue.stances %}
+      {% assign partyid = stance[0] %}
+      {% assign sscores = stance[1] %}
+      {% if sscores.num_votes > 0 and partyid != "speaker" and partyid != "deputy speaker" %}<li>{% include party_id.html id=partyid %} {% include stance.html scores=sscores %}</li>{% endif %}
+    {% endfor %}
+    {% break %}
+  </ul>
+  {% endif %}
+{% endfor %}
