@@ -1,0 +1,13 @@
+---
+layout: default
+title: All Parties
+---
+
+
+<h1 class="ng-scope">Members of Parliament</h1>
+<ul class="parties unstyled">
+  {% for person in site.data.people %}
+  <li><a class="ng-binding" href="/person/{{person.id}}.html">{{ person.name }}</a></li>
+  {% endfor %}
+</ul>
+
