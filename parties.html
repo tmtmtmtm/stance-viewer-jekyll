@@ -1,0 +1,15 @@
+---
+layout: default
+title: All Parties
+---
+
+<div id="party_list">
+  <ul>
+    {% for party in site.data.parties %}
+    <li><a href="/party/{{party.id}}.html">{{ party.name }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+
