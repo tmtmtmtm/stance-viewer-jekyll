@@ -1,0 +1,15 @@
+---
+layout: default
+title: All Issues
+---
+
+<h1 class="ng-scope">Issues</h1>
+<ul class="issues unstyled">
+  {% assign issuelist = site.data.issues | sort:"html" %}
+  {% for issue in issuelist %}
+  <li><a class="ng-binding" href="/issue/{{issue.id}}.html">On {{ issue.html }}</a></li>
+  {% endfor %}
+</ul>
+
+
+
