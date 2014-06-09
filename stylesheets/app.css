@@ -6341,3 +6341,10 @@ button.btn-bar {
   overflow: scroll;
   border-radius: 4px;
 }
+
+.four-col {
+  -moz-column-count: 4;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 4;
+  -webkit-column-gap: 20px;
+}

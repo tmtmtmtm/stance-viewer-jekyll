@@ -1,13 +1,17 @@
 ---
 layout: default
-title: All Parties
+title: People
 ---
 
 
 <h1 class="ng-scope">Members of Parliament</h1>
-<ul class="parties unstyled">
-  {% for person in site.data.people %}
-  <li><a class="ng-binding" href="/person/{{person.id}}.html">{{ person.name }}</a></li>
-  {% endfor %}
-</ul>
+{% for party in site.data.parties %}
+  <h3>{{ party.name }}</h3>
+  <ul class="people four-col unstyled">
+    {% for person in site.data.people %}{% for membership in person.memberships %}{% if membership.organization_id == party.id %}
+          <li><a class="ng-binding" href="/person/{{person.id}}.html">{{ person.name }}</a></li>{% break %}
+    {% endif %}{% endfor %}{% endfor %}
+  </ul>
+{% endfor %}
+  
 
