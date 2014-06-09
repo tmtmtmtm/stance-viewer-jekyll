@@ -3,13 +3,11 @@ layout: default
 title: All Parties
 ---
 
-<div id="party_list">
-  <ul>
-    {% for party in site.data.parties %}
-    <li><a href="/party/{{party.id}}.html">{{ party.name }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
 
-
+<h1 class="ng-scope">Political parties</h1>
+<ul class="parties unstyled">
+  {% for party in site.data.parties %}
+  <li><a class="ng-binding" href="/party/{{party.id}}.html">{{ party.name }}</a></li>
+  {% endfor %}
+</ul>
 
