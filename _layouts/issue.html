@@ -4,14 +4,24 @@ layout: default
 
 {% for issue in site.data.partystances %}
   {% if issue.id == page.id %}
-  <h2>On {{ issue.html }}...</h2>
-  <ul>
+    {% capture ranked_stances %}
     {% for stance in issue.stances %}
       {% assign partyid = stance[0] %}
       {% assign sscores = stance[1] %}
-      {% if sscores.num_votes > 0 and partyid != "speaker" and partyid != "deputy speaker" %}<li>{% include party_id.html id=partyid %} {% include stance.html scores=sscores %}</li>{% endif %}
+      {% if sscores.num_votes > 0 and partyid != "speaker" and partyid != "deputy speaker" %}
+      ++ENTRY++{{ sscores.weight }}+++{% include party_id.html id=partyid %} {% include stance.html scores=sscores %}+++
+      {% endif %}
     {% endfor %}
     {% break %}
-  </ul>
+    {% endcapture %}
   {% endif %}
 {% endfor %}
+{% assign sorted_stances = ranked_stances | split:'++ENTRY++' | sort %}
+
+<h2>On {{ page.html }}...</h2>
+<ul>
+  {% for stance in sorted_stances reversed %}
+  {% assign parts = stance | split:'+++' %}
+  {% if parts[1] %}<li>{{ parts[1] }}</li>{% endif %}
+  {% endfor %}
+</ul>
