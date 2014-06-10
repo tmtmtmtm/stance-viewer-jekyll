@@ -29,7 +29,7 @@ The code for doing all that can be found in the
 [voteit-data-pw](https://github.com/tmtmtmtm/voteit-data-pw) repo.
 
 2. From your [Stancer](https://github.com/tmtmtmtm/stancer-pw), copy
-   ``issues.json`, ``mpstances.json``, and ``partystances.json`` into
+   ``issues.json``, ``mpstances.json``, and ``partystances.json`` into
 the ``_data`` directory. (Note that currently Jekyll requires that you
 also rename these as .yaml files rather than .json!)
 
