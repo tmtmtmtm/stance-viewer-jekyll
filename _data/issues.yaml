@@ -6658,7 +6658,7 @@
   {
     "id": "PW-6703",
     "text": "Human Rights and Equality",
-    "html": "laws to promote equality and human rights",
+    "html": "laws to promote <b>equality and human rights</b>",
     "categories": [
       "social"
     ],
@@ -6777,7 +6777,7 @@
   {
     "id": "PW-6705",
     "text": "Require Pub Companies to Offer Rent Only Leases",
-    "html": "requiring pub companies to offer pub landlords rent-only leases",
+    "html": "requiring pub companies to offer pub landlords <b>rent-only leases</b>",
     "categories": [
       "misc"
     ],
@@ -6809,7 +6809,7 @@
   {
     "id": "PW-6706",
     "text": "Stronger Military Covenant",
-    "html": "strengthening the Military Covenant",
+    "html": "strengthening the <b>Military Covenant</b>",
     "categories": [
       "foreign"
     ],
@@ -6863,7 +6863,7 @@
   {
     "id": "PW-6707",
     "text": "Restrict Scope of Legal Aid",
-    "html": "restricting the scope of legal aid",
+    "html": "restricting the scope of <b>legal aid</b>",
     "categories": [
       "misc"
     ],
@@ -6994,7 +6994,7 @@
   {
     "id": "PW-6708",
     "text": "Further devolution to Wales",
-    "html": "transferring more powers to the Welsh Assembly",
+    "html": "transferring more powers to the <b>Welsh Assembly</b>",
     "categories": [
       "reform"
     ],
@@ -7114,7 +7114,7 @@
   {
     "id": "PW-6709",
     "text": "Further Devolution to Scotland",
-    "html": "transferring more powers to the Scottish Parliament",
+    "html": "transferring more powers to the <b>Scottish Parliament</b>",
     "categories": [
       "reform"
     ],
@@ -7212,7 +7212,7 @@
   {
     "id": "PW-6710",
     "text": "Cull Badgers",
-    "html": "culling badgers to tackle bovine tuberculosis",
+    "html": "<b>culling badgers</b> to tackle bovine tuberculosis",
     "categories": [
       "misc"
     ],
