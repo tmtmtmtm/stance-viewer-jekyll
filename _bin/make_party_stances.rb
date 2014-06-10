@@ -12,7 +12,7 @@ allstances = Parallel.map(issues, :in_threads => 5) do |i|
   warn "Generating stance on #{i['id']}"
   i['stances'] = Aspect.new(
     bloc:'party.id',
-    issue: Issue.new(i['id']),
+    issue: Issues.new('_data/issues.yaml').issue(i['id']),
   ).scored_blocs
   i
 end

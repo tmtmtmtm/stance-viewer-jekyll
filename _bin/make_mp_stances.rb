@@ -20,7 +20,7 @@ Parallel.each(issues, :in_threads => 10) do |i|
       Aspect.new(
         bloc:'voter.id',
         filter: "party.id:#{p['id']}",
-        issue: Issue.new(i['id']),
+        issue: Issues.new('_data/issues.yaml').issue(i['id']),
       ).scored_blocs
     }.reduce(:merge)
     

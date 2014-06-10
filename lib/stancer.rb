@@ -1,15 +1,23 @@
-class Issue
+class Issues
+  
+  def initialize(filename)
+    @filename = filename
+    @issues = JSON.parse(File.read(@filename))
+  end
 
+  def issue(id)
+    found = @issues.detect { |i| i['id'] == id }
+    raise "No such issue (#{id})" if found.nil?
+    Issue.new(found)
+  end
+  
+end
+
+class Issue
   require 'json'
 
-  @@datafile = 'stancer.json'
-  #FIXME
-  @@issues = JSON.parse(File.read('_data/issues.yaml'))
-
-  def initialize(id)
-    @id = id
-    @data = @@issues.detect { |i| i['id'] == id }
-    raise "No such issue (#{id})" if @data.nil?
+  def initialize(data)
+    @data = data
   end
 
   def aggregate_on (hash)
