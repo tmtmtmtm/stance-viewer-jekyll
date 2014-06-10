@@ -6348,3 +6348,9 @@ button.btn-bar {
   -webkit-column-count: 4;
   -webkit-column-gap: 20px;
 }
+
+span.stance {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
