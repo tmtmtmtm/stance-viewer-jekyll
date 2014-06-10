@@ -4,10 +4,21 @@ title: All Issues
 ---
 
 <h1 class="ng-scope">Issues</h1>
+{% capture counted_issues %}
+{% comment %} Order by number of aspects to the issue.
+See http://discomposer.com/sorting-by-generated-value/ 
+{% endcomment %}
+{% for issue in site.data.issues %}
+{% capture prefix %}{% for loop in (1..issue.aspects.size)%}a{% endfor %}{% endcapture %}
+{{prefix}}+++{{issue.id}}+++{{issue.html | replace: ' ', '---' }}+++{{issue.aspects.size}}
+{% endfor %}
+{% endcapture %}
+{% assign sorted_issues = counted_issues | split:' ' | sort %}
+
 <ul class="issues unstyled">
-  {% assign issuelist = site.data.issues | sort:"html" %}
-  {% for issue in issuelist %}
-  <li><a class="ng-binding" href="/issue/{{issue.id}}.html">On {{ issue.html }}</a></li>
+  {% for issue in sorted_issues reversed %}
+  {% assign parts = issue | split:'+++' %}
+  <li><a class="ng-binding" href="/issue/{{parts[1]}}.html">On {{ parts[2] | replace: '---', ' ' }}...</a></li>
   {% endfor %}
 </ul>
 
