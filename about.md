@@ -19,10 +19,12 @@ title: About
 * Theme etc. adapted from the work of the VoteIt team at ICFJ Bellagio. 
 Many thanks to [Montse](https:/twitter.com/montselobos), 
 [Chris](https:/twitter.com/chris_whong), [Paul](https:/twitter.com/pmackay), 
-[Greg](https:/twitter.com/longhotsummer) *&* [Friedrich](https:/twitter.com/pudo).
+[Greg](https:/twitter.com/longhotsummer) *&*
+[Friedrich](https:/twitter.com/pudo). 
+[![Team VoteIt at Work](/images/bellagio.jpg "Team VoteIt at Work")](https://twitter.com/montselobos/status/470879670981132288)
 
 * All ripped apart and put together again by [Tony Bowden](@tmtmtmtm)
 
-* More details on how to build a site like this yourself (though 
-hopefully by talking to me first!) at http://discomposer.com/stancer/
+* Read [more details](http://discomposer.com/stancer/) on how to build a
+site like this yourself (though hopefully by talking to me first!) 
 
