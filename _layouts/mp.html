@@ -4,7 +4,6 @@ layout: default
  
 <h2>{{ page.title }}</h2>
 
-<h4>History:</h4>
 <ul>
   {% for membership in page.memberships %}<li><a href="/party/{{membership.id}}.html">{{ membership.name }}</a> 
     {% if membership.start or membership.end %}({% endif %}
