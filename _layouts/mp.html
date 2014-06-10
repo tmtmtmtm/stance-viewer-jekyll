@@ -16,9 +16,19 @@ layout: default
 </ul>
 
 <h3>Stances:</h3>
+{% capture ranked_stances %}
+{% for issue in site.data.mpstances %}
+  {% assign stance = issue.stances[page.id] %}
+  {% if stance.num_votes > 0 %}
+  ++ENTRY++{{ stance.weight }}+++{{ issue.id }}+++{{ issue.html }}+++{% include stance.html scores=stance %}
+  {% endif %}
+{% endfor %}
+{% endcapture %}
+{% assign sorted_stances = ranked_stances | split:'++ENTRY++' | sort %}
+
 <ul>
-  {% for issue in site.data.mpstances %}
-    {% assign stance = issue.stances[page.id] %}
-    {% if stance.num_votes > 0 %}<li>{% include stance.html scores=stance %} <a href="/issue/{{issue.id}}.html">{{issue.html}}</a></li>{% endif %}
+  {% for stance in sorted_stances reversed %}
+  {% assign parts = stance | split:'+++' %}
+  {% if parts[1] %}<li>{{ parts[3] }} <a href="/issue/{{parts[1]}}.html">{{ parts[2] }}</a></li>{% endif %}
   {% endfor %}
 </ul>
