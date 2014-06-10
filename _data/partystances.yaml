@@ -5525,7 +5525,7 @@
   {
     "id": "PW-1084",
     "text": "Proportional Representation Voting System — For ",
-    "html": "a more proportional system for electing MPs",
+    "html": "a more <b>proportional system</b> for electing MPs",
     "categories": [
       "summary",
       "reform"
@@ -10266,7 +10266,7 @@
   {
     "id": "PW-6687",
     "text": "Academy Schools — for",
-    "html": "academy schools",
+    "html": "<b>academy schools</b>",
     "categories": [
       "education"
     ],

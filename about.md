@@ -23,5 +23,6 @@ Many thanks to [Montse](https:/twitter.com/montselobos),
 
 * All ripped apart and put together again by [Tony Bowden](@tmtmtmtm)
 
-
+* More details on how to build a site like this yourself (though 
+hopefully by talking to me first!) at http://discomposer.com/stancer/
 

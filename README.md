@@ -28,22 +28,18 @@ and access that via the [VoteIt API](https://github.com/tmtmtmtm/voteit-api).
 The code for doing all that can be found in the 
 [voteit-data-pw](https://github.com/tmtmtmtm/voteit-data-pw) repo.
 
+2. From your [Stancer](https://github.com/tmtmtmtm/stancer-pw), copy
+   ``issues.json`, ``mpstances.json``, and ``partystances.json`` into
+the ``_data`` directory. (Note that currently Jekyll requires that you
+also rename these as .yaml files rather than .json!)
 
-2. Create an ``issues.json`` file in [the _data directory](_data/). See,
-   for example, [voteit-data-pw](https://github.com/tmtmtmtm/voteit-data-pw)'s 
-``generate_stancer_data.rb`` script.
-
-3. Generate the MP stances, and Party stances from this:
-    * ruby -Ilib _bin/make_mp_stances.rb > _data/mpstances.yaml
-    * ruby -Ilib _bin/make_party_stances.rb > _data/partystances.yaml
-
-4. Generate stub pages for parties, people, and issues. Jekyll requires
+3. Generate stub pages for parties, people, and issues. Jekyll requires
    a minimal template for each file you want to display, even if that
 will be generated entirely out of data. You can create these files
 using:
-    * ruby -Ilib _bin/generate_mp_pages.rb
-    * ruby -Ilib _bin/generate_party_pages.rb
-    * ruby -Ilib _bin/generate_issue_pages.rb
+    * ruby _bin/generate_mp_pages.rb
+    * ruby _bin/generate_party_pages.rb
+    * ruby _bin/generate_issue_pages.rb
 
 ## DIY
 
@@ -55,4 +51,6 @@ least until I write up a lot more of how all the parts hang together.
 VoteIt and Popolo should cope well with lots of very different voting
 scenarios, but the Stancer is currently very UK specific. Splitting out a
 more generic component is a high priority.
+
+More details on it all can be found at http://discomposer.com/stancer/
 
