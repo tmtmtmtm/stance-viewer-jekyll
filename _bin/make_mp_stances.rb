@@ -33,7 +33,7 @@ Parallel.each(issues, :in_threads => 10) do |i|
   end
 end
 
-puts JSON.pretty_generate(allstances)
+puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i } )
 
 errors.each do |msg| 
   warn "#{msg}".yellow

@@ -17,4 +17,5 @@ allstances = Parallel.map(issues, :in_threads => 5) do |i|
   i
 end
 
-puts JSON.pretty_generate(allstances)
+puts JSON.pretty_generate(allstances.sort_by { |s| s['id'].sub(/^PW-/, '').to_i } )
+

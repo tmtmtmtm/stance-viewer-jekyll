@@ -1,5 +1,1594 @@
 [
   {
+    "id": "PW-363",
+    "text": "Foundation hospitals — In favour",
+    "html": "introducing <b>foundation hospitals</b>",
+    "categories": [
+      "health"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2003-05-07-177",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-05-07-178",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-07-08-280",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-11-19-381",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-11-19-388",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "uup": {
+        "num_votes": 21,
+        "score": 750.0,
+        "max": 1050,
+        "weight": 0.7142857142857143
+      },
+      "ind": {
+        "num_votes": 21,
+        "score": 275.0,
+        "max": 1050,
+        "weight": 0.2619047619047619
+      },
+      "con": {
+        "num_votes": 815,
+        "score": 5750.0,
+        "max": 40750,
+        "weight": 0.1411042944785276
+      },
+      "deputy speaker": {
+        "num_votes": 15,
+        "score": 375.0,
+        "max": 750,
+        "weight": 0.5
+      },
+      "sf": {
+        "num_votes": 20,
+        "score": 500.0,
+        "max": 1000,
+        "weight": 0.5
+      },
+      "lab": {
+        "num_votes": 2045,
+        "score": 81650.0,
+        "max": 102250,
+        "weight": 0.7985330073349634
+      },
+      "snp": {
+        "num_votes": 25,
+        "score": 250.0,
+        "max": 1250,
+        "weight": 0.2
+      },
+      "pc": {
+        "num_votes": 20,
+        "score": 0.0,
+        "max": 1000,
+        "weight": 0.0
+      },
+      "dup": {
+        "num_votes": 25,
+        "score": 150.0,
+        "max": 1250,
+        "weight": 0.12
+      },
+      "speaker": {
+        "num_votes": 5,
+        "score": 125.0,
+        "max": 250,
+        "weight": 0.5
+      },
+      "ldem": {
+        "num_votes": 267,
+        "score": 825.0,
+        "max": 13350,
+        "weight": 0.06179775280898876
+      },
+      "sdlp": {
+        "num_votes": 15,
+        "score": 375.0,
+        "max": 750,
+        "weight": 0.5
+      }
+    }
+  },
+  {
+    "id": "PW-811",
+    "text": "Smoking ban — In favour",
+    "html": "<b>smoking bans</b>",
+    "categories": [
+      "social",
+      "health"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-1999-05-04-164",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2002-04-29-220",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-04-14-162",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2005-03-18-148",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2006-02-14-163",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2006-02-14-164",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2006-02-14-165",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2006-02-14-166",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2010-10-13-70",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-02-10-207",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "uup": {
+        "num_votes": 31,
+        "score": 292.0,
+        "max": 590,
+        "weight": 0.49491525423728816
+      },
+      "ldem": {
+        "num_votes": 573,
+        "score": 10264.0,
+        "max": 14930,
+        "weight": 0.6874748827863363
+      },
+      "sf": {
+        "num_votes": 44,
+        "score": 500.0,
+        "max": 1200,
+        "weight": 0.4166666666666667
+      },
+      "con": {
+        "num_votes": 2045,
+        "score": 24344.0,
+        "max": 59250,
+        "weight": 0.4108691983122363
+      },
+      "lab": {
+        "num_votes": 3571,
+        "score": 60513.0,
+        "max": 86830,
+        "weight": 0.6969135091558217
+      },
+      "dup": {
+        "num_votes": 71,
+        "score": 1199.0,
+        "max": 1910,
+        "weight": 0.6277486910994764
+      },
+      "ind": {
+        "num_votes": 19,
+        "score": 248.0,
+        "max": 430,
+        "weight": 0.5767441860465117
+      },
+      "sdlp": {
+        "num_votes": 30,
+        "score": 522.0,
+        "max": 780,
+        "weight": 0.6692307692307692
+      },
+      "pc": {
+        "num_votes": 34,
+        "score": 568.0,
+        "max": 860,
+        "weight": 0.6604651162790698
+      },
+      "res": {
+        "num_votes": 5,
+        "score": 53.0,
+        "max": 130,
+        "weight": 0.4076923076923077
+      },
+      "deputy speaker": {
+        "num_votes": 24,
+        "score": 168.0,
+        "max": 480,
+        "weight": 0.35
+      },
+      "alliance": {
+        "num_votes": 2,
+        "score": 75.0,
+        "max": 100,
+        "weight": 0.75
+      },
+      "snp": {
+        "num_votes": 57,
+        "score": 654.0,
+        "max": 1490,
+        "weight": 0.4389261744966443
+      },
+      "green": {
+        "num_votes": 2,
+        "score": 100.0,
+        "max": 100,
+        "weight": 1.0
+      },
+      "speaker": {
+        "num_votes": 10,
+        "score": 106.0,
+        "max": 260,
+        "weight": 0.4076923076923077
+      },
+      "ukup": {
+        "num_votes": 1,
+        "score": 1.0,
+        "max": 10,
+        "weight": 0.1
+      }
+    }
+  },
+  {
+    "id": "PW-826",
+    "text": "Homosexuality — Equal rights",
+    "html": "equal <b>gay rights</b>",
+    "categories": [
+      "social"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-1998-06-22-311",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-1999-01-25-46",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-1999-02-10-63",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-1999-03-01-79",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2000-02-10-71",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2000-07-05-253",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2001-10-24-41",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2001-10-29-45",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2002-05-16-244",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2002-05-20-246",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2002-11-04-345",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-03-10-108",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-03-10-109",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2004-10-12-256",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2004-11-09-314",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2004-11-09-315",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-19-79",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2008-05-20-197",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2008-05-20-198",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-02-05-151",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-02-05-153",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-02-05-154",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2013-05-21-11",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-03-05-216",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-03-05-220",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2014-03-05-221",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "speaker": {
+        "num_votes": 26,
+        "score": 242.0,
+        "max": 620,
+        "weight": 0.3903225806451613
+      },
+      "con": {
+        "num_votes": 5318,
+        "score": 54441.0,
+        "max": 135860,
+        "weight": 0.4007139702635065
+      },
+      "sf": {
+        "num_votes": 99,
+        "score": 1011.0,
+        "max": 2510,
+        "weight": 0.40278884462151393
+      },
+      "lab": {
+        "num_votes": 9453,
+        "score": 173042.0,
+        "max": 215690,
+        "weight": 0.8022717789420001
+      },
+      "sdlp": {
+        "num_votes": 78,
+        "score": 863.0,
+        "max": 1860,
+        "weight": 0.4639784946236559
+      },
+      "ldem": {
+        "num_votes": 1396,
+        "score": 27190.0,
+        "max": 33840,
+        "weight": 0.8034869976359338
+      },
+      "snp": {
+        "num_votes": 146,
+        "score": 1913.0,
+        "max": 3500,
+        "weight": 0.5465714285714286
+      },
+      "dup": {
+        "num_votes": 148,
+        "score": 486.0,
+        "max": 3840,
+        "weight": 0.1265625
+      },
+      "ind": {
+        "num_votes": 55,
+        "score": 268.0,
+        "max": 1150,
+        "weight": 0.23304347826086957
+      },
+      "ukip": {
+        "num_votes": 2,
+        "score": 2.0,
+        "max": 20,
+        "weight": 0.1
+      },
+      "ukup": {
+        "num_votes": 6,
+        "score": 30.0,
+        "max": 100,
+        "weight": 0.3
+      },
+      "deputy speaker": {
+        "num_votes": 57,
+        "score": 417.0,
+        "max": 1170,
+        "weight": 0.3564102564102564
+      },
+      "uup": {
+        "num_votes": 119,
+        "score": 612.0,
+        "max": 2310,
+        "weight": 0.2649350649350649
+      },
+      "alliance": {
+        "num_votes": 7,
+        "score": 205.0,
+        "max": 230,
+        "weight": 0.8913043478260869
+      },
+      "pc": {
+        "num_votes": 94,
+        "score": 1775.0,
+        "max": 2180,
+        "weight": 0.8142201834862385
+      },
+      "green": {
+        "num_votes": 7,
+        "score": 230.0,
+        "max": 230,
+        "weight": 1.0
+      },
+      "res": {
+        "num_votes": 10,
+        "score": 155.0,
+        "max": 300,
+        "weight": 0.5166666666666667
+      }
+    }
+  },
+  {
+    "id": "PW-837",
+    "text": "Fully Elected House of Lords",
+    "html": "a <strong>wholly elected</strong> House of Lords",
+    "categories": [
+      "summary",
+      "reform"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2003-02-04-75",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-02-04-76",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-02-04-77",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-02-04-78",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-02-04-79",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-07-65",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-07-66",
+        "result": "failed",
+        "direction": "Majority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-07-67",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-07-68",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-07-69",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-07-70",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2011-06-23-306",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2012-07-10-47",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "sf": {
+        "num_votes": 60,
+        "score": 420.0,
+        "max": 1200,
+        "weight": 0.35
+      },
+      "con": {
+        "num_votes": 2603,
+        "score": 27003.0,
+        "max": 53950,
+        "weight": 0.500518999073216
+      },
+      "snp": {
+        "num_votes": 73,
+        "score": 865.0,
+        "max": 1450,
+        "weight": 0.596551724137931
+      },
+      "ind": {
+        "num_votes": 30,
+        "score": 291.0,
+        "max": 580,
+        "weight": 0.5017241379310344
+      },
+      "pc": {
+        "num_votes": 44,
+        "score": 607.0,
+        "max": 800,
+        "weight": 0.75875
+      },
+      "dup": {
+        "num_votes": 95,
+        "score": 603.0,
+        "max": 1990,
+        "weight": 0.30301507537688444
+      },
+      "uup": {
+        "num_votes": 36,
+        "score": 127.0,
+        "max": 440,
+        "weight": 0.28863636363636364
+      },
+      "speaker": {
+        "num_votes": 13,
+        "score": 85.0,
+        "max": 250,
+        "weight": 0.34
+      },
+      "sdlp": {
+        "num_votes": 39,
+        "score": 329.0,
+        "max": 750,
+        "weight": 0.43866666666666665
+      },
+      "lab": {
+        "num_votes": 4676,
+        "score": 46509.0,
+        "max": 85200,
+        "weight": 0.5458802816901408
+      },
+      "deputy speaker": {
+        "num_votes": 33,
+        "score": 177.0,
+        "max": 570,
+        "weight": 0.3105263157894737
+      },
+      "res": {
+        "num_votes": 7,
+        "score": 154.0,
+        "max": 190,
+        "weight": 0.8105263157894737
+      },
+      "ldem": {
+        "num_votes": 757,
+        "score": 12699.0,
+        "max": 14890,
+        "weight": 0.8528542646071189
+      },
+      "alliance": {
+        "num_votes": 2,
+        "score": 51.0,
+        "max": 60,
+        "weight": 0.85
+      },
+      "green": {
+        "num_votes": 2,
+        "score": 50.0,
+        "max": 60,
+        "weight": 0.8333333333333334
+      }
+    }
+  },
+  {
+    "id": "PW-975",
+    "text": "Iraq Investigation — Necessary",
+    "html": "an <strong>investigation</strong> into the Iraq war",
+    "categories": [
+      "foreignpolicy"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2003-06-04-217",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-07-16-294",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-09-10-307",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-10-22-335",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2003-10-22-336",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2004-01-13-27",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2004-03-09-80",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2004-05-17-176",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2006-10-31-330",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2006-10-31-331",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-06-11-135",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-06-11-136",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2008-03-25-133",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2008-03-25-134",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2009-03-25-88",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2009-03-25-89",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      }
+    ],
+    "stances": {
+      "dup": {
+        "num_votes": 115,
+        "score": 371.0,
+        "max": 1150,
+        "weight": 0.3226086956521739
+      },
+      "deputy speaker": {
+        "num_votes": 48,
+        "score": 48.0,
+        "max": 480,
+        "weight": 0.1
+      },
+      "sdlp": {
+        "num_votes": 48,
+        "score": 129.0,
+        "max": 480,
+        "weight": 0.26875
+      },
+      "res": {
+        "num_votes": 8,
+        "score": 35.0,
+        "max": 80,
+        "weight": 0.4375
+      },
+      "ind": {
+        "num_votes": 72,
+        "score": 462.0,
+        "max": 720,
+        "weight": 0.6416666666666667
+      },
+      "snp": {
+        "num_votes": 90,
+        "score": 819.0,
+        "max": 900,
+        "weight": 0.91
+      },
+      "uup": {
+        "num_votes": 41,
+        "score": 60.0,
+        "max": 410,
+        "weight": 0.14634146341463414
+      },
+      "ldem": {
+        "num_votes": 933,
+        "score": 8313.0,
+        "max": 9330,
+        "weight": 0.8909967845659164
+      },
+      "sf": {
+        "num_votes": 72,
+        "score": 72.0,
+        "max": 720,
+        "weight": 0.1
+      },
+      "pc": {
+        "num_votes": 56,
+        "score": 470.0,
+        "max": 560,
+        "weight": 0.8392857142857143
+      },
+      "lab": {
+        "num_votes": 6082,
+        "score": 2354.0,
+        "max": 60820,
+        "weight": 0.03870437356132851
+      },
+      "con": {
+        "num_votes": 2857,
+        "score": 22869.0,
+        "max": 28570,
+        "weight": 0.8004550227511376
+      },
+      "speaker": {
+        "num_votes": 16,
+        "score": 16.0,
+        "max": 160,
+        "weight": 0.1
+      }
+    }
+  },
+  {
+    "id": "PW-984",
+    "text": "Trident replacement — In favour",
+    "html": "replacing <b>Trident</b> with a new nuclear weapons system",
+    "categories": [
+      "summary",
+      "foreignpolicy"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2007-03-14-77",
+        "result": "failed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-03-14-78",
+        "result": "passed",
+        "direction": "Majority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "deputy speaker": {
+        "num_votes": 6,
+        "score": 150.0,
+        "max": 300,
+        "weight": 0.5
+      },
+      "dup": {
+        "num_votes": 18,
+        "score": 725.0,
+        "max": 900,
+        "weight": 0.8055555555555556
+      },
+      "uup": {
+        "num_votes": 2,
+        "score": 0.0,
+        "max": 100,
+        "weight": 0.0
+      },
+      "ldem": {
+        "num_votes": 126,
+        "score": 300.0,
+        "max": 6300,
+        "weight": 0.047619047619047616
+      },
+      "pc": {
+        "num_votes": 6,
+        "score": 0.0,
+        "max": 300,
+        "weight": 0.0
+      },
+      "lab": {
+        "num_votes": 704,
+        "score": 24725.0,
+        "max": 35200,
+        "weight": 0.7024147727272727
+      },
+      "sdlp": {
+        "num_votes": 6,
+        "score": 75.0,
+        "max": 300,
+        "weight": 0.25
+      },
+      "res": {
+        "num_votes": 2,
+        "score": 0.0,
+        "max": 100,
+        "weight": 0.0
+      },
+      "con": {
+        "num_votes": 392,
+        "score": 18375.0,
+        "max": 19600,
+        "weight": 0.9375
+      },
+      "sf": {
+        "num_votes": 10,
+        "score": 250.0,
+        "max": 500,
+        "weight": 0.5
+      },
+      "speaker": {
+        "num_votes": 2,
+        "score": 50.0,
+        "max": 100,
+        "weight": 0.5
+      },
+      "snp": {
+        "num_votes": 12,
+        "score": 0.0,
+        "max": 600,
+        "weight": 0.0
+      },
+      "ind": {
+        "num_votes": 6,
+        "score": 0.0,
+        "max": 300,
+        "weight": 0.0
+      }
+    }
+  },
+  {
+    "id": "PW-996",
+    "text": "Transparency of Parliament",
+    "html": "a <b>transparent Parliament</b>",
+    "categories": [
+      "reform"
+    ],
+    "aspects": [
+      {
+        "motion_id": "pw-2007-04-20-94",
+        "result": "failed",
+        "direction": "minority (strong)",
+        "weights": {
+          "yes": 50,
+          "absent": 25,
+          "both": 25,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-04-20-95",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-05-18-119",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-05-18-120",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-05-18-121",
+        "result": "failed",
+        "direction": "minority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-05-18-122",
+        "result": "passed",
+        "direction": "minority (strong)",
+        "weights": {
+          "no": 50,
+          "absent": 25,
+          "both": 25,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2007-05-18-123",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2008-07-03-253",
+        "result": "passed",
+        "direction": "minority",
+        "weights": {
+          "no": 10,
+          "absent": 1,
+          "both": 1,
+          "yes": 0
+        }
+      },
+      {
+        "motion_id": "pw-2009-04-30-106",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      },
+      {
+        "motion_id": "pw-2009-04-30-109",
+        "result": "passed",
+        "direction": "Majority",
+        "weights": {
+          "yes": 10,
+          "absent": 1,
+          "both": 1,
+          "no": 0
+        }
+      }
+    ],
+    "stances": {
+      "uup": {
+        "num_votes": 10,
+        "score": 76.0,
+        "max": 180,
+        "weight": 0.4222222222222222
+      },
+      "con": {
+        "num_votes": 1950,
+        "score": 11487.0,
+        "max": 35180,
+        "weight": 0.3265207504263786
+      },
+      "snp": {
+        "num_votes": 62,
+        "score": 458.0,
+        "max": 1100,
+        "weight": 0.4163636363636364
+      },
+      "lab": {
+        "num_votes": 3514,
+        "score": 22109.0,
+        "max": 63300,
+        "weight": 0.3492733017377567
+      },
+      "ldem": {
+        "num_votes": 630,
+        "score": 5772.0,
+        "max": 11340,
+        "weight": 0.508994708994709
+      },
+      "ind": {
+        "num_votes": 41,
+        "score": 243.0,
+        "max": 650,
+        "weight": 0.37384615384615383
+      },
+      "dup": {
+        "num_votes": 90,
+        "score": 594.0,
+        "max": 1620,
+        "weight": 0.36666666666666664
+      },
+      "speaker": {
+        "num_votes": 10,
+        "score": 58.0,
+        "max": 180,
+        "weight": 0.32222222222222224
+      },
+      "sf": {
+        "num_votes": 50,
+        "score": 290.0,
+        "max": 900,
+        "weight": 0.32222222222222224
+      },
+      "pc": {
+        "num_votes": 30,
+        "score": 253.0,
+        "max": 540,
+        "weight": 0.4685185185185185
+      },
+      "sdlp": {
+        "num_votes": 30,
+        "score": 174.0,
+        "max": 540,
+        "weight": 0.32222222222222224
+      },
+      "res": {
+        "num_votes": 10,
+        "score": 110.0,
+        "max": 180,
+        "weight": 0.6111111111111112
+      },
+      "deputy speaker": {
+        "num_votes": 30,
+        "score": 174.0,
+        "max": 540,
+        "weight": 0.32222222222222224
+      },
+      "ukip": {
+        "num_votes": 1,
+        "score": 1.0,
+        "max": 10,
+        "weight": 0.1
+      }
+    }
+  },
+  {
     "id": "PW-1027",
     "text": "Referendum on the UK's membership of the EU — For",
     "html": "a referendum on the UK&rsquo;s membership of the <b>EU</b>",
@@ -5742,145 +7331,6 @@
         "score": 0.0,
         "max": 50,
         "weight": 0.0
-      }
-    }
-  },
-  {
-    "id": "PW-363",
-    "text": "Foundation hospitals — In favour",
-    "html": "introducing <b>foundation hospitals</b>",
-    "categories": [
-      "health"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-2003-05-07-177",
-        "result": "failed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "no": 50,
-          "absent": 25,
-          "both": 25,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-05-07-178",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-07-08-280",
-        "result": "failed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "no": 50,
-          "absent": 25,
-          "both": 25,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-11-19-381",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-11-19-388",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      }
-    ],
-    "stances": {
-      "uup": {
-        "num_votes": 21,
-        "score": 750.0,
-        "max": 1050,
-        "weight": 0.7142857142857143
-      },
-      "ind": {
-        "num_votes": 21,
-        "score": 275.0,
-        "max": 1050,
-        "weight": 0.2619047619047619
-      },
-      "con": {
-        "num_votes": 815,
-        "score": 5750.0,
-        "max": 40750,
-        "weight": 0.1411042944785276
-      },
-      "deputy speaker": {
-        "num_votes": 15,
-        "score": 375.0,
-        "max": 750,
-        "weight": 0.5
-      },
-      "sf": {
-        "num_votes": 20,
-        "score": 500.0,
-        "max": 1000,
-        "weight": 0.5
-      },
-      "lab": {
-        "num_votes": 2045,
-        "score": 81650.0,
-        "max": 102250,
-        "weight": 0.7985330073349634
-      },
-      "snp": {
-        "num_votes": 25,
-        "score": 250.0,
-        "max": 1250,
-        "weight": 0.2
-      },
-      "pc": {
-        "num_votes": 20,
-        "score": 0.0,
-        "max": 1000,
-        "weight": 0.0
-      },
-      "dup": {
-        "num_votes": 25,
-        "score": 150.0,
-        "max": 1250,
-        "weight": 0.12
-      },
-      "speaker": {
-        "num_votes": 5,
-        "score": 125.0,
-        "max": 250,
-        "weight": 0.5
-      },
-      "ldem": {
-        "num_votes": 267,
-        "score": 825.0,
-        "max": 13350,
-        "weight": 0.06179775280898876
-      },
-      "sdlp": {
-        "num_votes": 15,
-        "score": 375.0,
-        "max": 750,
-        "weight": 0.5
       }
     }
   },
@@ -11878,1456 +13328,6 @@
         "score": 100.0,
         "max": 200,
         "weight": 0.5
-      }
-    }
-  },
-  {
-    "id": "PW-811",
-    "text": "Smoking ban — In favour",
-    "html": "<b>smoking bans</b>",
-    "categories": [
-      "social",
-      "health"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-1999-05-04-164",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2002-04-29-220",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-04-14-162",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2005-03-18-148",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2006-02-14-163",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2006-02-14-164",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2006-02-14-165",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2006-02-14-166",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2010-10-13-70",
-        "result": "failed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "no": 50,
-          "absent": 25,
-          "both": 25,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2014-02-10-207",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      }
-    ],
-    "stances": {
-      "uup": {
-        "num_votes": 31,
-        "score": 292.0,
-        "max": 590,
-        "weight": 0.49491525423728816
-      },
-      "ldem": {
-        "num_votes": 573,
-        "score": 10264.0,
-        "max": 14930,
-        "weight": 0.6874748827863363
-      },
-      "sf": {
-        "num_votes": 44,
-        "score": 500.0,
-        "max": 1200,
-        "weight": 0.4166666666666667
-      },
-      "con": {
-        "num_votes": 2045,
-        "score": 24344.0,
-        "max": 59250,
-        "weight": 0.4108691983122363
-      },
-      "lab": {
-        "num_votes": 3571,
-        "score": 60513.0,
-        "max": 86830,
-        "weight": 0.6969135091558217
-      },
-      "dup": {
-        "num_votes": 71,
-        "score": 1199.0,
-        "max": 1910,
-        "weight": 0.6277486910994764
-      },
-      "ind": {
-        "num_votes": 19,
-        "score": 248.0,
-        "max": 430,
-        "weight": 0.5767441860465117
-      },
-      "sdlp": {
-        "num_votes": 30,
-        "score": 522.0,
-        "max": 780,
-        "weight": 0.6692307692307692
-      },
-      "pc": {
-        "num_votes": 34,
-        "score": 568.0,
-        "max": 860,
-        "weight": 0.6604651162790698
-      },
-      "res": {
-        "num_votes": 5,
-        "score": 53.0,
-        "max": 130,
-        "weight": 0.4076923076923077
-      },
-      "deputy speaker": {
-        "num_votes": 24,
-        "score": 168.0,
-        "max": 480,
-        "weight": 0.35
-      },
-      "alliance": {
-        "num_votes": 2,
-        "score": 75.0,
-        "max": 100,
-        "weight": 0.75
-      },
-      "snp": {
-        "num_votes": 57,
-        "score": 654.0,
-        "max": 1490,
-        "weight": 0.4389261744966443
-      },
-      "green": {
-        "num_votes": 2,
-        "score": 100.0,
-        "max": 100,
-        "weight": 1.0
-      },
-      "speaker": {
-        "num_votes": 10,
-        "score": 106.0,
-        "max": 260,
-        "weight": 0.4076923076923077
-      },
-      "ukup": {
-        "num_votes": 1,
-        "score": 1.0,
-        "max": 10,
-        "weight": 0.1
-      }
-    }
-  },
-  {
-    "id": "PW-826",
-    "text": "Homosexuality — Equal rights",
-    "html": "equal <b>gay rights</b>",
-    "categories": [
-      "social"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-1998-06-22-311",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-1999-01-25-46",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-1999-02-10-63",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-1999-03-01-79",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2000-02-10-71",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2000-07-05-253",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2001-10-24-41",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2001-10-29-45",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2002-05-16-244",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2002-05-20-246",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2002-11-04-345",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-03-10-108",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-03-10-109",
-        "result": "failed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "no": 50,
-          "absent": 25,
-          "both": 25,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2004-10-12-256",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2004-11-09-314",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2004-11-09-315",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-19-79",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2008-05-20-197",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2008-05-20-198",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2013-02-05-151",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2013-02-05-153",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2013-02-05-154",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2013-05-21-11",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2014-03-05-216",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2014-03-05-220",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2014-03-05-221",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      }
-    ],
-    "stances": {
-      "speaker": {
-        "num_votes": 26,
-        "score": 242.0,
-        "max": 620,
-        "weight": 0.3903225806451613
-      },
-      "con": {
-        "num_votes": 5318,
-        "score": 54441.0,
-        "max": 135860,
-        "weight": 0.4007139702635065
-      },
-      "sf": {
-        "num_votes": 99,
-        "score": 1011.0,
-        "max": 2510,
-        "weight": 0.40278884462151393
-      },
-      "lab": {
-        "num_votes": 9453,
-        "score": 173042.0,
-        "max": 215690,
-        "weight": 0.8022717789420001
-      },
-      "sdlp": {
-        "num_votes": 78,
-        "score": 863.0,
-        "max": 1860,
-        "weight": 0.4639784946236559
-      },
-      "ldem": {
-        "num_votes": 1396,
-        "score": 27190.0,
-        "max": 33840,
-        "weight": 0.8034869976359338
-      },
-      "snp": {
-        "num_votes": 146,
-        "score": 1913.0,
-        "max": 3500,
-        "weight": 0.5465714285714286
-      },
-      "dup": {
-        "num_votes": 148,
-        "score": 486.0,
-        "max": 3840,
-        "weight": 0.1265625
-      },
-      "ind": {
-        "num_votes": 55,
-        "score": 268.0,
-        "max": 1150,
-        "weight": 0.23304347826086957
-      },
-      "ukip": {
-        "num_votes": 2,
-        "score": 2.0,
-        "max": 20,
-        "weight": 0.1
-      },
-      "ukup": {
-        "num_votes": 6,
-        "score": 30.0,
-        "max": 100,
-        "weight": 0.3
-      },
-      "deputy speaker": {
-        "num_votes": 57,
-        "score": 417.0,
-        "max": 1170,
-        "weight": 0.3564102564102564
-      },
-      "uup": {
-        "num_votes": 119,
-        "score": 612.0,
-        "max": 2310,
-        "weight": 0.2649350649350649
-      },
-      "alliance": {
-        "num_votes": 7,
-        "score": 205.0,
-        "max": 230,
-        "weight": 0.8913043478260869
-      },
-      "pc": {
-        "num_votes": 94,
-        "score": 1775.0,
-        "max": 2180,
-        "weight": 0.8142201834862385
-      },
-      "green": {
-        "num_votes": 7,
-        "score": 230.0,
-        "max": 230,
-        "weight": 1.0
-      },
-      "res": {
-        "num_votes": 10,
-        "score": 155.0,
-        "max": 300,
-        "weight": 0.5166666666666667
-      }
-    }
-  },
-  {
-    "id": "PW-837",
-    "text": "Fully Elected House of Lords",
-    "html": "a <strong>wholly elected</strong> House of Lords",
-    "categories": [
-      "summary",
-      "reform"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-2003-02-04-75",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-02-04-76",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-02-04-77",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-02-04-78",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-02-04-79",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-07-65",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-07-66",
-        "result": "failed",
-        "direction": "Majority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-07-67",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-07-68",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-07-69",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-07-70",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2011-06-23-306",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2012-07-10-47",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      }
-    ],
-    "stances": {
-      "sf": {
-        "num_votes": 60,
-        "score": 420.0,
-        "max": 1200,
-        "weight": 0.35
-      },
-      "con": {
-        "num_votes": 2603,
-        "score": 27003.0,
-        "max": 53950,
-        "weight": 0.500518999073216
-      },
-      "snp": {
-        "num_votes": 73,
-        "score": 865.0,
-        "max": 1450,
-        "weight": 0.596551724137931
-      },
-      "ind": {
-        "num_votes": 30,
-        "score": 291.0,
-        "max": 580,
-        "weight": 0.5017241379310344
-      },
-      "pc": {
-        "num_votes": 44,
-        "score": 607.0,
-        "max": 800,
-        "weight": 0.75875
-      },
-      "dup": {
-        "num_votes": 95,
-        "score": 603.0,
-        "max": 1990,
-        "weight": 0.30301507537688444
-      },
-      "uup": {
-        "num_votes": 36,
-        "score": 127.0,
-        "max": 440,
-        "weight": 0.28863636363636364
-      },
-      "speaker": {
-        "num_votes": 13,
-        "score": 85.0,
-        "max": 250,
-        "weight": 0.34
-      },
-      "sdlp": {
-        "num_votes": 39,
-        "score": 329.0,
-        "max": 750,
-        "weight": 0.43866666666666665
-      },
-      "lab": {
-        "num_votes": 4676,
-        "score": 46509.0,
-        "max": 85200,
-        "weight": 0.5458802816901408
-      },
-      "deputy speaker": {
-        "num_votes": 33,
-        "score": 177.0,
-        "max": 570,
-        "weight": 0.3105263157894737
-      },
-      "res": {
-        "num_votes": 7,
-        "score": 154.0,
-        "max": 190,
-        "weight": 0.8105263157894737
-      },
-      "ldem": {
-        "num_votes": 757,
-        "score": 12699.0,
-        "max": 14890,
-        "weight": 0.8528542646071189
-      },
-      "alliance": {
-        "num_votes": 2,
-        "score": 51.0,
-        "max": 60,
-        "weight": 0.85
-      },
-      "green": {
-        "num_votes": 2,
-        "score": 50.0,
-        "max": 60,
-        "weight": 0.8333333333333334
-      }
-    }
-  },
-  {
-    "id": "PW-975",
-    "text": "Iraq Investigation — Necessary",
-    "html": "an <strong>investigation</strong> into the Iraq war",
-    "categories": [
-      "foreignpolicy"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-2003-06-04-217",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-07-16-294",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-09-10-307",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-10-22-335",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2003-10-22-336",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2004-01-13-27",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2004-03-09-80",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2004-05-17-176",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2006-10-31-330",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2006-10-31-331",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-06-11-135",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-06-11-136",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2008-03-25-133",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2008-03-25-134",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2009-03-25-88",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2009-03-25-89",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      }
-    ],
-    "stances": {
-      "dup": {
-        "num_votes": 115,
-        "score": 371.0,
-        "max": 1150,
-        "weight": 0.3226086956521739
-      },
-      "deputy speaker": {
-        "num_votes": 48,
-        "score": 48.0,
-        "max": 480,
-        "weight": 0.1
-      },
-      "sdlp": {
-        "num_votes": 48,
-        "score": 129.0,
-        "max": 480,
-        "weight": 0.26875
-      },
-      "res": {
-        "num_votes": 8,
-        "score": 35.0,
-        "max": 80,
-        "weight": 0.4375
-      },
-      "ind": {
-        "num_votes": 72,
-        "score": 462.0,
-        "max": 720,
-        "weight": 0.6416666666666667
-      },
-      "snp": {
-        "num_votes": 90,
-        "score": 819.0,
-        "max": 900,
-        "weight": 0.91
-      },
-      "uup": {
-        "num_votes": 41,
-        "score": 60.0,
-        "max": 410,
-        "weight": 0.14634146341463414
-      },
-      "ldem": {
-        "num_votes": 933,
-        "score": 8313.0,
-        "max": 9330,
-        "weight": 0.8909967845659164
-      },
-      "sf": {
-        "num_votes": 72,
-        "score": 72.0,
-        "max": 720,
-        "weight": 0.1
-      },
-      "pc": {
-        "num_votes": 56,
-        "score": 470.0,
-        "max": 560,
-        "weight": 0.8392857142857143
-      },
-      "lab": {
-        "num_votes": 6082,
-        "score": 2354.0,
-        "max": 60820,
-        "weight": 0.03870437356132851
-      },
-      "con": {
-        "num_votes": 2857,
-        "score": 22869.0,
-        "max": 28570,
-        "weight": 0.8004550227511376
-      },
-      "speaker": {
-        "num_votes": 16,
-        "score": 16.0,
-        "max": 160,
-        "weight": 0.1
-      }
-    }
-  },
-  {
-    "id": "PW-984",
-    "text": "Trident replacement — In favour",
-    "html": "replacing <b>Trident</b> with a new nuclear weapons system",
-    "categories": [
-      "summary",
-      "foreignpolicy"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-2007-03-14-77",
-        "result": "failed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "no": 50,
-          "absent": 25,
-          "both": 25,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-03-14-78",
-        "result": "passed",
-        "direction": "Majority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      }
-    ],
-    "stances": {
-      "deputy speaker": {
-        "num_votes": 6,
-        "score": 150.0,
-        "max": 300,
-        "weight": 0.5
-      },
-      "dup": {
-        "num_votes": 18,
-        "score": 725.0,
-        "max": 900,
-        "weight": 0.8055555555555556
-      },
-      "uup": {
-        "num_votes": 2,
-        "score": 0.0,
-        "max": 100,
-        "weight": 0.0
-      },
-      "ldem": {
-        "num_votes": 126,
-        "score": 300.0,
-        "max": 6300,
-        "weight": 0.047619047619047616
-      },
-      "pc": {
-        "num_votes": 6,
-        "score": 0.0,
-        "max": 300,
-        "weight": 0.0
-      },
-      "lab": {
-        "num_votes": 704,
-        "score": 24725.0,
-        "max": 35200,
-        "weight": 0.7024147727272727
-      },
-      "sdlp": {
-        "num_votes": 6,
-        "score": 75.0,
-        "max": 300,
-        "weight": 0.25
-      },
-      "res": {
-        "num_votes": 2,
-        "score": 0.0,
-        "max": 100,
-        "weight": 0.0
-      },
-      "con": {
-        "num_votes": 392,
-        "score": 18375.0,
-        "max": 19600,
-        "weight": 0.9375
-      },
-      "sf": {
-        "num_votes": 10,
-        "score": 250.0,
-        "max": 500,
-        "weight": 0.5
-      },
-      "speaker": {
-        "num_votes": 2,
-        "score": 50.0,
-        "max": 100,
-        "weight": 0.5
-      },
-      "snp": {
-        "num_votes": 12,
-        "score": 0.0,
-        "max": 600,
-        "weight": 0.0
-      },
-      "ind": {
-        "num_votes": 6,
-        "score": 0.0,
-        "max": 300,
-        "weight": 0.0
-      }
-    }
-  },
-  {
-    "id": "PW-996",
-    "text": "Transparency of Parliament",
-    "html": "a <b>transparent Parliament</b>",
-    "categories": [
-      "reform"
-    ],
-    "aspects": [
-      {
-        "motion_id": "pw-2007-04-20-94",
-        "result": "failed",
-        "direction": "minority (strong)",
-        "weights": {
-          "yes": 50,
-          "absent": 25,
-          "both": 25,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-04-20-95",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-05-18-119",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-05-18-120",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-05-18-121",
-        "result": "failed",
-        "direction": "minority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-05-18-122",
-        "result": "passed",
-        "direction": "minority (strong)",
-        "weights": {
-          "no": 50,
-          "absent": 25,
-          "both": 25,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2007-05-18-123",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2008-07-03-253",
-        "result": "passed",
-        "direction": "minority",
-        "weights": {
-          "no": 10,
-          "absent": 1,
-          "both": 1,
-          "yes": 0
-        }
-      },
-      {
-        "motion_id": "pw-2009-04-30-106",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      },
-      {
-        "motion_id": "pw-2009-04-30-109",
-        "result": "passed",
-        "direction": "Majority",
-        "weights": {
-          "yes": 10,
-          "absent": 1,
-          "both": 1,
-          "no": 0
-        }
-      }
-    ],
-    "stances": {
-      "uup": {
-        "num_votes": 10,
-        "score": 76.0,
-        "max": 180,
-        "weight": 0.4222222222222222
-      },
-      "con": {
-        "num_votes": 1950,
-        "score": 11487.0,
-        "max": 35180,
-        "weight": 0.3265207504263786
-      },
-      "snp": {
-        "num_votes": 62,
-        "score": 458.0,
-        "max": 1100,
-        "weight": 0.4163636363636364
-      },
-      "lab": {
-        "num_votes": 3514,
-        "score": 22109.0,
-        "max": 63300,
-        "weight": 0.3492733017377567
-      },
-      "ldem": {
-        "num_votes": 630,
-        "score": 5772.0,
-        "max": 11340,
-        "weight": 0.508994708994709
-      },
-      "ind": {
-        "num_votes": 41,
-        "score": 243.0,
-        "max": 650,
-        "weight": 0.37384615384615383
-      },
-      "dup": {
-        "num_votes": 90,
-        "score": 594.0,
-        "max": 1620,
-        "weight": 0.36666666666666664
-      },
-      "speaker": {
-        "num_votes": 10,
-        "score": 58.0,
-        "max": 180,
-        "weight": 0.32222222222222224
-      },
-      "sf": {
-        "num_votes": 50,
-        "score": 290.0,
-        "max": 900,
-        "weight": 0.32222222222222224
-      },
-      "pc": {
-        "num_votes": 30,
-        "score": 253.0,
-        "max": 540,
-        "weight": 0.4685185185185185
-      },
-      "sdlp": {
-        "num_votes": 30,
-        "score": 174.0,
-        "max": 540,
-        "weight": 0.32222222222222224
-      },
-      "res": {
-        "num_votes": 10,
-        "score": 110.0,
-        "max": 180,
-        "weight": 0.6111111111111112
-      },
-      "deputy speaker": {
-        "num_votes": 30,
-        "score": 174.0,
-        "max": 540,
-        "weight": 0.32222222222222224
-      },
-      "ukip": {
-        "num_votes": 1,
-        "score": 1.0,
-        "max": 10,
-        "weight": 0.1
       }
     }
   }
