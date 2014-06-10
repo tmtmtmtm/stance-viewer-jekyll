@@ -17,7 +17,7 @@ it, and then see clearly how any person, party, or any kind of grouping
 voted on that issue.
 
 ``Stancer-UK`` is a version of this working on UK vote data. It's built
-on GitHub, and can be viewed at http://ukvotes.discomposer.com/
+on GitHub Pages, and can be viewed at http://ukvotes.discomposer.com/
 
 ## Details
 
@@ -53,6 +53,6 @@ everything here and see how far you get (most of the logic is in the
 least until I write up a lot more of how all the parts hang together.
 
 VoteIt and Popolo should cope well with lots of very different voting
-scenarios, but Stancer is currently very UK specific. Splitting out a
+scenarios, but the Stancer is currently very UK specific. Splitting out a
 more generic component is a high priority.
 
