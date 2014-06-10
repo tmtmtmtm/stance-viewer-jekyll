@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Credits
+title: About
 ---
 
-# Credits
+# About
 
 * Data from from [Public Whip](http://www.publicwhip.org.uk/) and
 [TheyWorkForYou.com](http://www.theyworkforyou.com/),
