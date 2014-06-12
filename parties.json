@@ -1,0 +1,14 @@
+---
+layout: nil
+permalink: parties.json
+---
+
+[{% for party in site.data.parties %}  
+  {
+    "id": "{{ party.id }}",
+    "name": "{{ party.name }}",
+    "url": "/party/{{ party.id }}.html"
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
+
