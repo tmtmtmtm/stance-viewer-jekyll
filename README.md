@@ -1,4 +1,4 @@
-# Stancer
+# Stance Viewer for the UK
 
 ## Summary
 
@@ -28,14 +28,14 @@ and access that via the [VoteIt API](https://github.com/tmtmtmtm/voteit-api).
 The code for doing all that can be found in the 
 [voteit-data-pw](https://github.com/tmtmtmtm/voteit-data-pw) repo.
 
-2. From your [Stancer](https://github.com/tmtmtmtm/stancer-pw), copy
-   ``issues.json``, ``mpstances.json``, and ``partystances.json`` into
-the ``_data`` directory. (Note that currently Jekyll requires that you
-also rename these as .yaml files rather than .json!)
+2. Have your [Stancer](https://github.com/tmtmtmtm/stancer-pw) generate
+   static ``issues.json``, ``mpstances.json``, and ``partystances.json``, 
+and copy these into the ``_data`` directory.  (Note that currently Jekyll 
+requires that you also rename these as .yaml files rather than .json!)
 
 3. Generate stub pages for parties, people, and issues. Jekyll requires
-   a minimal template for each file you want to display, even if that
-will be generated entirely out of data. You can create these files
+a minimal template for each file you want to display, even if that
+will be calculated entirely from _data. You can create these files
 using:
     * ruby _bin/generate_mp_pages.rb
     * ruby _bin/generate_party_pages.rb
@@ -46,7 +46,7 @@ using:
 If you want to do your own version of this, feel free to dig into
 everything here and see how far you get (most of the logic is in the
 [layouts](_layouts/)), but you'll probably be better contacting me — at
-least until I write up a lot more of how all the parts hang together.
+least until I write up a lot more detail of how all the parts hang together.
 
 VoteIt and Popolo should cope well with lots of very different voting
 scenarios, but the Stancer is currently very UK specific. Splitting out a
