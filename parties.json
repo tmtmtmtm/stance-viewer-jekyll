@@ -1,6 +1,5 @@
 ---
 layout: nil
-permalink: parties.json
 ---
 
 [{% for party in site.data.parties %}  
